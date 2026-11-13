@@ -1,0 +1,396 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Institution validation</title>
+<style>
+:root {
+  --bg: #f6f5f1; --card: #ffffff; --text: #1d1f23; --muted: #666b74; --line: #d9d7d0;
+  --accent: #1f5a8a; --accent-text: #ffffff; --soft: #e8eef4; --ok: #2c7a4b; --warn: #9a5b00;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #17191c; --card: #212428; --text: #e8e8e6; --muted: #9aa0a8; --line: #3a3e44;
+    --accent: #7db4e0; --accent-text: #10202c; --soft: #2a323a; --ok: #6fca93; --warn: #e0a850;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--bg); color: var(--text);
+  font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+.wrap { max-width: 780px; margin: 0 auto; padding: 20px 16px 60px; }
+h1 { font-size: 1.25rem; margin: 0 0 4px; }
+h2 { font-size: 1.5rem; line-height: 1.25; margin: 6px 0 14px; overflow-wrap: anywhere; }
+h3 { font-size: .8rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin: 22px 0 8px; }
+p { margin: 0 0 10px; }
+a { color: var(--accent); }
+.muted { color: var(--muted); font-size: .9rem; }
+.top { display: flex; flex-wrap: wrap; gap: 10px 20px; align-items: end; justify-content: space-between; margin-bottom: 12px; }
+.top label { font-size: .85rem; color: var(--muted); display: block; }
+input[type=text], input[type=number], textarea {
+  font: inherit; color: var(--text); background: var(--card);
+  border: 1px solid var(--line); border-radius: 6px; padding: 7px 9px;
+}
+textarea { width: 100%; min-height: 60px; resize: vertical; }
+.bar { height: 8px; background: var(--line); border-radius: 4px; overflow: hidden; }
+.bar > div { height: 100%; width: 0; background: var(--accent); transition: width .2s; }
+.progress { display: flex; justify-content: space-between; font-size: .9rem; color: var(--muted); margin-top: 6px; }
+details.box, .card, .done {
+  background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 14px 18px; margin-top: 16px;
+}
+details.box summary { cursor: pointer; font-weight: 600; }
+details.box dl { margin: 10px 0 0; }
+details.box dt { font-weight: 600; margin-top: 8px; }
+details.box dd { margin: 0; color: var(--muted); }
+.card { padding: 18px 20px 20px; }
+.facts { display: grid; grid-template-columns: max-content 1fr; gap: 4px 16px; margin: 0; }
+.facts dt { color: var(--muted); }
+.facts dd { margin: 0; overflow-wrap: anywhere; }
+.links { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
+.links a {
+  text-decoration: none; border: 1px solid var(--line); border-radius: 6px; padding: 6px 12px; background: var(--soft);
+}
+.links a:hover { border-color: var(--accent); }
+.choices { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 8px; }
+button {
+  font: inherit; color: var(--text); background: var(--card); border: 1px solid var(--line);
+  border-radius: 8px; padding: 10px 12px; cursor: pointer; text-align: left;
+}
+.choices button { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+button:hover { border-color: var(--accent); }
+button:focus-visible, a:focus-visible, summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+button[aria-pressed=true] { background: var(--accent); border-color: var(--accent); color: var(--accent-text); font-weight: 600; }
+button kbd {
+  font: .75rem ui-monospace, Consolas, monospace; opacity: .65;
+  border: 1px solid currentColor; border-radius: 4px; padding: 0 5px;
+}
+.nav { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 22px; }
+.nav button { text-align: center; }
+.nav .primary { background: var(--accent); border-color: var(--accent); color: var(--accent-text); font-weight: 600; margin-left: auto; }
+.nav button:disabled { opacity: .4; cursor: default; }
+.tools { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-top: 22px; }
+.tools button { text-align: center; }
+.done { border-color: var(--ok); }
+.done strong { color: var(--ok); }
+.warn { color: var(--warn); font-size: .9rem; margin-top: 8px; }
+[hidden] { display: none !important; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="top">
+    <div>
+      <h1>Institution validation</h1>
+      <div class="muted">Assign a type and an ownership to each institution.</div>
+    </div>
+    <div>
+      <label for="validator">Your name</label>
+      <input type="text" id="validator" autocomplete="off">
+    </div>
+  </div>
+
+  <div class="bar"><div id="barfill"></div></div>
+  <div class="progress"><span id="ptext"></span><span id="saved"></span></div>
+  <div class="warn" id="nostorage" hidden>This browser does not allow saving progress. Download the results before closing the page.</div>
+
+  <div class="done" id="done" hidden>
+    <strong>All institutions are classified.</strong>
+    Download the results file and send it back by email.
+    <div class="tools" style="margin-top:10px"><button type="button" id="dl2">Download results (CSV)</button></div>
+  </div>
+
+  <details class="box" id="guide">
+    <summary>Instructions and category definitions</summary>
+    <p style="margin-top:10px">For each institution choose one type and one ownership, using the links to check what the organisation is. Classify the organisation as it is described today. If the available information is not sufficient, choose <em>Cannot tell</em>. Progress is saved in this browser, so the page can be closed and reopened. When finished, or at any time, download the results file and send it back by email.</p>
+    <p class="muted">Keyboard: 1 to 7 for the type, Q W E R for the ownership, Enter for the next institution, the left arrow for the previous one.</p>
+    <dl>
+      <dt>University</dt><dd>Higher education institution that grants degrees, including its faculties and schools.</dd>
+      <dt>Research institute</dt><dd>Organisation whose main activity is research and that does not grant degrees: public laboratories, non-profit institutes, corporate research laboratories registered as separate bodies.</dd>
+      <dt>Hospital</dt><dd>Hospital, clinic, medical centre or health system whose main activity is patient care, including university hospitals.</dd>
+      <dt>Company</dt><dd>For-profit firm.</dd>
+      <dt>Government agency</dt><dd>Ministry, department, regulator or other body of the public administration whose main activity is not research.</dd>
+      <dt>Other</dt><dd>Any other organisation: museums, libraries, archives, foundations and funders, associations, NGOs, schools.</dd>
+    </dl>
+    <dl>
+      <dt>Public</dt><dd>Owned, controlled or mainly funded by the state or by another public body.</dd>
+      <dt>Private</dt><dd>Owned or controlled by private parties, for-profit or non-profit.</dd>
+      <dt>Hybrid</dt><dd>Mixed public and private ownership or control, for example public-private partnerships and joint ventures.</dd>
+    </dl>
+  </details>
+
+  <div class="card">
+    <div class="muted" id="counter"></div>
+    <h2 id="name"></h2>
+    <dl class="facts" id="facts"></dl>
+    <div class="links" id="links"></div>
+
+    <h3>Type</h3>
+    <div class="choices" id="types"></div>
+
+    <h3>Ownership</h3>
+    <div class="choices" id="owns"></div>
+
+    <h3><label for="notes">Notes (optional)</label></h3>
+    <textarea id="notes"></textarea>
+
+    <div class="nav">
+      <button type="button" id="prev">&larr; Previous</button>
+      <button type="button" id="todo">Next unanswered</button>
+      <button type="button" id="next" class="primary">Next &rarr;</button>
+    </div>
+  </div>
+
+  <div class="tools">
+    <button type="button" id="dl">Download results (CSV)</button>
+    <button type="button" id="load">Load a saved results file</button>
+    <input type="file" id="file" accept=".csv,text/csv" hidden>
+    <span class="muted">Go to <input type="number" id="goto" min="1" style="width:5.5em"></span>
+  </div>
+  <div class="warn" id="msg" hidden></div>
+
+</div>
+
+<script src="campione.js"></script>
+<script>
+const TYPES = [
+  ["university", "University"], ["research_institute", "Research institute"], ["hospital", "Hospital"],
+  ["company", "Company"], ["government_agency", "Government agency"], ["other", "Other"], ["cannot_tell", "Cannot tell"],
+];
+const OWNS = [["public", "Public"], ["private", "Private"], ["hybrid", "Hybrid"], ["cannot_tell", "Cannot tell"]];
+const TYPE_KEYS = "1234567";
+const OWN_KEYS = "qwer";
+const STORE = "institution_validation_v1";
+const IDS = new Set(SAMPLE.map(s => s.id));
+const $ = id => document.getElementById(id);
+
+let state = { validator: "", pos: 0, answers: {} };
+try {
+  const old = JSON.parse(localStorage.getItem(STORE));
+  if (old && old.answers) state = old;
+} catch (e) {}
+if (!(state.pos >= 0 && state.pos < SAMPLE.length)) state.pos = 0;
+
+function save() {
+  try {
+    localStorage.setItem(STORE, JSON.stringify(state));
+    $("saved").textContent = "Saved in this browser";
+  } catch (e) {
+    $("nostorage").hidden = false;
+  }
+}
+
+function complete(id) {
+  const a = state.answers[id];
+  return Boolean(a && a.type && a.ownership);
+}
+
+function countryName(code) {
+  try { return new Intl.DisplayNames(["en"], { type: "region" }).of(code) || code; } catch (e) { return code; }
+}
+
+function link(label, url) {
+  const a = document.createElement("a");
+  a.textContent = label + " ↗";
+  a.href = url;
+  a.target = "_blank";
+  a.rel = "noopener noreferrer";
+  return a;
+}
+
+function makeButtons(box, options, keys, field) {
+  options.forEach(([value, label], i) => {
+    const b = document.createElement("button");
+    b.type = "button";
+    b.dataset.value = value;
+    b.append(label);
+    const k = document.createElement("kbd");
+    k.textContent = keys[i].toUpperCase();
+    b.append(k);
+    b.addEventListener("click", () => choose(field, value));
+    box.append(b);
+  });
+}
+
+function choose(field, value) {
+  const id = SAMPLE[state.pos].id;
+  if (!Object.keys(state.answers).length) $("guide").open = false;
+  const a = state.answers[id] || (state.answers[id] = { type: "", ownership: "", notes: "", at: "" });
+  a[field] = a[field] === value ? "" : value;
+  a.at = new Date().toISOString();
+  save();
+  render();
+}
+
+function render() {
+  const s = SAMPLE[state.pos];
+  const a = state.answers[s.id] || {};
+
+  $("counter").textContent = `Institution ${state.pos + 1} of ${SAMPLE.length} · ${s.id}`;
+  $("name").textContent = s.name;
+
+  const facts = $("facts");
+  facts.replaceChildren();
+  const place = [s.city, s.region && s.region !== s.city ? s.region : ""].filter(Boolean).join(", ");
+  [["Country", s.country ? countryName(s.country) : ""], ["City", place], ["Founded", s.founded], ["Part of", s.parents]]
+    .filter(f => f[1])
+    .forEach(([k, v]) => {
+      const dt = document.createElement("dt"); dt.textContent = k;
+      const dd = document.createElement("dd"); dd.textContent = v;
+      facts.append(dt, dd);
+    });
+
+  const links = $("links");
+  links.replaceChildren();
+  if (/^https?:\/\//i.test(s.website)) links.append(link("Website", s.website));
+  if (/^https?:\/\//i.test(s.wikipedia)) links.append(link("Wikipedia", s.wikipedia));
+  const q = [s.name, s.city].filter(Boolean).join(" ");
+  links.append(link("Web search", "https://www.google.com/search?q=" + encodeURIComponent(q)));
+
+  document.querySelectorAll("#types button").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.value === a.type)));
+  document.querySelectorAll("#owns button").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.value === a.ownership)));
+  $("notes").value = a.notes || "";
+
+  const n = SAMPLE.filter(x => complete(x.id)).length;
+  $("ptext").textContent = `${n} of ${SAMPLE.length} classified`;
+  $("barfill").style.width = (100 * n / SAMPLE.length) + "%";
+  $("done").hidden = n < SAMPLE.length;
+  $("prev").disabled = state.pos === 0;
+  $("next").disabled = state.pos === SAMPLE.length - 1;
+  $("todo").disabled = n === SAMPLE.length;
+  $("goto").max = SAMPLE.length;
+  $("goto").value = state.pos + 1;
+}
+
+function go(pos) {
+  if (pos < 0 || pos >= SAMPLE.length) return;
+  state.pos = pos;
+  save();
+  render();
+  window.scrollTo({ top: 0 });
+}
+
+function nextUnanswered() {
+  for (let k = 1; k <= SAMPLE.length; k++) {
+    const p = (state.pos + k) % SAMPLE.length;
+    if (!complete(SAMPLE[p].id)) return go(p);
+  }
+}
+
+function csvCell(v) {
+  v = String(v == null ? "" : v);
+  return /[",;\n\r]/.test(v) ? '"' + v.replace(/"/g, '""') + '"' : v;
+}
+
+function download() {
+  const head = ["sample_id", "name", "type", "ownership", "notes", "answered_at", "validator"];
+  const rows = SAMPLE.map(s => {
+    const a = state.answers[s.id] || {};
+    return [s.id, s.name, a.type, a.ownership, a.notes, a.at, state.validator];
+  });
+  const text = "﻿" + [head, ...rows].map(r => r.map(csvCell).join(",")).join("\r\n") + "\r\n";
+  const who = state.validator.trim().toLowerCase().replace(/[^a-z0-9]+/g, "_").replace(/^_|_$/g, "");
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(new Blob([text], { type: "text/csv;charset=utf-8" }));
+  a.download = `validation_${who || "results"}_${new Date().toISOString().slice(0, 10)}.csv`;
+  document.body.append(a);
+  a.click();
+  a.remove();
+  setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+}
+
+function parseCSV(text) {
+  text = text.replace(/^﻿/, "");
+  const first = text.split(/\r?\n/, 1)[0];
+  const sep = first.includes(";") && !first.includes(",") ? ";" : ",";
+  const rows = [];
+  let row = [], cell = "", quoted = false;
+  for (let i = 0; i < text.length; i++) {
+    const c = text[i];
+    if (quoted) {
+      if (c === '"' && text[i + 1] === '"') { cell += '"'; i++; }
+      else if (c === '"') quoted = false;
+      else cell += c;
+    } else if (c === '"') quoted = true;
+    else if (c === sep) { row.push(cell); cell = ""; }
+    else if (c === "\n" || c === "\r") {
+      if (c === "\r" && text[i + 1] === "\n") i++;
+      row.push(cell); rows.push(row); row = []; cell = "";
+    } else cell += c;
+  }
+  if (cell !== "" || row.length) { row.push(cell); rows.push(row); }
+  return rows;
+}
+
+function importFile(text) {
+  const rows = parseCSV(text);
+  const head = rows.shift() || [];
+  const col = name => head.indexOf(name);
+  const okType = new Set(TYPES.map(t => t[0])), okOwn = new Set(OWNS.map(o => o[0]));
+  let n = 0;
+  if (col("sample_id") >= 0 && col("type") >= 0 && col("ownership") >= 0) {
+    rows.forEach(r => {
+      const id = r[col("sample_id")];
+      const type = okType.has(r[col("type")]) ? r[col("type")] : "";
+      const ownership = okOwn.has(r[col("ownership")]) ? r[col("ownership")] : "";
+      const notes = col("notes") >= 0 ? r[col("notes")] || "" : "";
+      if (!IDS.has(id) || !(type || ownership || notes)) return;
+      state.answers[id] = { type, ownership, notes, at: (col("answered_at") >= 0 && r[col("answered_at")]) || "" };
+      if (!state.validator && col("validator") >= 0) state.validator = r[col("validator")] || "";
+      n++;
+    });
+  }
+  const msg = $("msg");
+  msg.hidden = false;
+  msg.textContent = n ? `Loaded ${n} answers from the file.` : "No answers found in this file.";
+  if (n) {
+    $("validator").value = state.validator;
+    save();
+    render();
+  }
+}
+
+makeButtons($("types"), TYPES, TYPE_KEYS, "type");
+makeButtons($("owns"), OWNS, OWN_KEYS, "ownership");
+
+$("validator").value = state.validator || "";
+$("validator").addEventListener("input", e => { state.validator = e.target.value; save(); });
+$("notes").addEventListener("input", e => {
+  const id = SAMPLE[state.pos].id;
+  const a = state.answers[id] || (state.answers[id] = { type: "", ownership: "", notes: "", at: "" });
+  a.notes = e.target.value;
+  save();
+});
+$("prev").addEventListener("click", () => go(state.pos - 1));
+$("next").addEventListener("click", () => go(state.pos + 1));
+$("todo").addEventListener("click", nextUnanswered);
+$("dl").addEventListener("click", download);
+$("dl2").addEventListener("click", download);
+$("load").addEventListener("click", () => $("file").click());
+$("file").addEventListener("change", e => {
+  const f = e.target.files[0];
+  if (f) f.text().then(importFile);
+  e.target.value = "";
+});
+$("goto").addEventListener("change", e => go(Number(e.target.value) - 1));
+
+document.addEventListener("keydown", e => {
+  if (e.ctrlKey || e.metaKey || e.altKey) return;
+  if (/^(INPUT|TEXTAREA|SUMMARY)$/.test(e.target.tagName)) return;
+  const k = e.key.toLowerCase();
+  // Enter on a navigation or tool button keeps its normal meaning
+  if (k === "enter" && e.target.tagName === "BUTTON" && !e.target.closest(".choices")) return;
+  if (TYPE_KEYS.includes(k)) choose("type", TYPES[TYPE_KEYS.indexOf(k)][0]);
+  else if (OWN_KEYS.includes(k)) choose("ownership", OWNS[OWN_KEYS.indexOf(k)][0]);
+  else if (k === "enter" || k === "arrowright") { e.preventDefault(); go(state.pos + 1); }
+  else if (k === "arrowleft") go(state.pos - 1);
+});
+
+if (!Object.keys(state.answers).length) $("guide").open = true;
+render();
+</script>
+</body>
+</html>
