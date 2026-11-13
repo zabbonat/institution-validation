@@ -16,4 +16,8 @@ Files:
 
 - `index.html`: the page, with no external dependencies
 - `campione.js`: the sample (name, country, city, founding year, parent
-  organisation, website, Wikipedia page)
+  organisation, website, Wikipedia page and, when there is one, the
+  introduction of the Wikipedia article)
+
+The Wikipedia excerpts are reproduced under the CC BY-SA 4.0 licence; each one
+is shown with a link to the article it comes from.

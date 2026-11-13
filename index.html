@@ -49,6 +49,8 @@ details.box dd { margin: 0; color: var(--muted); }
 .facts { display: grid; grid-template-columns: max-content 1fr; gap: 4px 16px; margin: 0; }
 .facts dt { color: var(--muted); }
 .facts dd { margin: 0; overflow-wrap: anywhere; }
+.wiki { margin-top: 14px; padding: 10px 14px; background: var(--soft); border-left: 3px solid var(--accent); border-radius: 0 6px 6px 0; }
+.wiki p { margin: 4px 0 0; white-space: pre-line; overflow-wrap: anywhere; }
 .links { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
 .links a {
   text-decoration: none; border: 1px solid var(--line); border-radius: 6px; padding: 6px 12px; background: var(--soft);
@@ -126,6 +128,10 @@ button kbd {
     <div class="muted" id="counter"></div>
     <h2 id="name"></h2>
     <dl class="facts" id="facts"></dl>
+    <div class="wiki" id="wiki" hidden>
+      <div class="muted">From Wikipedia</div>
+      <p id="wikitext"></p>
+    </div>
     <div class="links" id="links"></div>
 
     <h3>Type</h3>
@@ -242,6 +248,9 @@ function render() {
       const dd = document.createElement("dd"); dd.textContent = v;
       facts.append(dt, dd);
     });
+
+  $("wiki").hidden = !s.wiki_text;
+  $("wikitext").textContent = s.wiki_text || "";
 
   const links = $("links");
   links.replaceChildren();

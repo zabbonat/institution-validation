@@ -8,7 +8,8 @@ const SAMPLE = [
 "founded": "2008",
 "parents": "",
 "website": "http://www.ksitri.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V002",
@@ -19,7 +20,8 @@ const SAMPLE = [
 "founded": "1989",
 "parents": "Stockholm Environment Institute",
 "website": "https://www.sei.org/centres/asia/",
-"wikipedia": "https://en.wikipedia.org/wiki/Stockholm_Environment_Institute"
+"wikipedia": "https://en.wikipedia.org/wiki/Stockholm_Environment_Institute",
+"wiki_text": "Stockholm Environment Institute, or SEI, is a non-profit, independent research and policy institute specialising in sustainable development and environmental issues, with seven affiliate offices around the world. SEI works on climate change, energy systems, water resources, air quality, land-use, sanitation, food security, and trade issues with the aim to shift policy and practice towards sustainability.\nSEI wants to support decision-making and induce change towards sustainable development around the world by providing knowledge that bridges science and policy in the field of environment and development.\nThe institute's name derives from the Stockholm Declaration, adopted at the UN Conference on the Human Environment in Stockholm in 1972 — the first UN conference on the connections between human development and the environment — whose principles it was founded upon. These principles have since been reiterated and developed further in forums including the 1987 Brundtland Commission, the 1992 Rio Summit, and the 2015 articulation of the 2030 Agenda for Sustainable Development. SEI's strategy for the period 2025–2029, \"Transitions in turbulent times\", focuses on three main impact areas: climate transitions, nature and resources, and health and wellbeing."
 },
 {
 "id": "V003",
@@ -30,7 +32,8 @@ const SAMPLE = [
 "founded": "1997",
 "parents": "",
 "website": "http://www.opti.org",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V004",
@@ -41,7 +44,8 @@ const SAMPLE = [
 "founded": "1959",
 "parents": "",
 "website": "http://albertellis.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V005",
@@ -52,7 +56,8 @@ const SAMPLE = [
 "founded": "1993",
 "parents": "Sistema Nazionale per la Protezione dell'Ambiente",
 "website": "https://www.arpa.piemonte.it",
-"wikipedia": "https://en.wikipedia.org/wiki/Regional_Environmental_Protection_Agency"
+"wikipedia": "https://en.wikipedia.org/wiki/Regional_Environmental_Protection_Agency",
+"wiki_text": "The Regional Environmental Protection Agency (Italian: Agenzia regionale per la protezione ambientale), commonly shortened to ARPA, is the Italian environmental agency, one for each region of Italy (excluding Trentino-Alto Adige/Südtirol, which has been split for the two Autonomous Provinces of Trento and Bolzano)."
 },
 {
 "id": "V006",
@@ -63,7 +68,8 @@ const SAMPLE = [
 "founded": "1973",
 "parents": "",
 "website": "https://theabcdinc.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V007",
@@ -74,7 +80,8 @@ const SAMPLE = [
 "founded": "1964",
 "parents": "",
 "website": "https://www.yufliclh.edu.mm/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V008",
@@ -85,7 +92,8 @@ const SAMPLE = [
 "founded": "1912",
 "parents": "",
 "website": "https://www.geoscience.org.za",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V009",
@@ -96,7 +104,8 @@ const SAMPLE = [
 "founded": "2016",
 "parents": "Inserm; Université de Bordeaux",
 "website": "https://mrgm.fr",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V010",
@@ -107,7 +116,8 @@ const SAMPLE = [
 "founded": "1976",
 "parents": "",
 "website": "https://www.wcpss.net/",
-"wikipedia": "https://en.wikipedia.org/wiki/Wake_County_Public_School_System"
+"wikipedia": "https://en.wikipedia.org/wiki/Wake_County_Public_School_System",
+"wiki_text": "The Wake County Public School System (WCPSS) is a public school district located in Wake County, North Carolina. With 159,995 students in average daily membership and 198 schools as of the 2023–24 school year, it is the largest public school district in North Carolina and 14th-largest in the United States as of 2016.\nAll of Wake County is in this school district.\nTo see the list of schools and their statistics, see List of schools in the Wake County Public School System."
 },
 {
 "id": "V011",
@@ -118,7 +128,8 @@ const SAMPLE = [
 "founded": "2000",
 "parents": "National Research Council",
 "website": "http://www.ismn.cnr.it/index.php?lang=en",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V012",
@@ -129,7 +140,8 @@ const SAMPLE = [
 "founded": "1978",
 "parents": "",
 "website": "http://www.ccras.nic.in/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V013",
@@ -140,7 +152,8 @@ const SAMPLE = [
 "founded": "1980",
 "parents": "",
 "website": "http://inr.org.za/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V014",
@@ -151,7 +164,8 @@ const SAMPLE = [
 "founded": "2008",
 "parents": "Centre National de la Recherche Scientifique; Ministry of Antiquities",
 "website": "http://www.cfeetk.cnrs.fr",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V015",
@@ -162,7 +176,8 @@ const SAMPLE = [
 "founded": "2017",
 "parents": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement; École Supérieure d'Agriculture; Institut Agro Rennes-Angers",
 "website": "http://www.groupe-esa.com/recherche/la-recherche-a-lesa/nos-unites-de-recherche/bagap-une-unite-en-renouvellement/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V016",
@@ -173,7 +188,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://www.scotland.k12.nc.us",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V017",
@@ -184,7 +200,8 @@ const SAMPLE = [
 "founded": "1757",
 "parents": "",
 "website": "https://www.spitalspiridon.ro/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V018",
@@ -195,7 +212,8 @@ const SAMPLE = [
 "founded": "1838",
 "parents": "",
 "website": "http://www.nesna.kommune.no/",
-"wikipedia": "https://en.wikipedia.org/wiki/Nesna"
+"wikipedia": "https://en.wikipedia.org/wiki/Nesna",
+"wiki_text": "Nesna may refer to:"
 },
 {
 "id": "V019",
@@ -206,7 +224,8 @@ const SAMPLE = [
 "founded": "2001",
 "parents": "GlaxoSmithKline (United Kingdom)",
 "website": "http://www.gsk.ca/english/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V020",
@@ -217,7 +236,8 @@ const SAMPLE = [
 "founded": "2011",
 "parents": "014cxe167",
 "website": "http://www.clinatec.fr/en/",
-"wikipedia": "https://en.wikipedia.org/wiki/Clinatec"
+"wikipedia": "https://en.wikipedia.org/wiki/Clinatec",
+"wiki_text": "Clinatec is a biomedical research center based at the Polygone Scientifique in Grenoble. Doctors, biologists and micro- and nanotechnology experts work side by side at the 6,000 m2 facility. Around a hundred researchers and employees work at the center. When it opened at the end of 2011, it was hailed as the first center of its kind in the world. With six hospital rooms, cutting-edge medical imaging equipment and an operating suite, Clinatec was developed by the Research Division of the CEA (French Alternative Energies and Atomic Energy Commission), Grenoble-Alpes University Hospital (CHU), Inserm and the Université Grenoble Alpes. The primary focus is on cancer, neurodegenerative diseases and disability."
 },
 {
 "id": "V021",
@@ -228,7 +248,8 @@ const SAMPLE = [
 "founded": "1977",
 "parents": "",
 "website": "http://www.ift.org.uk/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V022",
@@ -239,7 +260,8 @@ const SAMPLE = [
 "founded": "2009",
 "parents": "Bangladesh Centre for Advanced Studies; Independent University; International Institute for Environment and Development",
 "website": "http://www.icccad.net/",
-"wikipedia": "https://en.wikipedia.org/wiki/International_Centre_for_Climate_Change_and_Development"
+"wikipedia": "https://en.wikipedia.org/wiki/International_Centre_for_Climate_Change_and_Development",
+"wiki_text": "International Centre for Climate Change and Development  (ICCCAD) is an environmental research institute established in 2009 through a joint collaboration between IIED (UK), Bangladesh Centre for Advanced Studies, and Independent University, Bangladesh (IUB). The centre is based in the campus of IUB, Dhaka. The director of the centre was Saleemul Huq.\nIt now also hosts the Bangladesh Academy for Climate Services (BACS)."
 },
 {
 "id": "V023",
@@ -250,7 +272,8 @@ const SAMPLE = [
 "founded": "1995",
 "parents": "",
 "website": "http://www.avac.org/",
-"wikipedia": "https://en.wikipedia.org/wiki/AIDS_Vaccine_Advocacy_Coalition"
+"wikipedia": "https://en.wikipedia.org/wiki/AIDS_Vaccine_Advocacy_Coalition",
+"wiki_text": "AVAC is a New York City-based international non-profit community- and consumer-based organization working to accelerate ethical development and delivery of AIDS vaccines and other HIV prevention options to populations throughout the world."
 },
 {
 "id": "V024",
@@ -261,7 +284,8 @@ const SAMPLE = [
 "founded": "1970",
 "parents": "",
 "website": "http://www.mayland.edu/",
-"wikipedia": "https://en.wikipedia.org/wiki/Mayland_Community_College"
+"wikipedia": "https://en.wikipedia.org/wiki/Mayland_Community_College",
+"wiki_text": "Mayland Community College is a public community college in Spruce Pine, North Carolina.  The college also operates learning centers in Newland and Burnsville, North Carolina. The college's name is derived from the three counties it primarily serves: Mitchell, Avery, and Yancey. It is part of the North Carolina Community College System.\nMayland Community College was first chartered as Mayland Technical Institute in February 1970 by the General Assembly of North Carolina upon recommendations by the State Board of Education, the Advisory Budget Commission, and Governor Robert W. Scott. The president of the college has been Aron Gabriel since January 2026.\nMayland offers a variety of curriculum programs, including numerous college transfer options, as well as nursing, adult education, distance learning, and dual enrollment for high school students. To assist the local workforce, MCC provides workforce development and continuing education courses that directly serve the needs of local and regional businesses and industries, as well as the civic and cultural interests of the community."
 },
 {
 "id": "V025",
@@ -272,7 +296,8 @@ const SAMPLE = [
 "founded": "1975",
 "parents": "University System of Ohio",
 "website": "http://www.sscc.edu/",
-"wikipedia": "https://en.wikipedia.org/wiki/Southern_State_Community_College"
+"wikipedia": "https://en.wikipedia.org/wiki/Southern_State_Community_College",
+"wiki_text": "Southern State Community College (SSCC) is a public community college based in Hillsboro, Ohio, United States. SSCC has two campuses, with one in Mount Orab (\"Brown County campus\") and the other in Hillsboro (\"Central campus\"). Southern State Community College was founded in February 1975 as Southern State General and Technical College. The name of the school was changed only a few years later in 1977 to the name by which it is known now.  The institution is a member of the Strategic Ohio Council for Higher Education (SOCHE)."
 },
 {
 "id": "V026",
@@ -283,7 +308,8 @@ const SAMPLE = [
 "founded": "1997",
 "parents": "",
 "website": "https://setiabudi.ac.id",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V027",
@@ -294,7 +320,8 @@ const SAMPLE = [
 "founded": "1881",
 "parents": "",
 "website": "http://www.maff.go.jp/e/",
-"wikipedia": "https://en.wikipedia.org/wiki/Ministry_of_Agriculture,_Forestry_and_Fisheries_(Japan)"
+"wikipedia": "https://en.wikipedia.org/wiki/Ministry_of_Agriculture,_Forestry_and_Fisheries_(Japan)",
+"wiki_text": "The Ministry of Agriculture, Forestry and Fisheries (農林水産省, Nōrin-suisan-shō; MAFF) is a cabinet level ministry in the government of Japan responsible for oversight of the agriculture, forestry and fishing industries. Its acronym is MAFF. The current Minister of Agriculture, Forestry and Fisheries is Norikazu Suzuki."
 },
 {
 "id": "V028",
@@ -305,7 +332,8 @@ const SAMPLE = [
 "founded": "1948",
 "parents": "Polish Academy of Sciences",
 "website": "https://www.impan.pl/en",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V029",
@@ -316,7 +344,8 @@ const SAMPLE = [
 "founded": "2021",
 "parents": "",
 "website": "https://dou.edu.ng",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V030",
@@ -327,7 +356,8 @@ const SAMPLE = [
 "founded": "2017",
 "parents": "",
 "website": "https://www.flexterracorp.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V031",
@@ -338,7 +368,8 @@ const SAMPLE = [
 "founded": "2002",
 "parents": "",
 "website": "http://www.bac2.co.uk/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V032",
@@ -349,7 +380,8 @@ const SAMPLE = [
 "founded": "1970",
 "parents": "",
 "website": "https://colegiocun.com.mx/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V033",
@@ -360,7 +392,8 @@ const SAMPLE = [
 "founded": "2004",
 "parents": "Consejo Superior de Investigaciones Científicas",
 "website": "https://www.ica.csic.es",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V034",
@@ -371,7 +404,8 @@ const SAMPLE = [
 "founded": "1965",
 "parents": "",
 "website": "http://www.weil4feet.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V035",
@@ -382,7 +416,8 @@ const SAMPLE = [
 "founded": "1928",
 "parents": "Academia Sinica",
 "website": "http://www.iias.sinica.edu.tw/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V036",
@@ -393,7 +428,8 @@ const SAMPLE = [
 "founded": "1983",
 "parents": "",
 "website": "https://mcphd.net/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V037",
@@ -404,7 +440,8 @@ const SAMPLE = [
 "founded": "2009",
 "parents": "Ministry of Social Affairs and Health",
 "website": "http://www.fimea.fi/web/en",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V038",
@@ -415,7 +452,8 @@ const SAMPLE = [
 "founded": "1933",
 "parents": "",
 "website": "http://www.fujimoto-pharm.co.jp/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V039",
@@ -426,7 +464,8 @@ const SAMPLE = [
 "founded": "1996",
 "parents": "",
 "website": "https://www.tcomn.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V040",
@@ -437,7 +476,8 @@ const SAMPLE = [
 "founded": "1990",
 "parents": "",
 "website": "http://www.paraplegie.ch/en/pub/spz.htm",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V041",
@@ -448,7 +488,8 @@ const SAMPLE = [
 "founded": "1990",
 "parents": "",
 "website": "http://www.kosgeb.gov.tr/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V042",
@@ -459,7 +500,8 @@ const SAMPLE = [
 "founded": "1948",
 "parents": "",
 "website": "https://komendacollege.edu.gh",
-"wikipedia": "https://en.wikipedia.org/wiki/Komenda_College_of_Education"
+"wikipedia": "https://en.wikipedia.org/wiki/Komenda_College_of_Education",
+"wiki_text": "Komenda College of Education is a co-educational teacher education college in Komenda, Central Region (Ghana). It is one of the 46 public colleges of education in Ghana and participated in the DFID-funded Transforming Teacher Education and Learning Ghana (T-TEL) programme. In 2017, Komenda CoE implemented a project to go paperless. The Principal is Rev. Prof. Kwesi Nkum Wilson."
 },
 {
 "id": "V043",
@@ -470,7 +512,8 @@ const SAMPLE = [
 "founded": "1996",
 "parents": "",
 "website": "http://colcomfdn.org/",
-"wikipedia": "https://en.wikipedia.org/wiki/Colcom_Foundation"
+"wikipedia": "https://en.wikipedia.org/wiki/Colcom_Foundation",
+"wiki_text": "Colcom Foundation is a private foundation established in 1996 by Cordelia Scaife May, a Mellon family heiress. The foundation is a major funding source for anti-immigration organizations located within the United States, while also focusing on population control, environmental conservation, and civic and environmental projects, especially in the Pittsburgh, Pennsylvania area where it is based."
 },
 {
 "id": "V044",
@@ -481,7 +524,8 @@ const SAMPLE = [
 "founded": "1956",
 "parents": "",
 "website": "https://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/home",
-"wikipedia": "https://en.wikipedia.org/wiki/International_Finance_Corporation"
+"wikipedia": "https://en.wikipedia.org/wiki/International_Finance_Corporation",
+"wiki_text": "The International Finance Corporation (IFC) is an international financial institution that offers investment, advisory, and asset management services to encourage private sector development in developing countries. It is a member of the World Bank Group and is headquartered in Washington, D.C.\nIFC is the largest global development institution focused exclusively on the private sector in emerging markets and developing economies. As of 2025 it operates in more than 100 countries, employs over 3,400 staff — approximately half stationed in field offices — and has 186 member countries. In fiscal year 2025 (ended June 30, 2025), IFC committed a record $71.7 billion in total investment across its own-account and mobilized capital, making it one of the largest providers of development finance globally. IFC holds AAA/Aaa long-term credit ratings from Moody's, S&P Global, and Fitch, with stable outlooks.\nIFC was established in 1956 as a sister institution to the International Bank for Reconstruction and Development (IBRD) to channel private capital into productive investment in the developing world. Unlike the World Bank, which lends to governments, IFC finances private enterprises without requiring government guarantees. Its stated mission is to promote economic development in emerging markets by supporting private sector growth, generating employment, and mobilizing private investment. The private sector creates nine out of ten jobs in developing economies — a figure IFC uses as ..."
 },
 {
 "id": "V045",
@@ -492,7 +536,8 @@ const SAMPLE = [
 "founded": "1991",
 "parents": "",
 "website": "http://www.ehs-dresden.de/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V046",
@@ -503,7 +548,8 @@ const SAMPLE = [
 "founded": "1933",
 "parents": "",
 "website": "http://www.bfi.org.uk/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V047",
@@ -514,7 +560,8 @@ const SAMPLE = [
 "founded": "2004",
 "parents": "Alberta Health Services",
 "website": "https://albertaboneandjoint.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V048",
@@ -525,7 +572,8 @@ const SAMPLE = [
 "founded": "1955",
 "parents": "",
 "website": "http://www.xjlky.cn",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V049",
@@ -536,7 +584,8 @@ const SAMPLE = [
 "founded": "1980",
 "parents": "",
 "website": "https://www.austinregionalclinic.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V050",
@@ -547,7 +596,8 @@ const SAMPLE = [
 "founded": "1939",
 "parents": "",
 "website": "https://glamarchives.gov.uk/",
-"wikipedia": "https://en.wikipedia.org/wiki/Glamorgan_Archives"
+"wikipedia": "https://en.wikipedia.org/wiki/Glamorgan_Archives",
+"wiki_text": "The Glamorgan Archives (Welsh: Archifau Morgannwg), previously known as the Glamorgan Record Office, is a county record office and repository based in Leckwith, Cardiff, Wales. It holds records for the whole of the historic county of Glamorgan but primarily for the post 1974 counties of Mid and South Glamorgan."
 },
 {
 "id": "V051",
@@ -558,7 +608,8 @@ const SAMPLE = [
 "founded": "1912",
 "parents": "",
 "website": "http://www.zusnitra.sk/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V052",
@@ -569,7 +620,8 @@ const SAMPLE = [
 "founded": "1990",
 "parents": "",
 "website": "http://www.cem.es/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V053",
@@ -580,7 +632,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "Direction de la Recherche Fondamentale; Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
 "website": "http://irfu.cea.fr/",
-"wikipedia": "https://en.wikipedia.org/wiki/Institut_de_recherche_sur_les_lois_fondamentales_de_l%27Univers"
+"wikipedia": "https://en.wikipedia.org/wiki/Institut_de_recherche_sur_les_lois_fondamentales_de_l%27Univers",
+"wiki_text": "The Institute of research into the fundamental laws of the Universe (French: Institut de recherche sur les lois fondamentales de l'Univers), abbreviated as IRFU or CEA Irfu and formerly called Dapnia, is a research establishment in astrophysics, nuclear physics, particle physics and associated technical expertise. It is part of the Atomic Energy and Alternative Energies Commission (CEA) in Saclay and employs nearly 1,000 people and supervises around a hundred doctoral students. It is attached to the Department of Fundamental Research (DRF) of the CEA.\nIrfu physicists, engineers and technicians work in particular to understand the world from the infinitely small through the study of the standard model of particle physics to that of the infinitely large such as the structuring of the Universe via experimental observations coupled with large-scale simulations."
 },
 {
 "id": "V054",
@@ -591,7 +644,8 @@ const SAMPLE = [
 "founded": "1914",
 "parents": "NHS Highland",
 "website": "http://www.nhshighland.scot.nhs.uk/Services/Pages/DrMacKinnonMemorialHospitalBroadfordHospital.aspx",
-"wikipedia": "https://en.wikipedia.org/wiki/Mackinnon_Memorial_Hospital"
+"wikipedia": "https://en.wikipedia.org/wiki/Mackinnon_Memorial_Hospital",
+"wiki_text": "The former Mackinnon Memorial Hospital building is now vacant; it sits adjacent to the new Broadford Hospital, all services having moved into this new purpose built building in March 2022. It was a community hospital, located in the village of Broadford on the Isle of Skye. It was managed by NHS Highland."
 },
 {
 "id": "V055",
@@ -602,7 +656,8 @@ const SAMPLE = [
 "founded": "1959",
 "parents": "",
 "website": "https://www.brgm.fr",
-"wikipedia": "https://en.wikipedia.org/wiki/Bureau_de_Recherches_G%C3%A9ologiques_et_Mini%C3%A8res"
+"wikipedia": "https://en.wikipedia.org/wiki/Bureau_de_Recherches_G%C3%A9ologiques_et_Mini%C3%A8res",
+"wiki_text": "BRGM is France's public reference institution in Earth Science applications for the management of surface and subsurface resources and risks. It also deals with geological surveys of French territory.\nBRGM was founded in 1959. It is a public establishment of an industrial and commercial nature (EPIC). It reports to the ministries in charge of research, ecology, and economical matters. It is based in the French prefecture of Orléans. Michèle Rousseau is its chair and managing director and Christophe Poinssot its deputy managing director.\nBRGM's scope covers several activities such as scientific research expertise, innovation and transfer, analysis and experimentation, mining risk prevention and safety, higher education, ongoing vocational training, dissemination of knowledge and open science. It employs more than 1,000 people, including over 700 engineers and researchers, at its 27 regional branches in Metropolitan France and French overseas territories. Its teams operate in about thirty countries.\nBRGM's scientific strategy is based on six major scientific and societal challenges: geology and knowledge of the subsurface, management of groundwater, risks and spatial planning, mineral resources and the circular economy, energy transition and underground space, data, digital services and infrastructure."
 },
 {
 "id": "V056",
@@ -613,7 +668,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://www.misono-jc.ac.jp",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V057",
@@ -624,7 +680,8 @@ const SAMPLE = [
 "founded": "1980",
 "parents": "",
 "website": "https://www.sarnofffoundation.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V058",
@@ -635,7 +692,8 @@ const SAMPLE = [
 "founded": "2008",
 "parents": "",
 "website": "https://ucc.dk/",
-"wikipedia": "https://en.wikipedia.org/wiki/University_College_Capital"
+"wikipedia": "https://en.wikipedia.org/wiki/University_College_Capital",
+"wiki_text": "The University College UCC was an educational organization whose primary task was to offer professional bachelor's degrees and continuing education to the public and private sectors. It was based in the Copenhagen area, Hillerød and on Bornholm. In 2018, the University College merged with the University College Metropol and became the University College of Copenhagen (Københavns Professionshøjskole)."
 },
 {
 "id": "V059",
@@ -646,7 +704,8 @@ const SAMPLE = [
 "founded": "2003",
 "parents": "",
 "website": "http://www.kanc.re.kr/eng/main.do",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V060",
@@ -657,7 +716,8 @@ const SAMPLE = [
 "founded": "2007",
 "parents": "",
 "website": "http://www.anff.org.au/",
-"wikipedia": "https://en.wikipedia.org/wiki/Australian_National_Fabrication_Facility"
+"wikipedia": "https://en.wikipedia.org/wiki/Australian_National_Fabrication_Facility",
+"wiki_text": "Australian National Fabrication Facility (ANFF) has its headquarters at the Melbourne Centre for Nanofabrication in Clayton, Victoria. It is an organization that links eight corresponding university-based nodes to offer researchers with access to up to date fabrication facilities.\nEach of the eight nodes provide capability in a specific range of areas to meet researchers’ different fabrication needs. The nodes consists of different partners as listed below.\nVictorian Node (Melbourne Centre for Nanofabrication):\n\nMonash University\nCSIRO\nDeakin University\nLa Trobe University\nUniversity of Melbourne\nSwinburne University of Technology\nRMIT University\nVictoria University\nACT Node:\n\nAustralian National University\nQueensland Node:\n\nUniversity of Queensland\nGriffith University\nNSW Node:\n\nUniversity of New South Wales\nSouth Australia Node:\n\nUniversity of South Australia\nFlinders University\nOptoFab Node:\n\nMacquarie University\nUniversity of Adelaide\nUniversity of Sydney\nWestern Australian Node:\n\nUniversity of Western Australia\nMaterials Node:\n\nUniversity of Wollongong\nUniversity of Newcastle"
 },
 {
 "id": "V061",
@@ -668,7 +728,8 @@ const SAMPLE = [
 "founded": "1907",
 "parents": "",
 "website": "http://www.nisshinbo.co.jp/english/",
-"wikipedia": "https://en.wikipedia.org/wiki/Nisshinbo_Holdings"
+"wikipedia": "https://en.wikipedia.org/wiki/Nisshinbo_Holdings",
+"wiki_text": "Nisshinbo Holdings Inc. (日清紡ホールディングス株式会社, Nisshinbō Hōrudingusu Kabushiki-gaisha) is a Japanese company formerly listed on the Nikkei 225. It has a diverse line of businesses that include electronics, automobile brakes, mechatronics, chemicals, textiles, papers and real estate."
 },
 {
 "id": "V062",
@@ -679,7 +740,8 @@ const SAMPLE = [
 "founded": "1870",
 "parents": "",
 "website": "http://www.fldoe.org/",
-"wikipedia": "https://en.wikipedia.org/wiki/Florida_Department_of_Education"
+"wikipedia": "https://en.wikipedia.org/wiki/Florida_Department_of_Education",
+"wiki_text": "The Florida Department of Education (FLDOE) is the state education agency of Florida. It governs public education and manages funding and testing for local educational agencies (school boards). It is headquartered in the Turlington Building (named for former education commissioner Ralph Turlington) in Tallahassee.\nThe Florida commissioner of education manages the day-to-day operation of the department. The office of education commissioner was originally a Cabinet-level position filled by direct election and directly responsible for education in Florida. The 2002 Florida Constitution Revision Commission submitted a revision to the Florida Constitution, amending Article IV, Section IV to reduce the Cabinet from six elected officials to three. The voters approved the changes and it became effective January 7, 2003; after this time, the commissioner of education became an appointed position and the FLDOE became the overall responsibility of the governor. The revised constitution also created a new Florida Board of Education with seven members (one of whom is the commissioner of education), appointed by the governor to oversee the Department of Education.\nDivision of Vocational Rehabilitation - 930 positions \nDivision of Blind Services - 300 positions \nAnnual operating budget for all entities in 2012-13 - approximately $18.6 billion \nOversee 28 locally governed public state colleges and 47 school district technical centers\nThe department supports approximately 2.8 million ..."
 },
 {
 "id": "V063",
@@ -690,7 +752,8 @@ const SAMPLE = [
 "founded": "1851",
 "parents": "Royal Marsden NHS Foundation Trust",
 "website": "http://www.nhs.uk/Services/hospitals/Overview/DefaultView.aspx?id=1416",
-"wikipedia": "https://en.wikipedia.org/wiki/Royal_Marsden_Hospital"
+"wikipedia": "https://en.wikipedia.org/wiki/Royal_Marsden_Hospital",
+"wiki_text": "The Royal Marsden Hospital is a specialist National Health Service oncology hospital in London based at two sites in Brompton, in Kensington and Chelsea, and Belmont in Sutton. It is managed by The Royal Marsden NHS Foundation Trust and supported by The Royal Marsden Cancer Charity.\nIn addition to providing cancer diagnosis, treatment and care, The Royal Marsden is a major centre for cancer research and teaching. It has a close affiliation with the Institute of Cancer Research, which originated as the hospital's research department and is located alongside the hospital in Brompton and Belmont. Through its subsidiary The Royal Marsden School, it offers undergraduate and postgraduate degrees in cancer care validated by the University of East Anglia."
 },
 {
 "id": "V064",
@@ -701,7 +764,8 @@ const SAMPLE = [
 "founded": "1948",
 "parents": "",
 "website": "http://www.leicestershire-fire.gov.uk/",
-"wikipedia": "https://en.wikipedia.org/wiki/Leicestershire_and_Rutland_Fire_and_Rescue_Service"
+"wikipedia": "https://en.wikipedia.org/wiki/Leicestershire_and_Rutland_Fire_and_Rescue_Service",
+"wiki_text": "Leicestershire Fire and Rescue Service (LFRS) is the fire and rescue service which serves the ceremonial counties of Leicestershire and Rutland in England. The service's headquarters are in Birstall, on the outskirts of Leicester."
 },
 {
 "id": "V065",
@@ -712,7 +776,8 @@ const SAMPLE = [
 "founded": "2019",
 "parents": "University of Victoria; University of British Columbia",
 "website": "https://cproof.uvic.ca",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V066",
@@ -723,7 +788,8 @@ const SAMPLE = [
 "founded": "1968",
 "parents": "",
 "website": "http://www.spacecentre.ca/",
-"wikipedia": "https://en.wikipedia.org/wiki/H._R._MacMillan_Space_Centre"
+"wikipedia": "https://en.wikipedia.org/wiki/H._R._MacMillan_Space_Centre",
+"wiki_text": "The H.R. MacMillan Space Centre, is an astronomy museum located at Vanier Park in Vancouver, British Columbia. The museum was opened on October 28, 1968, containing a Planetarium Star Theatre. Today the museum includes an exhibit gallery and demonstration theatre where public lectures and events are hosted. The museum shares the building with the Museum of Vancouver. Next to the building is the Gordon MacMillan Southam Observatory."
 },
 {
 "id": "V067",
@@ -734,7 +800,8 @@ const SAMPLE = [
 "founded": "1936",
 "parents": "",
 "website": "http://www.arkeologi.no/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V068",
@@ -745,7 +812,8 @@ const SAMPLE = [
 "founded": "2007",
 "parents": "",
 "website": "http://www.seahorsescientific.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V069",
@@ -756,7 +824,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://www.ortoped.by/en",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V070",
@@ -767,7 +836,8 @@ const SAMPLE = [
 "founded": "1890",
 "parents": "",
 "website": "http://www.norli.no/webapp/wcs/stores/servlet/no/norli",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V071",
@@ -778,7 +848,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://www.fjio.net/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V072",
@@ -789,7 +860,8 @@ const SAMPLE = [
 "founded": "1980",
 "parents": "",
 "website": "https://pbrf.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V073",
@@ -800,7 +872,8 @@ const SAMPLE = [
 "founded": "1985",
 "parents": "",
 "website": "http://www.nancycancer.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V074",
@@ -811,7 +884,8 @@ const SAMPLE = [
 "founded": "1897",
 "parents": "",
 "website": "https://www.everson.org/",
-"wikipedia": "https://en.wikipedia.org/wiki/Everson_Museum_of_Art"
+"wikipedia": "https://en.wikipedia.org/wiki/Everson_Museum_of_Art",
+"wiki_text": "The Everson Museum of Art ( EE-vər-sən) in Downtown Syracuse, New York, is a major Central New York museum focusing on American art."
 },
 {
 "id": "V075",
@@ -822,7 +896,8 @@ const SAMPLE = [
 "founded": "1996",
 "parents": "",
 "website": "http://www.evernia.cz/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V076",
@@ -833,7 +908,8 @@ const SAMPLE = [
 "founded": "2006",
 "parents": "",
 "website": "http://www.fhi.ie/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V077",
@@ -844,7 +920,8 @@ const SAMPLE = [
 "founded": "1965",
 "parents": "",
 "website": "http://www.kagando.org/hospital",
-"wikipedia": "https://en.wikipedia.org/wiki/Kagando_Hospital"
+"wikipedia": "https://en.wikipedia.org/wiki/Kagando_Hospital",
+"wiki_text": "Kagando Hospital, also known as Kagando Mission Hospital, is a hospital in the Western Region of Uganda."
 },
 {
 "id": "V078",
@@ -855,7 +932,8 @@ const SAMPLE = [
 "founded": "2002",
 "parents": "",
 "website": "https://www.hjrreefscaping.com/web/index.php",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V079",
@@ -866,7 +944,8 @@ const SAMPLE = [
 "founded": "1943",
 "parents": "",
 "website": "http://www.sasaweb.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V080",
@@ -877,7 +956,8 @@ const SAMPLE = [
 "founded": "1999",
 "parents": "",
 "website": "http://www.immindia.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V081",
@@ -888,7 +968,8 @@ const SAMPLE = [
 "founded": "1957",
 "parents": "",
 "website": "https://www.moh.gov.gh",
-"wikipedia": "https://en.wikipedia.org/wiki/Ministry_of_Health_(Ghana)"
+"wikipedia": "https://en.wikipedia.org/wiki/Ministry_of_Health_(Ghana)",
+"wiki_text": "The Ministry of Health (MoH) is the government ministry of Ghana that is responsible for the health of Ghanaians.  It is involved in providing public health services, managing Ghana's healthcare industry, and building Ghana's hospitals and medical education system.\nMinistry main offices are located in Accra.\nSekou Toure Avenue, North Ridge adjacent the National Health Insurance Head Office Accra\nThe ministry is responsible for all health related issues in Ghana. It was responsible for direct public health service delivery or provision in the country. However, with the enactment of an ACT 525 of parliament, the functions of promotion, preventive, curative and rehabilitative care have been delegated to the Ghana Health Service and Teaching hospitals. Hence, the ministry is now responsible for only policy formulation, monitoring and evaluation, resource mobilization and regulation of the health service delivery in the country."
 },
 {
 "id": "V082",
@@ -899,7 +980,8 @@ const SAMPLE = [
 "founded": "1983",
 "parents": "",
 "website": "http://www.teicm.gr/",
-"wikipedia": "https://en.wikipedia.org/wiki/Technological_Educational_Institute_of_Central_Macedonia"
+"wikipedia": "https://en.wikipedia.org/wiki/Technological_Educational_Institute_of_Central_Macedonia",
+"wiki_text": "The Technological Educational Institute of Central Macedonia (TEICM; Greek: Τεχνολογικό Εκπαιδευτικό Ίδρυμα Κεντρικής Μακεδονίας, TEIKM) was a higher-educational institute supervised by the Ministry of Education, Lifelong Learning and Religious Affairs.\nIt was founded in 1983 as Technological Educational Institute of Serres (TEISER; Τεχνολογικό Εκπαιδευτικό Ίδρυμα Σερρών, ΤΕΙΣΕΡ)  and is located in the city of Serres with campuses operate also in Katerini and Kilkis. The Technological Educational Institute of Serres (TEISER) was renamed Technological Educational Institute of Central Macedonia (TEICM; Τεχνολογικό Εκπαιδευτικό Ίδρυμα Κεντρικής Μακεδονίας, TEIKM) in 2013. It was consisted the School of Technological Applications, the School of Administration and Economics, and the independent Department of Graphic Arts and Design. The School of Graphic Arts and Design of the Technological Educational Institute of Serres was abolished in 2013, and then the Department of Graphic Arts and Design (2009-2018) became independent and since 2018-2019 academic year was incorporated into the School of Technological Applications. \nIn 2019, the TEI of Central Macedonia, the TEI of Eastern Macedonia and Thrace, and the Alexander Technological Educational Institute of Thessaloniki merged into International Hellenic University."
 },
 {
 "id": "V083",
@@ -910,7 +992,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "Region Jönköpings län",
 "website": "https://www.rjl.se/om-oss/om-organisationen/Forskning-och-utveckling/forskning-och-larande-i-halso--och-sjukvarden",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V084",
@@ -921,7 +1004,8 @@ const SAMPLE = [
 "founded": "2011",
 "parents": "",
 "website": "https://www.pologgb.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V085",
@@ -932,7 +1016,8 @@ const SAMPLE = [
 "founded": "1989",
 "parents": "",
 "website": "http://www.sibcr.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V086",
@@ -943,7 +1028,8 @@ const SAMPLE = [
 "founded": "2007",
 "parents": "",
 "website": "https://phbiosci.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V087",
@@ -954,7 +1040,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://www.ego-gw.it",
-"wikipedia": "https://en.wikipedia.org/wiki/European_Gravitational_Observatory"
+"wikipedia": "https://en.wikipedia.org/wiki/European_Gravitational_Observatory",
+"wiki_text": "The European Gravitational Observatory (EGO) is a consortium established to manage the Virgo interferometer and its related infrastructure, as well as to promote cooperation in the field of gravitational wave research in Europe. It was founded December 11, 2000, by the French CNRS and Italian INFN, and is headquartered near Pisa, in the commune of Cascina."
 },
 {
 "id": "V088",
@@ -965,7 +1052,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://www.auh.edu/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V089",
@@ -976,7 +1064,8 @@ const SAMPLE = [
 "founded": "2011",
 "parents": "",
 "website": "https://www.ifsh.iit.edu/",
-"wikipedia": "https://en.wikipedia.org/wiki/Institute_for_Food_Safety_and_Health"
+"wikipedia": "https://en.wikipedia.org/wiki/Institute_for_Food_Safety_and_Health",
+"wiki_text": "The Institute for Food Safety and Health (IFSH) is a research consortium consisting of the United States Food and Drug Administration's Center for Food Safety and Applied Nutrition (FDA CFSAN), Illinois Institute of Technology (IIT) and the food industry. Under the cooperative agreement, the Institute was established by IIT to bring together the food safety and technology expertise of academia, industry and government as a consortium in the common goal of enhancing and improving the safety of food for U.S. consumers."
 },
 {
 "id": "V090",
@@ -987,7 +1076,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://www.spesialistsenteret.net/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V091",
@@ -998,7 +1088,8 @@ const SAMPLE = [
 "founded": "2022",
 "parents": "Jan Evangelista Purkyně University in Ústí nad Labem",
 "website": "https://cenab.ujep.cz",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V092",
@@ -1009,7 +1100,8 @@ const SAMPLE = [
 "founded": "1944",
 "parents": "",
 "website": "https://grimsby.ac.uk",
-"wikipedia": "https://en.wikipedia.org/wiki/Grimsby_Institute_of_Further_%26_Higher_Education"
+"wikipedia": "https://en.wikipedia.org/wiki/Grimsby_Institute_of_Further_%26_Higher_Education",
+"wiki_text": "Grimsby Institute of Further & Higher Education and University Centre Grimsby (often Grimsby Institute or GIFHE or Grimsby College or UCG) is a further education and higher education college in Grimsby in North East Lincolnshire in England.\nGrimsby Institute of Further & Higher Education is one of England’s largest providers of further and higher education. The college specialises in vocational education and provides a range of training course in further education, higher education, apprenticeships and adult training courses across multiple campuses and consists of multiple brands including The Academy Grimsby (TAG), Career 6, Workforce Skills, Skegness TEC, and National Employer Training (NET).\nGrimsby Institute of Further & Higher Education is part of the TEC Partnership, one of the largest education, training and employability organisations in the UK.  On 4 May 2017, Ofsted graded the college as 'Outstanding'.\nOn 14th August 2026 the TEC Partnership was issued a \"Notice to improve\" by the Department for Education."
 },
 {
 "id": "V093",
@@ -1020,7 +1112,8 @@ const SAMPLE = [
 "founded": "1963",
 "parents": "",
 "website": "http://www.nicvd.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V094",
@@ -1031,7 +1124,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "National Oceanic and Atmospheric Administration; NOAA National Environmental Satellite Data and Information Service",
 "website": "https://www.nesdis.noaa.gov/about/our-offices/systems-architecture-and-engineering",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V095",
@@ -1042,7 +1136,8 @@ const SAMPLE = [
 "founded": "1965",
 "parents": "",
 "website": "http://www.desenvolvimento.sp.gov.br/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V096",
@@ -1053,7 +1148,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://www.courts.state.co.us/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V097",
@@ -1064,7 +1160,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://www.kkhn.med.sa/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V098",
@@ -1075,7 +1172,8 @@ const SAMPLE = [
 "founded": "1978",
 "parents": "",
 "website": "http://www.housing.or.kr:8080/mbshome/mbs/english/index.do",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V099",
@@ -1086,7 +1184,8 @@ const SAMPLE = [
 "founded": "2009",
 "parents": "",
 "website": "http://www.c3e.ca/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V100",
@@ -1097,7 +1196,8 @@ const SAMPLE = [
 "founded": "1902",
 "parents": "North Bristol NHS Trust",
 "website": "http://www.nbt.nhs.uk/our-hospitals/southmead-hospital",
-"wikipedia": "https://en.wikipedia.org/wiki/Southmead_Hospital"
+"wikipedia": "https://en.wikipedia.org/wiki/Southmead_Hospital",
+"wiki_text": "Southmead Hospital is a large public National Health Service hospital, situated in the area of Southmead, though in Horfield ward, in the northern suburbs of Bristol, England. It is part of the North Bristol NHS Trust. The 800-bed Brunel Building opened in May 2014, to provide services (including Accident and Emergency), which transferred from Frenchay Hospital in advance of its closure. The hospital site covers 60 acres (24 ha)."
 },
 {
 "id": "V101",
@@ -1108,7 +1208,8 @@ const SAMPLE = [
 "founded": "1941",
 "parents": "",
 "website": "http://www.findus.se/",
-"wikipedia": "https://en.wikipedia.org/wiki/Findus"
+"wikipedia": "https://en.wikipedia.org/wiki/Findus",
+"wiki_text": "Findus (; Swedish: [ˈfɪndɵs]) is a Swedish frozen food brand which was founded in 1945. Findus products include ready meals, peas and Crispy Pancakes, the latter of which were invented in the early 1970s.\nThe Swiss food company Nestlé owned the Findus brand from 1962 to 2000; it sold the rights to the brand in most of Europe (except in Italy where it was owned by Unilever) in 2000 whilst retaining ownership in Switzerland (later under Froneri) until 2021. Through a number of acquisitions, the brand in Scandinavia, France, Italy, Spain and Switzerland is now owned by Nomad Foods.\nIn June 2015, Iglo Group was purchased by Nomad Foods. Nomad followed this in November 2015 with the purchase of Findus' European business, with the exception of Findus UK and Young's, which remain under the ownership of Lion Capital and its partners. Young's confirmed in February 2016 that it intended to rebrand Findus in the UK.\nYoung's later sold Findus UK to Nomad Foods for £500 million."
 },
 {
 "id": "V102",
@@ -1119,7 +1220,8 @@ const SAMPLE = [
 "founded": "1973",
 "parents": "",
 "website": "https://commerce.gov.bb/barbados-national-standards-institution-bnsi/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V103",
@@ -1130,7 +1232,8 @@ const SAMPLE = [
 "founded": "2001",
 "parents": "",
 "website": "http://www.amrc.co.uk/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V104",
@@ -1141,7 +1244,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://www.shuso-hospital.jp",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V105",
@@ -1152,7 +1256,8 @@ const SAMPLE = [
 "founded": "2016",
 "parents": "Ludwig Boltzmann Gesellschaft",
 "website": "https://www.applied-diagnostics.at/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V106",
@@ -1163,7 +1268,8 @@ const SAMPLE = [
 "founded": "1994",
 "parents": "",
 "website": "https://www.albemarle.com/Home-3.html",
-"wikipedia": "https://en.wikipedia.org/wiki/Albemarle_Corporation"
+"wikipedia": "https://en.wikipedia.org/wiki/Albemarle_Corporation",
+"wiki_text": "Albemarle Corporation is an American specialty chemicals and mining company headquartered in Charlotte, North Carolina. Its principal businesses produce lithium compounds used in electric-vehicle batteries and energy-storage systems, and bromine-based specialty chemicals, including flame retardants.\nThe company traces its origins to the Albemarle Paper Manufacturing Company, founded in Richmond, Virginia, in 1887. The present company became an independent publicly traded corporation in 1994, when Ethyl Corporation spun off its specialty-chemicals business. In 2025, Albemarle reported net sales of approximately US$5.1 billion and approximately 7,800 employees, including employees of its consolidated joint ventures.\nAlbemarle is one of the world's largest lithium producers. It extracts lithium from brine at the Salar de Atacama in Chile and at Silver Peak, Nevada. In 2025, commercial-scale lithium production in the United States came from a single continental-brine operation in Nevada. The company also holds interests in the Greenbushes and Wodgina hard-rock spodumene mines in Western Australia and operates lithium-conversion facilities in several countries. Its bromine operations include brine resources near Magnolia, Arkansas, and an interest in the Jordan Bromine Company, a joint venture with the Arab Potash Company that produces bromine and bromine derivatives from resources associated with the Dead Sea.\nAlbemarle formerly operated a petroleum-refining catalysts business ..."
 },
 {
 "id": "V107",
@@ -1174,7 +1280,8 @@ const SAMPLE = [
 "founded": "1994",
 "parents": "Ministry of Oceans and Fisheries",
 "website": "https://www.komeri.re.kr",
-"wikipedia": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%A1%B0%EC%84%A0%ED%95%B4%EC%96%91%EA%B8%B0%EC%9E%90%EC%9E%AC%EC%97%B0%EA%B5%AC%EC%9B%90"
+"wikipedia": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%A1%B0%EC%84%A0%ED%95%B4%EC%96%91%EA%B8%B0%EC%9E%90%EC%9E%AC%EC%97%B0%EA%B5%AC%EC%9B%90",
+"wiki_text": "한국조선해양기자재연구원(韓國造船海洋機資材硏究院)은 산·학·연·관의 유기적인 협조 체제를 구축하여 조선해양기자재 및 관련 부품 산업의 기술혁신에 필요한 연구개발을 수행함으로써 조선해양기자재 산업의 국제경쟁력제고에 이바지하기 위하여 설립된 재단법인이다."
 },
 {
 "id": "V108",
@@ -1185,7 +1292,8 @@ const SAMPLE = [
 "founded": "1955",
 "parents": "",
 "website": "https://www.tahsda.org.tw/en/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V109",
@@ -1196,7 +1304,8 @@ const SAMPLE = [
 "founded": "1987",
 "parents": "",
 "website": "http://www.bakerfoundation.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V110",
@@ -1207,7 +1316,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://www.chadtough.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V111",
@@ -1218,7 +1328,8 @@ const SAMPLE = [
 "founded": "1992",
 "parents": "",
 "website": "https://www.lucyfaithfull.org.uk/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V112",
@@ -1229,7 +1340,8 @@ const SAMPLE = [
 "founded": "1987",
 "parents": "",
 "website": "https://www.tsl.ac.uk",
-"wikipedia": "http://en.wikipedia.org/wiki/Sainsbury_Laboratory"
+"wikipedia": "http://en.wikipedia.org/wiki/Sainsbury_Laboratory",
+"wiki_text": "The Sainsbury Laboratory (TSL) is a research institute located at the Norwich Research Park in Norwich, Norfolk, England, that carries out fundamental biological research and technology development on aspects of plant disease, plant disease resistance and microbial symbiosis in plants. The Sainsbury Laboratory partners with the John Innes Centre on a Plant Health Institute Strategic Program (ISP) funded by the Biotechnology and Biological Sciences Research Council (BBSRC)."
 },
 {
 "id": "V113",
@@ -1240,7 +1352,8 @@ const SAMPLE = [
 "founded": "1991",
 "parents": "",
 "website": "http://www.ita-tech.cz/en/home-page",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V114",
@@ -1251,7 +1364,8 @@ const SAMPLE = [
 "founded": "1981",
 "parents": "",
 "website": "https://nite.org.il/index.php/en/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V115",
@@ -1262,7 +1376,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "United States Geological Survey",
 "website": "https://www.usgs.gov/centers/oklahoma-texas-water-science-center",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V116",
@@ -1273,7 +1388,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://www.knowledge.gr/ksa/shared/index.jsp?context=101",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V117",
@@ -1284,7 +1400,8 @@ const SAMPLE = [
 "founded": "2021",
 "parents": "Inria Saclay - Île de France; Laboratoire Méthodes Formelles; Centre Inria de l'Université Paris-Saclay",
 "website": "https://toccata.lri.fr/activities.fr.html",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V118",
@@ -1295,7 +1412,8 @@ const SAMPLE = [
 "founded": "1987",
 "parents": "",
 "website": "http://www.corep.it/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V119",
@@ -1306,7 +1424,8 @@ const SAMPLE = [
 "founded": "1887",
 "parents": "Bundesministerium für Wirtschaft und Energie",
 "website": "https://www.ptb.de",
-"wikipedia": "https://en.wikipedia.org/wiki/Physikalisch-Technische_Bundesanstalt"
+"wikipedia": "https://en.wikipedia.org/wiki/Physikalisch-Technische_Bundesanstalt",
+"wiki_text": "The Physikalisch-Technische Bundesanstalt (PTB) is the national metrology institute of the Federal Republic of Germany, with scientific and technical service tasks. It is a higher federal authority and a public-law institution directly under federal government control, without legal capacity, under the auspices of the Federal Ministry for Economic Affairs and Energy."
 },
 {
 "id": "V120",
@@ -1317,7 +1436,8 @@ const SAMPLE = [
 "founded": "1980",
 "parents": "",
 "website": "http://www.debra.org/",
-"wikipedia": "https://en.wikipedia.org/wiki/DEBRA"
+"wikipedia": "https://en.wikipedia.org/wiki/DEBRA",
+"wiki_text": "DEBRA (formerly known as DebRA) is the name of an international medical research charity dedicated to securing effective drug treatments and ultimately cures for every type of epidermolysis bullosa, with national groups in over 40 countries including in the United Kingdom and the United States."
 },
 {
 "id": "V121",
@@ -1328,7 +1448,8 @@ const SAMPLE = [
 "founded": "1960",
 "parents": "Yamaha (Japan)",
 "website": "http://usa.yamaha.com/",
-"wikipedia": "https://en.wikipedia.org/wiki/Yamaha_Corporation"
+"wikipedia": "https://en.wikipedia.org/wiki/Yamaha_Corporation",
+"wiki_text": "Yamaha Corporation (ヤマハ株式会社, Yamaha Kabushiki gaisha; ; Japanese pronunciation: [jamaha]) is a Japanese multinational musical instrument and audio equipment manufacturer.\nIt is one of the constituents of Nikkei 225 and is the world's largest musical instrument manufacturing company.\nThe former motorcycle division was established in 1955 as Yamaha Motor Co., Ltd., which started as an affiliated company but has been spun-off as its own independent company."
 },
 {
 "id": "V122",
@@ -1339,7 +1460,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://www.grandportageband.com",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V123",
@@ -1350,7 +1472,8 @@ const SAMPLE = [
 "founded": "1990",
 "parents": "",
 "website": "http://www.prconcra.info/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V124",
@@ -1361,7 +1484,8 @@ const SAMPLE = [
 "founded": "2007",
 "parents": "Université Claude Bernard Lyon 1; École Normale Supérieure de Lyon",
 "website": "http://s2hep.univ-lyon1.fr",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V125",
@@ -1372,7 +1496,8 @@ const SAMPLE = [
 "founded": "1973",
 "parents": "",
 "website": "https://bbh.org.in",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V126",
@@ -1383,7 +1508,8 @@ const SAMPLE = [
 "founded": "2000",
 "parents": "Fraunhofer-Gesellschaft",
 "website": "https://www.igp.fraunhofer.de",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V127",
@@ -1394,7 +1520,8 @@ const SAMPLE = [
 "founded": "2009",
 "parents": "Inserm; Université de Strasbourg",
 "website": "https://www.liverstrasbourg.org",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V128",
@@ -1405,7 +1532,8 @@ const SAMPLE = [
 "founded": "2011",
 "parents": "EMBL Australia",
 "website": "https://www.embl-abr.org.au/",
-"wikipedia": "https://en.wikipedia.org/wiki/Australia_Bioinformatics_Resource"
+"wikipedia": "https://en.wikipedia.org/wiki/Australia_Bioinformatics_Resource",
+"wiki_text": "The Australia Bioinformatics Resource (EMBL-ABR) (formerly the Bioinformatics Resource Australia - EMBL (BRAEMBL)) was a significant initiative under the associate membership to EMBL. \nSince 2019, all activities carried out under EMBL-ABR have rolled over into the Bioplatforms Australia (NCRIS-funded) Australian BioCommons, under new funding agreements and led by Associate Professor Andrew Lonie.\n\nEMBL-ABR aimed to:\n\nIncrease Australia’s capacity to collect, integrate, analyse, exploit, share and archive the large heterogeneous data sets now part of modern life sciences research\nContribute to the development of and provide training in data, tools and platforms to enable Australia’s life science researchers to undertake research in the age of big data\nShowcase Australian research and datasets at an international level\nEnable engagement in international programs that create, deploy and develop best practice approaches to data management, software tools and methods, computational platforms and bioinformatics services\nEMBL-ABR was supported by Bioplatforms Australia and the University of Melbourne. EMBL-ABR Hub was hosted at the Victorian Life Sciences Computation Initiative (VLSCI) at the University of Melbourne.\nIn July 2016, EMBL-ABR announced an agreement to collaborate with GOBLET to develop training programs for bioinformatics."
 },
 {
 "id": "V129",
@@ -1416,7 +1544,8 @@ const SAMPLE = [
 "founded": "2002",
 "parents": "",
 "website": "http://en.weichai.com/",
-"wikipedia": "https://en.wikipedia.org/wiki/Weichai_Power"
+"wikipedia": "https://en.wikipedia.org/wiki/Weichai_Power",
+"wiki_text": "Weichai Power Co., Ltd. is a Chinese developer and manufacturer of diesel engines in Weifang, Shandong in the People's Republic of China. It also manufactures forklifts and non-diesel engine automotive parts."
 },
 {
 "id": "V130",
@@ -1427,7 +1556,8 @@ const SAMPLE = [
 "founded": "1896",
 "parents": "",
 "website": "http://www.jnrmyy.com/index.html",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V131",
@@ -1438,7 +1568,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "Max Planck Society",
 "website": "https://www.shh.mpg.de",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V132",
@@ -1449,7 +1580,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://cmuc.mat.uc.pt",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V133",
@@ -1460,7 +1592,8 @@ const SAMPLE = [
 "founded": "1948",
 "parents": "South Tees Hospitals NHS Foundation Trust",
 "website": "https://www.southtees.nhs.uk/news/hospitals/carter-bequest-primary-care-hospital/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V134",
@@ -1471,7 +1604,8 @@ const SAMPLE = [
 "founded": "2000",
 "parents": "",
 "website": "https://www.utez.edu.mx",
-"wikipedia": "https://es.wikipedia.org/wiki/Universidad_Tecnol%C3%B3gica_Emiliano_Zapata"
+"wikipedia": "https://es.wikipedia.org/wiki/Universidad_Tecnol%C3%B3gica_Emiliano_Zapata",
+"wiki_text": "La Universidad Tecnológica Emiliano Zapata del Estado de Morelos ​ (abreviado como UTEZ) es una universidad pública mexicana y Organismo Público Descentralizado del Gobierno del Estado de Morelos que forma parte del Subsistema de Universidades Tecnológicas (SUT).\nFue fundada el 23 de agosto de 2000 (26 años)​ convirtiéndose en la primera Universidad Tecnológica del Estado de Morelos, inició sus actividades en septiembre de ese mismo año siendo Héctor Gómez Villalvazo el primer rector de esta institución. \nEn la actualidad ofrece programas educativos de Técnico Superior Universitario (TSU), Licenciatura e Ingeniería​ además de servicios tecnológicos y proyectos estratégicos que vinculan a la institución con el sector privado, así como cursos de educación continua al público en general, instituciones públicas y privadas."
 },
 {
 "id": "V135",
@@ -1482,7 +1616,8 @@ const SAMPLE = [
 "founded": "1970",
 "parents": "Academy of Sciences Republic of Uzbekistan",
 "website": "http://uzhistory.uz/eng",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V136",
@@ -1493,7 +1628,8 @@ const SAMPLE = [
 "founded": "1997",
 "parents": "",
 "website": "https://www.corisveneto.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V137",
@@ -1504,7 +1640,8 @@ const SAMPLE = [
 "founded": "1991",
 "parents": "",
 "website": "http://www.ifth.org/en/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V138",
@@ -1515,7 +1652,8 @@ const SAMPLE = [
 "founded": "1969",
 "parents": "",
 "website": "https://www.fh-kiel.de",
-"wikipedia": "https://en.wikipedia.org/wiki/Fachhochschule_Kiel"
+"wikipedia": "https://en.wikipedia.org/wiki/Fachhochschule_Kiel",
+"wiki_text": "The Kiel University of Applied Sciences (German: Hochschule für Angewandte Wissenschaften Kiel or HAW Kiel) is a University of Applied Sciences, established in 1969. It is one of three public institutions of higher learning in Kiel, Germany. \nIt provides around 30 Bachelor's and master's degrees, supplementary degrees and continuing education courses by the faculties of Agriculture, Business Management, Computer Science & Electrical Engineering, Mechanical Engineering, Media and Social Work and Health.\nThe campus contains one large and a few smaller cafeterias, as well as two dorms. Furthermore, a planetarium, called the Mediendom, a museum of computers and a star observatory are associated with the University of Applied Sciences.\nIn addition to the main campus in Kiel, the University of Applied Sciences has sites in Neumünster and Osterrönfeld."
 },
 {
 "id": "V139",
@@ -1526,7 +1664,8 @@ const SAMPLE = [
 "founded": "1990",
 "parents": "Consejo Superior de Investigaciones Científicas; Universitat Politècnica de València",
 "website": "https://itq.upv-csic.es",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V140",
@@ -1537,7 +1676,8 @@ const SAMPLE = [
 "founded": "1987",
 "parents": "",
 "website": "http://www.cpr.it/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V141",
@@ -1548,7 +1688,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "Office of Nuclear Energy",
 "website": "https://www.energy.gov/ne/spent-fuel-and-waste-disposition",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V142",
@@ -1559,7 +1700,8 @@ const SAMPLE = [
 "founded": "1983",
 "parents": "",
 "website": "https://www.ggdlimburgnoord.nl/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V143",
@@ -1570,7 +1712,8 @@ const SAMPLE = [
 "founded": "1994",
 "parents": "",
 "website": "https://www.americana.edu.py/",
-"wikipedia": "https://en.wikipedia.org/wiki/Universidad_Americana_(Paraguay)"
+"wikipedia": "https://en.wikipedia.org/wiki/Universidad_Americana_(Paraguay)",
+"wiki_text": "The Universidad Americana (Spanish for American University) is a private university located in Paraguay.\nFounded in 1994, the university has two teaching facilities in Asunción, one in Ciudad del Este and one in Encarnación. It has 4,000 students, and more than 200 professors."
 },
 {
 "id": "V144",
@@ -1581,7 +1724,8 @@ const SAMPLE = [
 "founded": "1930",
 "parents": "",
 "website": "http://www.meadville.edu/",
-"wikipedia": "https://en.wikipedia.org/wiki/Meadville_Lombard_Theological_School"
+"wikipedia": "https://en.wikipedia.org/wiki/Meadville_Lombard_Theological_School",
+"wiki_text": "The Meadville Lombard Theological School is a Unitarian Universalist seminary in Chicago, Illinois."
 },
 {
 "id": "V145",
@@ -1592,7 +1736,8 @@ const SAMPLE = [
 "founded": "1848",
 "parents": "",
 "website": "https://www.bmfj.gv.at/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V146",
@@ -1603,7 +1748,8 @@ const SAMPLE = [
 "founded": "1992",
 "parents": "",
 "website": "https://www.niwa.co.nz/",
-"wikipedia": "https://en.wikipedia.org/wiki/National_Institute_of_Water_and_Atmospheric_Research"
+"wikipedia": "https://en.wikipedia.org/wiki/National_Institute_of_Water_and_Atmospheric_Research",
+"wiki_text": "The National Institute of Water and Atmospheric Research or NIWA (Māori: Taihoro Nukurangi), is a Crown Research Institute of New Zealand. Established in 1992, NIWA conducts research across a broad range of disciplines in the environmental sciences. It also maintains nationally and, in some cases, internationally important environmental monitoring networks, databases, and collections.\nAs of 2019, NIWA had 697 staff spread across 14 sites in New Zealand and one in Perth, Australia. Its head office is in Auckland, with regional offices in Hamilton, Wellington, Christchurch, Nelson, and Lauder (Central Otago). It also has small field teams, focused mostly on hydrology, stationed in Bream Bay, Lake Tekapo, Rotorua, Napier, Whanganui, Greymouth, Alexandra, and Dunedin. NIWA maintains a fleet of about 30 vessels for freshwater, marine, and atmospheric research.\nOn 1 July 2025 NIWA became Earth Science New Zealand in a merger with GNS Science, and is considered as a Public Research Organisation."
 },
 {
 "id": "V147",
@@ -1614,7 +1760,8 @@ const SAMPLE = [
 "founded": "2002",
 "parents": "",
 "website": "https://www.chelonia.swiss/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V148",
@@ -1625,7 +1772,8 @@ const SAMPLE = [
 "founded": "1966",
 "parents": "",
 "website": "https://www.crd.bc.ca/",
-"wikipedia": "http://en.wikipedia.org/wiki/Capital_Regional_District"
+"wikipedia": "http://en.wikipedia.org/wiki/Capital_Regional_District",
+"wiki_text": "The Capital Regional District (CRD) is a local government administrative district encompassing the southern tip of Vancouver Island and the southern Gulf Islands in the Canadian province of British Columbia. The CRD is one of several regional districts in British Columbia and had an official population of 415,451 as of the Canada 2021 Census.\nThe CRD encompasses the thirteen municipalities of Greater Victoria and three unincorporated areas: Juan de Fuca Electoral Area on Vancouver Island, Salt Spring Island Electoral Area, and Southern Gulf Islands Electoral Area. The CRD also acts as the local government for most purposes in the Electoral Areas. CRD headquarters is in the City of Victoria, although there are many office and operational facilities throughout the region. The total land area is 2,341.11 km2 (903.91 sq mi).\nThe CRD was formed in 1966 as a federation of seven municipalities and five electoral areas to provide coordination of regional issues and local government in rural areas in the Greater Victoria region."
 },
 {
 "id": "V149",
@@ -1636,7 +1784,8 @@ const SAMPLE = [
 "founded": "1957",
 "parents": "",
 "website": "http://yourcpf.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V150",
@@ -1647,7 +1796,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://cancerresearchfoundation.org/",
-"wikipedia": "https://en.wikipedia.org/wiki/Cancer_Research_Foundation"
+"wikipedia": "https://en.wikipedia.org/wiki/Cancer_Research_Foundation",
+"wiki_text": ""
 },
 {
 "id": "V151",
@@ -1658,7 +1808,8 @@ const SAMPLE = [
 "founded": "1905",
 "parents": "",
 "website": "http://www.sgk.ac.jp/",
-"wikipedia": "https://en.wikipedia.org/wiki/Shigakkan_University"
+"wikipedia": "https://en.wikipedia.org/wiki/Shigakkan_University",
+"wiki_text": "Shigakkan University (Japanese: 至学館大学, Hepburn: Shigakkan Daigaku) is a private university in Ōbu, Aichi, Japan.\nUntil the school renamed itself to Shigakkan in 2010, the school was known as Chukyo Women's University.  The school was founded in 1905.\nDespite that the name contained the word \"women,\" the school had accepted male students since 1998."
 },
 {
 "id": "V152",
@@ -1669,7 +1820,8 @@ const SAMPLE = [
 "founded": "2003",
 "parents": "",
 "website": "http://www.axishospital.co/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V153",
@@ -1680,7 +1832,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://www.restechkenya.or.ke/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V154",
@@ -1691,7 +1844,8 @@ const SAMPLE = [
 "founded": "1945",
 "parents": "",
 "website": "http://www.wakayama-med.ac.jp/english/index.html",
-"wikipedia": "https://en.wikipedia.org/wiki/Wakayama_Medical_University"
+"wikipedia": "https://en.wikipedia.org/wiki/Wakayama_Medical_University",
+"wiki_text": "Wakayama Medical University (和歌山県立医科大学, Wakayama kenritsu ika daigaku) is a public university in Wakayama, Wakayama, Japan. The predecessor of the school was founded in 1945, and it was chartered as a university in 1948."
 },
 {
 "id": "V155",
@@ -1702,7 +1856,8 @@ const SAMPLE = [
 "founded": "1985",
 "parents": "",
 "website": "https://www.nmi.de",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V156",
@@ -1713,7 +1868,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://www.sienaschool.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V157",
@@ -1724,7 +1880,8 @@ const SAMPLE = [
 "founded": "1906",
 "parents": "",
 "website": "https://www.mgmiindia.in/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V158",
@@ -1735,7 +1892,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://www.zdkqyy.com",
-"wikipedia": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E5%8F%A3%E8%85%94%E5%8C%BB%E9%99%A2"
+"wikipedia": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E5%8F%A3%E8%85%94%E5%8C%BB%E9%99%A2",
+"wiki_text": "中山大学附属口腔医院（英語：Hospital of Stomatology, Sun Yat-sen University），是位于中华人民共和国广东省广州市的三级甲等口腔医院，是中山大学的直属附属医院，由国家卫生健康委员会直管，是华南地区乃至全国最具影响力的口腔医学中心之一，与中山大学光华口腔医学院、中山大学口腔医学研究所形成“三位一体”的办院模式。"
 },
 {
 "id": "V159",
@@ -1746,7 +1904,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "Governo dos Açores",
 "website": "https://www.culturacores.azores.gov.pt",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V160",
@@ -1757,7 +1916,8 @@ const SAMPLE = [
 "founded": "1972",
 "parents": "",
 "website": "http://www.donmontifoundation.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V161",
@@ -1768,7 +1928,8 @@ const SAMPLE = [
 "founded": "2012",
 "parents": "",
 "website": "https://watersensitivecities.org.au/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V162",
@@ -1779,7 +1940,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://www.urniidvi.ru/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V163",
@@ -1790,7 +1952,8 @@ const SAMPLE = [
 "founded": "2022",
 "parents": "",
 "website": "https://www.setu.ie",
-"wikipedia": "https://en.wikipedia.org/wiki/South_East_Technological_University"
+"wikipedia": "https://en.wikipedia.org/wiki/South_East_Technological_University",
+"wiki_text": "South East Technological University (SETU; Irish: Ollscoil Teicneolaíochta an Oirdheiscirt) is a public technological university located in the South East region of Ireland. It was formed from the amalgamation of two existing institutes of technology in the region – Waterford IT and IT Carlow. Following years of discussions and planning, its formation was announced in November 2021 and was formally established on 1 May 2022. It is the only university in the South East of Ireland."
 },
 {
 "id": "V164",
@@ -1801,7 +1964,8 @@ const SAMPLE = [
 "founded": "2005",
 "parents": "",
 "website": "http://www.emri.in/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V165",
@@ -1812,7 +1976,8 @@ const SAMPLE = [
 "founded": "1961",
 "parents": "",
 "website": "https://sbgg.org.br",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V166",
@@ -1823,7 +1988,8 @@ const SAMPLE = [
 "founded": "1994",
 "parents": "",
 "website": "http://www.fibraforte.com.br/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V167",
@@ -1834,7 +2000,8 @@ const SAMPLE = [
 "founded": "1998",
 "parents": "",
 "website": "http://www.ini-hannover.de/en/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V168",
@@ -1845,7 +2012,8 @@ const SAMPLE = [
 "founded": "1957",
 "parents": "",
 "website": "http://www.tecnatom.es/en/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V169",
@@ -1856,7 +2024,8 @@ const SAMPLE = [
 "founded": "2010",
 "parents": "",
 "website": "https://ca.wikimedia.org/wiki/Main_Page",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V170",
@@ -1867,7 +2036,8 @@ const SAMPLE = [
 "founded": "1992",
 "parents": "",
 "website": "http://www.h2flow.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V171",
@@ -1878,7 +2048,8 @@ const SAMPLE = [
 "founded": "2008",
 "parents": "",
 "website": "https://tem.fi/",
-"wikipedia": "https://en.wikipedia.org/wiki/Ministry_of_Economic_Affairs_and_Employment_(Finland)"
+"wikipedia": "https://en.wikipedia.org/wiki/Ministry_of_Economic_Affairs_and_Employment_(Finland)",
+"wiki_text": "The Ministry of Economic Affairs and Employment (TEM, Finnish: Työ- ja elinkeinoministeriö, Swedish: Arbets- och näringsministeriet) is one of the ministries of the Finnish Government. The ministry implements industry, labor, and local development policies.\nThere are two ministerial portfolios located within the ministry:\n\nMinister of Economic Affairs\nMinister of Employment\nThe ministry was formed in 2008 by merging the former Ministry of Labour (työministeriö), the former Ministry of Trade and Industry (kauppa- ja teollisuusministeriö), and parts of the Ministry of the Interior (sisäministeriö) related to local administration. The first minister was Mauri Pekkarinen. The combination was called superministeriö because it was so large and diverse. The intention of the merger was to make sure that labor policy and industrial policy, as well as others such as immigration policy and regional policy, are coordinated and don't go separate ways.\nThe ministry manages 15 local employment and economy offices, 15 local Centres for Economic Development, Transport and the Environment and a host of separate national agencies."
 },
 {
 "id": "V172",
@@ -1889,7 +2060,8 @@ const SAMPLE = [
 "founded": "1988",
 "parents": "",
 "website": "http://www.flowcontrol.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V173",
@@ -1900,7 +2072,8 @@ const SAMPLE = [
 "founded": "1996",
 "parents": "",
 "website": "http://www.tjupdi.com/new/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V174",
@@ -1911,7 +2084,8 @@ const SAMPLE = [
 "founded": "2016",
 "parents": "",
 "website": "https://www.roinstitute.org",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V175",
@@ -1922,7 +2096,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://www.vuanch.cz/en/Pages/default.aspx",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V176",
@@ -1933,7 +2108,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://macclesfield.ac.uk",
-"wikipedia": "https://en.wikipedia.org/wiki/Macclesfield_College"
+"wikipedia": "https://en.wikipedia.org/wiki/Macclesfield_College",
+"wiki_text": "Macclesfield College is a further education campus in Macclesfield, Cheshire and forms part of Cheshire College – South & West. It offers a range of further education provision, including vocational and technical courses, T Levels, apprenticeships and adult education.\nThe campus is situated just off Park Lane, alongside other establishments including The Macclesfield Academy, Park Lane School and Macclesfield Tennis Club.\nIn March 2026, it was announced that Macclesfield College and Cheshire College – South & West planned to merge.\nThe merger was completed in August 2026, with Macclesfield College becoming part of Cheshire College – South & West. The Macclesfield campus remains open, alongside the College's campuses in Crewe, Ellesmere Port and Chester."
 },
 {
 "id": "V177",
@@ -1944,7 +2120,8 @@ const SAMPLE = [
 "founded": "2018",
 "parents": "",
 "website": "https://www.inceptioniai.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V178",
@@ -1955,7 +2132,8 @@ const SAMPLE = [
 "founded": "1885",
 "parents": "Johnson Controls (United States)",
 "website": "http://www.johnsoncontrols.com/location-finder",
-"wikipedia": "https://en.wikipedia.org/wiki/Johnson_Controls"
+"wikipedia": "https://en.wikipedia.org/wiki/Johnson_Controls",
+"wiki_text": "Johnson Controls International plc is an American multinational conglomerate headquartered in Cork, Ireland, that produces fire, HVAC, and security equipment for buildings. As of mid-2019, it employed 105,000 people in around 2,000 locations across six continents. In 2017 it was listed as 389th in the Fortune Global 500. It became ineligible for the Fortune 500 in subsequent years since it relocated its headquarters outside the U.S.\nThe company was formed via the merger of American company Johnson Controls with Tyco International, announced on 25 January 2016. The merger led to the avoidance of taxation on foreign market operations and a financial windfall for the CEO of Johnson Controls at that time, Alex Molinaroli."
 },
 {
 "id": "V179",
@@ -1966,7 +2144,8 @@ const SAMPLE = [
 "founded": "1985",
 "parents": "",
 "website": "https://www.cvt.org/",
-"wikipedia": "https://en.wikipedia.org/wiki/Center_for_Victims_of_Torture"
+"wikipedia": "https://en.wikipedia.org/wiki/Center_for_Victims_of_Torture",
+"wiki_text": "The Center for Victims of Torture (CVT) is an international non-profit headquartered in Saint Paul, Minnesota, that provides direct care for those who have been tortured, trains partner organizations in the United States and around the world who can prevent and treat torture, conducts research to understand how best to heal survivors, and advocates for an end to torture.\nCVT's mission is to heal the wounds of torture on individuals, their families and their communities, and to end torture worldwide and it has won the APA International Humanitarian Award from the American Psychological Association\nSince its founding in 1985, CVT has:\n\nRehabilitated over 30,000 survivors through direct healing.\nEngaged in post-conflict community building after some of the world's deadliest wars, working in Guinea, Sierra Leone, Liberia, Democratic Republic of Congo, Jordan and Kenya.\nPioneered research in torture survivor rehabilitation to better understand the effects of torture and how best to heal survivors.\nLed efforts to end the practice of torture by the US government, including President Obama's executive order banning torture and cruel treatment.\nCVT provides care for survivors at its healing center in St. Paul, Minnesota, and at projects in Jordan, the Dadaab refugee camps in Kenya, Nairobi, Kenya, Uganda and in northern Ethiopia working with Eritrean refugees. It has an office in Washington, D.C.\nThe Center for Victims of Torture is a 501(c)(3) organization that is recognized by the ..."
 },
 {
 "id": "V180",
@@ -1977,7 +2156,8 @@ const SAMPLE = [
 "founded": "1956",
 "parents": "",
 "website": "http://nirfi.ru/",
-"wikipedia": "https://en.wikipedia.org/wiki/Radiophysical_Research_Institute"
+"wikipedia": "https://en.wikipedia.org/wiki/Radiophysical_Research_Institute",
+"wiki_text": "The Radiophysical Research Institute (NIRFI), based in Nizhny Novgorod, Russia, is a research institute that conducts basic and applied research in the field of radiophysics, radio astronomy, cosmology and radio engineering. It is also known for its work in solar physics, sun-earth physics as well as the related geophysics. It also does outreach for the Russian education system. It was formed in 1956 as the Radiophysical Research Institute of the (Soviet) Ministry of Education and Science."
 },
 {
 "id": "V181",
@@ -1988,7 +2168,8 @@ const SAMPLE = [
 "founded": "1966",
 "parents": "",
 "website": "https://www.unitedmedicaldc.com/",
-"wikipedia": "https://en.wikipedia.org/wiki/United_Medical_Center"
+"wikipedia": "https://en.wikipedia.org/wiki/United_Medical_Center",
+"wiki_text": "United Medical Center, formerly Greater Southeast Community Hospital, was a public hospital in Washington D.C. The 330-bed facility was located in the Washington Highlands neighborhood.\nIn 2016, the government of the District of Columbia awarded a no-bid contract for running the hospital to Veritas, a politically connected firm with limited experience in health care management. While receiving more than $800,000 monthly to manage the hospital, Veritas failed to improve the quality of care. Under Veritas management there were several cases of preventable patient deaths and negligence. The only obstetrics ward east of the Anacostia River was closed by regulators because it could not meet minimum standards. In 2018, following a close vote in the D.C. Council, a new management firm was selected.\nBetween the 2001 closure of the District of Columbia General Hospital and 2015, UMC was the only general hospital in the southeast quadrant of the District. UMC itself closed on April 15, 2025, upon the opening of the nearby Cedar Hill Regional Medical Center on the campus of St. Elizabeth's Psychiatric Hospital."
 },
 {
 "id": "V182",
@@ -1999,7 +2180,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "Ghent University; Vlaams Instituut voor Biotechnologie; Vrije Universiteit Brussel",
 "website": "https://vib.be/labs/van-ginderachter-lab",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V183",
@@ -2010,7 +2192,8 @@ const SAMPLE = [
 "founded": "1950",
 "parents": "",
 "website": "http://www.iaglr.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V184",
@@ -2021,7 +2204,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://www.cvmg.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V185",
@@ -2032,7 +2216,8 @@ const SAMPLE = [
 "founded": "1993",
 "parents": "",
 "website": "https://cpd.org.bd/",
-"wikipedia": "https://en.wikipedia.org/wiki/Centre_for_Policy_Dialogue"
+"wikipedia": "https://en.wikipedia.org/wiki/Centre_for_Policy_Dialogue",
+"wiki_text": "The Centre for Policy Dialogue (CPD) is a non-governmental think-tank in Bangladesh. It was established in 1993 by Rehman Sobhan, its founder chairman, with support from leading civil society institutions in Bangladesh"
 },
 {
 "id": "V186",
@@ -2043,7 +2228,8 @@ const SAMPLE = [
 "founded": "1924",
 "parents": "",
 "website": "https://www.telefonica.com/es/",
-"wikipedia": "https://en.wikipedia.org/wiki/Telef%C3%B3nica"
+"wikipedia": "https://en.wikipedia.org/wiki/Telef%C3%B3nica",
+"wiki_text": "Telefónica, S.A. (Spanish pronunciation: [teleˈfonika]) is a Spanish multinational telecommunications company. It has headquarters as well as a registered office in Madrid, Spain. It is one of the largest telephone operators and mobile network providers in the world. It provides fixed and mobile telephony, broadband, and subscription television, operating in Europe and the Americas.\nAlong with its Telefónica brand, it also trades as Movistar, O2, and Vivo. The company is a component of the Euro Stoxx 50 stock market index. On 15 April 2012, Telefónica shut down TVA and Ajacto, which unified the brand into Vivo."
 },
 {
 "id": "V187",
@@ -2054,7 +2240,8 @@ const SAMPLE = [
 "founded": "1987",
 "parents": "",
 "website": "https://www.chuliege.be",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V188",
@@ -2065,7 +2252,8 @@ const SAMPLE = [
 "founded": "1977",
 "parents": "",
 "website": "https://www.mije.org/",
-"wikipedia": "https://en.wikipedia.org/wiki/Robert_C._Maynard_Institute_for_Journalism_Education"
+"wikipedia": "https://en.wikipedia.org/wiki/Robert_C._Maynard_Institute_for_Journalism_Education",
+"wiki_text": ""
 },
 {
 "id": "V189",
@@ -2076,7 +2264,8 @@ const SAMPLE = [
 "founded": "1903",
 "parents": "",
 "website": "https://www.rsef.es",
-"wikipedia": "https://es.wikipedia.org/wiki/Real_Sociedad_Espa%C3%B1ola_de_F%C3%ADsica"
+"wikipedia": "https://es.wikipedia.org/wiki/Real_Sociedad_Espa%C3%B1ola_de_F%C3%ADsica",
+"wiki_text": "La Real Sociedad Española de Física (RSEF) es una institución sin ánimo de lucro continuadora de la rama de Ciencias Físicas de la Real Sociedad Española de Física y Química (RSEFQ), fundada en el año 1903 y dividida en 1980 en las actuales Reales Sociedades de Física (RSEF) y de Química (RSEQ). La RSEF es, actualmente, una asociación declarada de Utilidad Pública. Tiene por objetivo promover el desarrollo de la física en los aspectos de conocimiento básico y de sus aplicaciones, así como fomentar la investigación científica y la enseñanza de la física en todos los ámbitos educativos. La RSEF desarrolla su actividad en todo el territorio nacional y mantiene relaciones internacionales en los ámbitos que le son propios y, en particular, con Iberoamérica (véanse los detalles y sus estatutos en el sitio web oficial de la RSEF).\nLa RSEF es un colectivo estructurado en grupos especializados y secciones locales. También tiene una Sección Exterior (Extranjero) a la que pertenecen los miembros de la RSEF que desarrollan su actividad fuera de España."
 },
 {
 "id": "V190",
@@ -2087,7 +2276,8 @@ const SAMPLE = [
 "founded": "2000",
 "parents": "",
 "website": "http://www.flexiwaggon.se/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V191",
@@ -2098,7 +2288,8 @@ const SAMPLE = [
 "founded": "2004",
 "parents": "",
 "website": "http://www.betv.be/",
-"wikipedia": "https://en.wikipedia.org/wiki/BeTV_(Belgium)"
+"wikipedia": "https://en.wikipedia.org/wiki/BeTV_(Belgium)",
+"wiki_text": "Be TV (formerly  Canal+ Belgique) is a Belgian cable television platform launched on 29 August 2004, when the former platform Vivendi sold Canal+ Benelux."
 },
 {
 "id": "V192",
@@ -2109,7 +2300,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://www.biojenc.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V193",
@@ -2120,7 +2312,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "Universidad Nacional de Entre Ríos; Consejo Nacional de Investigaciones Científicas y Técnicas",
 "website": "https://ines.conicet.gov.ar",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V194",
@@ -2131,7 +2324,8 @@ const SAMPLE = [
 "founded": "1991",
 "parents": "",
 "website": "http://www.adamsmith.edu/",
-"wikipedia": "https://en.wikipedia.org/wiki/Adam_Smith_University"
+"wikipedia": "https://en.wikipedia.org/wiki/Adam_Smith_University",
+"wiki_text": "Adam Smith University is a private distance learning university founded in 1991 by Donald Grunewald, who is still its president. Grunewald was president of Mercy College between 1972 and 1984."
 },
 {
 "id": "V195",
@@ -2142,7 +2336,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://www.californiastatebeekeepers.com/index.html",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V196",
@@ -2153,7 +2348,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://www.eugt.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V197",
@@ -2164,7 +2360,8 @@ const SAMPLE = [
 "founded": "1972",
 "parents": "",
 "website": "http://www.tfri.org/TFRI.org/TFRI.html",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V198",
@@ -2175,7 +2372,8 @@ const SAMPLE = [
 "founded": "1998",
 "parents": "",
 "website": "http://www.total-gruppen.no/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V199",
@@ -2186,7 +2384,8 @@ const SAMPLE = [
 "founded": "1947",
 "parents": "",
 "website": "https://rodaleinstitute.org/",
-"wikipedia": "https://en.wikipedia.org/wiki/The_Rodale_Institute"
+"wikipedia": "https://en.wikipedia.org/wiki/The_Rodale_Institute",
+"wiki_text": "Rodale Institute is a non-profit organization that supports research into organic farming. It was founded in Emmaus, Pennsylvania, in 1947 by J. I. Rodale, an organic living entrepreneur. After J.I. Rodale died in 1971, his son Robert Rodale purchased 333 acres and moved the farm to Kutztown, Pennsylvania.\nRodale Institute uses a long-term, side-by-side research trial model to compare organic and conventional agriculture. Its longest running experiment, the Farming Systems Trial, has been running since 1981 and compares organic and conventional corn, soybeans, and other grains. The institute also researches the effects of growing food without chemical pesticides, herbicides and fertilizers on human health, water quality, climate change, and more.\nCollaborations with farmers and agricultural science peers throughout the nation and world enable institute researchers to replicate experiments across different geographical regions and benefit farmers with opportunities to test new approaches to organic production. The institute allies with national and state-level organic certification programs, industry leaders and elected officials to help shape policy. The institute also partners strategically with U.S. and foreign government entities, businesses, and organizations to promote regenerative organic farming opportunities and to expand the benefits of organic agriculture to more people."
 },
 {
 "id": "V200",
@@ -2197,7 +2396,8 @@ const SAMPLE = [
 "founded": "1909",
 "parents": "Osaka Prefectural Education Center",
 "website": "http://www.osaka-c.ed.jp/neyagawa/zen/index.html",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V201",
@@ -2208,7 +2408,8 @@ const SAMPLE = [
 "founded": "1995",
 "parents": "",
 "website": "",
-"wikipedia": "https://fr.wikipedia.org/wiki/Universit%C3%A9_Bordeaux-IV"
+"wikipedia": "https://fr.wikipedia.org/wiki/Universit%C3%A9_Bordeaux-IV",
+"wiki_text": "L’université Bordeaux-IV, de nom d’usage « université Montesquieu Bordeaux IV », est une université française ayant existé entre 1995 et 2013. Consacrée au droit et aux sciences économiques, elle fusionne le 1er janvier 2014 avec deux autres universités bordelaises pour former l'université de Bordeaux et devient par conséquent le Collège droit, science politique, économie, gestion de l'Université de Bordeaux composé de la Faculté de droit et science politique, la Faculté d'économie, gestion et AES, l'Institut d'administration des entreprises et l'Institut du travail.  \nSon plus gros site est situé dans le domaine universitaire de Talence Pessac Gradignan. Elle possède des sites délocalisés à Bordeaux (Caudéran, quartier de la Bastide, avec le pôle universitaire des sciences de gestion de Bordeaux), Mérignac, Agen, Périgueux et Mont-de-Marsan. Ses domaines principaux sont le droit et les sciences politiques, les sciences économiques et sociales, et les sciences de gestion et management."
 },
 {
 "id": "V202",
@@ -2219,7 +2420,8 @@ const SAMPLE = [
 "founded": "1990",
 "parents": "",
 "website": "https://www.ulat.edu.bo/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V203",
@@ -2230,7 +2432,8 @@ const SAMPLE = [
 "founded": "1990",
 "parents": "ETH Zurich",
 "website": "http://www.ifd.mavt.ethz.ch",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V204",
@@ -2241,7 +2444,8 @@ const SAMPLE = [
 "founded": "1975",
 "parents": "",
 "website": "http://www.searhc.org/",
-"wikipedia": "https://en.wikipedia.org/wiki/Southeast_Alaska_Regional_Health_Consortium"
+"wikipedia": "https://en.wikipedia.org/wiki/Southeast_Alaska_Regional_Health_Consortium",
+"wiki_text": "Southeast Alaska Regional Health Consortium (SEARHC) is a non-profit medical, dental, vision and mental health organization serving the health interests of the residents of Southeast Alaska."
 },
 {
 "id": "V205",
@@ -2252,7 +2456,8 @@ const SAMPLE = [
 "founded": "1958",
 "parents": "",
 "website": "http://www.xztu.edu.cn/",
-"wikipedia": "https://en.wikipedia.org/wiki/Xinzhou_Teachers_University"
+"wikipedia": "https://en.wikipedia.org/wiki/Xinzhou_Teachers_University",
+"wiki_text": "Xinzhou Normal University (Chinese: 忻州师范学院; pinyin: Xīnzhōu shīfàn xuéyuàn) is a university in Shanxi, China under the authority of the provincial government."
 },
 {
 "id": "V206",
@@ -2263,7 +2468,8 @@ const SAMPLE = [
 "founded": "2004",
 "parents": "",
 "website": "http://www.medema.no/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V207",
@@ -2274,7 +2480,8 @@ const SAMPLE = [
 "founded": "2002",
 "parents": "",
 "website": "http://www.arvalisinstitutduvegetal.fr/index.html",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V208",
@@ -2285,7 +2492,8 @@ const SAMPLE = [
 "founded": "1979",
 "parents": "",
 "website": "http://www.dju.ac.kr/foreign/eng/html/main.htm#",
-"wikipedia": "http://en.wikipedia.org/wiki/Daejeon_University"
+"wikipedia": "http://en.wikipedia.org/wiki/Daejeon_University",
+"wiki_text": "Daejeon University (Korean: 대전대학교) is a private university located in Daejeon, South Korea. About 230 instructors are employed, with Lim Yong-Cheol (임용철) as the current president. The university also operates four Oriental medicine hospitals, two in Daejeon and the others in Chungju and Chunan."
 },
 {
 "id": "V209",
@@ -2296,7 +2504,8 @@ const SAMPLE = [
 "founded": "2016",
 "parents": "",
 "website": "https://www.sapienlabs.org",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V210",
@@ -2307,7 +2516,8 @@ const SAMPLE = [
 "founded": "1866",
 "parents": "",
 "website": "http://info.hazu.hr/hr/",
-"wikipedia": "https://en.wikipedia.org/wiki/Croatian_Academy_of_Sciences_and_Arts"
+"wikipedia": "https://en.wikipedia.org/wiki/Croatian_Academy_of_Sciences_and_Arts",
+"wiki_text": "The Croatian Academy of Sciences and Arts (Latin: Academia Scientiarum et Artium Croatica; Croatian: Hrvatska akademija znanosti i umjetnosti, HAZU) is the national academy of Croatia, located in the centre of Zagreb. It operates under the Croatian Academy of Sciences and Arts Act.\nHAZU was founded under the patronage of the Croatian bishop Josip Juraj Strossmayer under the name Yugoslav Academy of Sciences and Arts (Croatian: Jugoslavenska akademija znanosti i umjetnosti, JAZU) since its founder wanted to make it the central scientific and artistic institution of all South Slavs. Today, its main goals are encouraging and organizing scientific work, applying the achieved results, developing of artistic and cultural activities, carrying about the Croatian cultural heritage and its affirmation in the world, publishing the results of scientific research and artistic creativity and giving suggestions and opinions for the advancement of science and art in areas of particular importance to Croatia.\nThe academy is divided into nine classes; social sciences, mathematical, physical and chemical sciences, natural sciences, medical sciences, philological sciences, Literature, Fine Arts, Musical Arts and Musicology, technical sciences. The academy started in 1866 with 16 full members which grew to today's 160. Besides full, members can also be honorary, corresponding or associate."
 },
 {
 "id": "V211",
@@ -2318,7 +2528,8 @@ const SAMPLE = [
 "founded": "1964",
 "parents": "Telecom Italia (Italy)",
 "website": "",
-"wikipedia": "https://en.wikipedia.org/wiki/CSELT"
+"wikipedia": "https://en.wikipedia.org/wiki/CSELT",
+"wiki_text": "Telecom Italia Lab S.p.A. (formerly Centro Studi e Laboratori Telecomunicazioni S.p.A.; CSELT) is an Italian research center for telecommunication based in Turin, the biggest in Italy and one of the most important in Europe.\nIt played a major role internationally especially in the standardization of protocols and technologies in telecommunication: perhaps the most widely well known is the standardization of mp3.\nCSELT has been active from 1964 to 2001, initially as a part of the IRI-STET group, the major conglomerate of Italian public Industries in the 1960s and 1970s; it later became part of Telecom Italia Group. In 2001, it was renamed Telecom Italia Lab as part of Telecom Italia Group."
 },
 {
 "id": "V212",
@@ -2329,7 +2540,8 @@ const SAMPLE = [
 "founded": "2001",
 "parents": "",
 "website": "http://ctic-cita.es/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V213",
@@ -2340,7 +2552,8 @@ const SAMPLE = [
 "founded": "1999",
 "parents": "Consejo Superior de Investigaciones Científicas; University of the Basque Country",
 "website": "https://cfm.ehu.es",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V214",
@@ -2351,7 +2564,8 @@ const SAMPLE = [
 "founded": "1819",
 "parents": "ESCP Business School",
 "website": "https://escp.eu/berlin",
-"wikipedia": "https://en.wikipedia.org/wiki/ESCP_Business_School"
+"wikipedia": "https://en.wikipedia.org/wiki/ESCP_Business_School",
+"wiki_text": "ESCP Business School (French: École Supérieure de Commerce de Paris; English: Upper Business School of Paris) is a French business school and grande école founded in Paris and based across Europe with campuses in Paris, Berlin, London, Madrid, Turin, and Warsaw. Established in 1819, it is considered the world's oldest business school. ESCP Business School runs BSc, MBA, Executive MBA, master's degree programs in finance and management, executive education programs, and PhD programs.\nIt is, along with HEC and ESSEC, a member of the Parisiennes, an informal term designating the three most prestigious business schools in France."
 },
 {
 "id": "V215",
@@ -2362,7 +2576,8 @@ const SAMPLE = [
 "founded": "1990",
 "parents": "",
 "website": "http://www.issep.be",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V216",
@@ -2373,7 +2588,8 @@ const SAMPLE = [
 "founded": "1979",
 "parents": "",
 "website": "https://www.opm.gov/",
-"wikipedia": "https://en.wikipedia.org/wiki/United_States_Office_of_Personnel_Management"
+"wikipedia": "https://en.wikipedia.org/wiki/United_States_Office_of_Personnel_Management",
+"wiki_text": "The United States Office of Personnel Management (OPM) is an independent agency of the federal government of the United States that manages the United States federal civil service. The agency provides federal human resources policy, oversight, and support, and tends to healthcare (FEHB), life insurance (FEGLI), and retirement benefits (CSRS and FERS, but not TSP) for federal government employees, retirees, and their dependents.\nOPM is headed by a director, who is nominated by the president and confirmed by the Senate. As of July 14, 2025, Scott Kupor is the director."
 },
 {
 "id": "V217",
@@ -2384,7 +2600,8 @@ const SAMPLE = [
 "founded": "2003",
 "parents": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
 "website": "https://www.inrae.fr/actualites?inrae_prod%5bsortBy%5d=inrae_prod_created_date_desc&inrae_prod%5brefinementList%5d%5bname_department%5d%5b0%5d=NUMM",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V218",
@@ -2395,7 +2612,8 @@ const SAMPLE = [
 "founded": "1997",
 "parents": "",
 "website": "http://ribbletrust.org.uk/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V219",
@@ -2406,7 +2624,8 @@ const SAMPLE = [
 "founded": "1972",
 "parents": "",
 "website": "http://sport.wales/",
-"wikipedia": "https://en.wikipedia.org/wiki/Sport_Wales"
+"wikipedia": "https://en.wikipedia.org/wiki/Sport_Wales",
+"wiki_text": "The Sports Council for Wales, branded as simply Sport Wales (Welsh: Chwaraeon Cymru), is the national organisation responsible for developing and promoting sport and physical activity in Wales. Working alongside partners such as governing bodies of sport and local authorities, they aim to encourage sporting ambitions in the young and promote championship standards nationally.\nThey are the main adviser on sporting matters to the Welsh Government and are responsible for distributing National Lottery funds to both elite and grassroots sport in Wales.\nIt was established by Royal Charter on 4 February 1972."
 },
 {
 "id": "V220",
@@ -2417,7 +2636,8 @@ const SAMPLE = [
 "founded": "2001",
 "parents": "Indra (Spain)",
 "website": "http://www.elecnor-deimos.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V221",
@@ -2428,7 +2648,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://ccp.pt",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V222",
@@ -2439,7 +2660,8 @@ const SAMPLE = [
 "founded": "2003",
 "parents": "Polish Academy of Sciences",
 "website": "http://ibmpan.pl/en/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V223",
@@ -2450,7 +2672,8 @@ const SAMPLE = [
 "founded": "1998",
 "parents": "Institut de Chimie; Université Paris Cité",
 "website": "http://www.comete.cnrs.fr/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V224",
@@ -2461,7 +2684,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://www.minot.k12.nd.us",
-"wikipedia": "https://en.wikipedia.org/wiki/Minot_Public_Schools"
+"wikipedia": "https://en.wikipedia.org/wiki/Minot_Public_Schools",
+"wiki_text": "Minot Public Schools (MPS) is a system of publicly funded K-12 schools in Minot, North Dakota.  There are thirteen elementary schools, four middle schools, two high schools, and one alternative high school. Three schools (two elementary & one middle school) are located on Minot AFB, fifteen miles north.  Minot City Transit provides busing service."
 },
 {
 "id": "V225",
@@ -2472,7 +2696,8 @@ const SAMPLE = [
 "founded": "1983",
 "parents": "",
 "website": "http://crdq.ca/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V226",
@@ -2483,7 +2708,8 @@ const SAMPLE = [
 "founded": "2020",
 "parents": "",
 "website": "https://www.senja.kommune.no",
-"wikipedia": "https://no.wikipedia.org/wiki/Senja_%28kommune%29"
+"wikipedia": "https://no.wikipedia.org/wiki/Senja_%28kommune%29",
+"wiki_text": "Senja er en kommune i Troms fylke. Kommunen har Finnsnes som administrasjonssenter.\nKommunen ble opprettet 1. januar 2020 ved en sammenslåing av de fire kommunene Berg, Lenvik, Torsken og Tranøy. Størsteparten av kommunen ligger på øya Senja, som er Norges nest største øy. Kommunen grenser mot Sørreisa og Dyrøy i sørvest."
 },
 {
 "id": "V227",
@@ -2494,7 +2720,8 @@ const SAMPLE = [
 "founded": "1981",
 "parents": "",
 "website": "https://www.jhun.edu.cn",
-"wikipedia": "http://en.wikipedia.org/wiki/Jianghan_University"
+"wikipedia": "http://en.wikipedia.org/wiki/Jianghan_University",
+"wiki_text": "Jianghan University (Chinese: 江汉大学; pinyin: Jiānghàn dàxúe) is a provincial public university in Wuhan, Hubei, China. Its campus is 1.4 km2, with an additional 0.5 km2 under construction. It lies in the Wuhan Economy and Technology Development Zone by the Lake Sanjiao.\nThere are ten disciplines in the university: economics, law, education, literature, history, agriculture, science, engineering, medicine, fine arts, design and management. The university offers 42 undergraduate programs. There are about 1,000 full-time teachers, of whom 103 are full professors and about 400 associate professors. The number of full-time students is 15,600."
 },
 {
 "id": "V228",
@@ -2505,7 +2732,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://cari.chamc.co.kr",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V229",
@@ -2516,7 +2744,8 @@ const SAMPLE = [
 "founded": "2003",
 "parents": "",
 "website": "http://www.bibliosan.it",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V230",
@@ -2527,7 +2756,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://www.rockymtresearch.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V231",
@@ -2538,7 +2768,8 @@ const SAMPLE = [
 "founded": "1972",
 "parents": "VA Sunshine Healthcare Network",
 "website": "http://www.tampa.va.gov/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V232",
@@ -2549,7 +2780,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://farmacore.lwsite.com.br/english",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V233",
@@ -2560,7 +2792,8 @@ const SAMPLE = [
 "founded": "2007",
 "parents": "Hong Kong University of Science and Technology",
 "website": "http://fytgs.ust.hk/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V234",
@@ -2571,7 +2804,8 @@ const SAMPLE = [
 "founded": "2008",
 "parents": "",
 "website": "https://www.nwiaa.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V235",
@@ -2582,7 +2816,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "U.S. National Science Foundation",
 "website": "http://www.mrsec.org/",
-"wikipedia": "https://en.wikipedia.org/wiki/Materials_Research_Science_and_Engineering_Centers"
+"wikipedia": "https://en.wikipedia.org/wiki/Materials_Research_Science_and_Engineering_Centers",
+"wiki_text": "Materials Research Science and Engineering Centers (MRSECs) are university based research centers supported by the MRSEC Program of the Division of Materials Research at the U.S. National Science Foundation (NSF). The centers support interdisciplinary research on materials science. MRSECs are a significant component of NSF's center-based research portfolio. MRSECs were established by NSF in 1994 but their roots go back to the post-Sputnik era. These centers required significant changes in the conduct of materials research and education.\nSince much of the information regarding current MRSECs is available from websites only a brief overview of the current program is provided. The main purpose of this article is to review the historical aspects of MRSECs and the significance of their impact on materials research and education in the U.S."
 },
 {
 "id": "V236",
@@ -2593,7 +2828,8 @@ const SAMPLE = [
 "founded": "1960",
 "parents": "",
 "website": "https://www.spirehealthcare.com/spire-thames-valley-hospital/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V237",
@@ -2604,7 +2840,8 @@ const SAMPLE = [
 "founded": "1624",
 "parents": "",
 "website": "http://www.desarbre.com/pages/page123.html",
-"wikipedia": "https://en.wikipedia.org/wiki/Val-de-Gr%C3%A2ce"
+"wikipedia": "https://en.wikipedia.org/wiki/Val-de-Gr%C3%A2ce",
+"wiki_text": "The Val-de-Grâce (French pronunciation: [val də ɡʁɑs]; Hôpital d'instruction des armées du Val-de-Grâce or HIA Val-de-Grâce) was a military hospital located at 74 boulevard de Port-Royal in the 5th arrondissement of Paris, France. It was closed as a hospital in 2016."
 },
 {
 "id": "V238",
@@ -2615,7 +2852,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://www.edacentrum.de/en",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V239",
@@ -2626,7 +2864,8 @@ const SAMPLE = [
 "founded": "1971",
 "parents": "",
 "website": "http://www.cgiar.org/",
-"wikipedia": "https://en.wikipedia.org/wiki/CGIAR"
+"wikipedia": "https://en.wikipedia.org/wiki/CGIAR",
+"wiki_text": "CGIAR (formerly the Consultative Group for International Agricultural Research) is a global partnership that unites international organizations engaged in research about food security. CGIAR research aims to reduce rural poverty, increase food security, improve human health and nutrition, and sustainable management of natural resources.\nCGIAR research is carried out at 15 centers that collaborate with partners from national and regional research institutes, civil society organizations, academia, development organizations, and the private sector. These research centers are around the globe, with most in the Global South and Vavilov centers of agricultural crop genetic diversity. CGIAR has an annual research portfolio of just over US$900 million with more than 9,000 staff working in 89 countries.\nFunding is provided by national governments, multilateral funding and development agencies and leading private foundations. Representatives of CGIAR Funders and developing countries meet as the CGIAR System Council to keep under review the strategy, mission, impact and continued relevancy of the CGIAR System in a rapidly changing landscape of agricultural research for development."
 },
 {
 "id": "V240",
@@ -2637,7 +2876,8 @@ const SAMPLE = [
 "founded": "2020",
 "parents": "",
 "website": "https://www.humanrights.at",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V241",
@@ -2648,7 +2888,8 @@ const SAMPLE = [
 "founded": "1989",
 "parents": "",
 "website": "https://www.iser.essex.ac.uk/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V242",
@@ -2659,7 +2900,8 @@ const SAMPLE = [
 "founded": "1987",
 "parents": "",
 "website": "http://www.universitypathologists.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V243",
@@ -2670,7 +2912,8 @@ const SAMPLE = [
 "founded": "1908",
 "parents": "",
 "website": "",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V244",
@@ -2681,7 +2924,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://pib-samara.ru/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V245",
@@ -2692,7 +2936,8 @@ const SAMPLE = [
 "founded": "1985",
 "parents": "",
 "website": "http://www.swedishcollegium.se/",
-"wikipedia": "https://en.wikipedia.org/wiki/Swedish_Collegium_for_Advanced_Study"
+"wikipedia": "https://en.wikipedia.org/wiki/Swedish_Collegium_for_Advanced_Study",
+"wiki_text": "The Swedish Collegium for Advanced Study (SCAS) is an institute for advanced study in Uppsala, Sweden. It is one of the ten member institutions of the Some Institutes for Advanced Study consortium, which brings together some of the world's most distinguished institutes for advanced study. SCAS is also a member of the European network of institutes for advanced study NetIAS. In 2022, SCAS was one of the founders of NordIAS, a network of Nordic institutes for advanced study.\nThe Swedish Collegium for Advanced Study is host to the prestigious Pro Futura Scientia Program, funded by Riksbankens Jubileumsfond.\nThe Collegium was founded in 1985, chartered by the Swedish government and offers one-semester and one-year fellowships to visiting scholars, as well as opportunities for short-term stays, ranging from postdoctoral to professorial positions. Since January 2007, it is located in the Linneanum and the Prefekt Villan in the Uppsala University Botanical Garden. It was earlier located in a villa in the Kåbo district of Uppsala. Since its inception in 1985, the Collegium has hosted more than 650 fellows.\nChristina Garsten, Professor of Social Anthropology, is the collegium's principal, since 2018."
 },
 {
 "id": "V246",
@@ -2703,7 +2948,8 @@ const SAMPLE = [
 "founded": "2011",
 "parents": "Centre National de la Recherche Scientifique; Université Laval",
 "website": "http://www.takuvik.ulaval.ca",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V247",
@@ -2714,7 +2960,8 @@ const SAMPLE = [
 "founded": "1957",
 "parents": "",
 "website": "http://www.sanidadnaval.cl/wsg/sitio/hospitales/paghist_pw.htm",
-"wikipedia": "https://en.wikipedia.org/wiki/Naval_Hospital_of_Puerto_Williams"
+"wikipedia": "https://en.wikipedia.org/wiki/Naval_Hospital_of_Puerto_Williams",
+"wiki_text": ""
 },
 {
 "id": "V248",
@@ -2725,7 +2972,8 @@ const SAMPLE = [
 "founded": "2014",
 "parents": "",
 "website": "https://www.mepequinesolutions.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V249",
@@ -2736,7 +2984,8 @@ const SAMPLE = [
 "founded": "1992",
 "parents": "",
 "website": "http://www.iembiogas.org/home.html",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V250",
@@ -2747,7 +2996,8 @@ const SAMPLE = [
 "founded": "2025",
 "parents": "",
 "website": "https://www.scottishsciencesociety.org",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V251",
@@ -2758,7 +3008,8 @@ const SAMPLE = [
 "founded": "1968",
 "parents": "ASM International (Netherlands)",
 "website": "https://www.asm.com/home",
-"wikipedia": "https://en.wikipedia.org/wiki/ASM_International"
+"wikipedia": "https://en.wikipedia.org/wiki/ASM_International",
+"wiki_text": "ASM International N.V. (with ASM standing for Advanced Semiconductor Materials) is a Dutch multinational corporation that designs, manufactures, sells, and services equipment used in the fabrication of semiconductor devices. Its products are utilized by semiconductor manufacturers in fabrication plants for processes such as atomic layer deposition, epitaxy, chemical vapor deposition, and diffusion.\nThe company was founded by Arthur del Prado (1931–2016) in 1964.  From 2008 until 2020, son of Arthur del Prado, Chuck del Prado was CEO. \nASM pioneered important aspects of many established wafer-processing technologies used in industry, including lithography, deposition, ion implantation, single-wafer epitaxy, and in recent years atomic layer deposition. Semiconductor equipment companies ASML, ASM Pacific Technology (ASMPT) and Besi are former divisions of ASM.\nASM headquarters is located in Almere, the Netherlands. The company has R&D sites in Almere (the Netherlands), Helsinki (Finland), Leuven (Belgium, near IMEC), Phoenix (Arizona), Tama (Japan), and Dongtan (South Korea). Manufacturing primarily occurs in Singapore and Dongtan (South-Korea). ASM also has sales & service offices across the globe, including United States, South Korea, China, Taiwan, Japan, Singapore and Israel. As of 2021, it has 3,312 staff, located in 14 countries.\nThe shares of the company are listed on the Euronext Amsterdam. In March 2020, ASM was promoted to the AEX index. ASM has a minority stake in ..."
 },
 {
 "id": "V252",
@@ -2769,7 +3020,8 @@ const SAMPLE = [
 "founded": "1924",
 "parents": "",
 "website": "https://pasadena.edu/",
-"wikipedia": "https://en.wikipedia.org/wiki/Pasadena_City_College"
+"wikipedia": "https://en.wikipedia.org/wiki/Pasadena_City_College",
+"wiki_text": "Pasadena City College (PCC) is a public community college in Pasadena, California. It was founded in 1924 as Pasadena Junior College."
 },
 {
 "id": "V253",
@@ -2780,7 +3032,8 @@ const SAMPLE = [
 "founded": "2010",
 "parents": "",
 "website": "https://www.rruka.org.uk/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V254",
@@ -2791,7 +3044,8 @@ const SAMPLE = [
 "founded": "1955",
 "parents": "",
 "website": "https://dsn.dk/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V255",
@@ -2802,7 +3056,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://inovapotek.com",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V256",
@@ -2813,7 +3068,8 @@ const SAMPLE = [
 "founded": "1991",
 "parents": "",
 "website": "http://www.scottish-enterprise.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V257",
@@ -2824,7 +3080,8 @@ const SAMPLE = [
 "founded": "1990",
 "parents": "",
 "website": "http://www.plantgenomics.genetics.cas.cn/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V258",
@@ -2835,7 +3092,8 @@ const SAMPLE = [
 "founded": "1989",
 "parents": "",
 "website": "http://www.janamef.jp/en/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V259",
@@ -2846,7 +3104,8 @@ const SAMPLE = [
 "founded": "1845",
 "parents": "",
 "website": "http://www1.nyc.gov/site/nypd/index.page",
-"wikipedia": "https://en.wikipedia.org/wiki/New_York_City_Police_Department"
+"wikipedia": "https://en.wikipedia.org/wiki/New_York_City_Police_Department",
+"wiki_text": "The City of New York Police Department, also known as the New York City Police Department (NYPD), is the primary law enforcement agency within New York City as per the NYC Charter. Established on May 23, 1845, NYPD is the largest, and one of the oldest, municipal police departments in the United States.        \nThe NYPD is headquartered at 1 Police Plaza, located on Park Row in Lower Manhattan near City Hall. The NYPD's regulations are compiled in title 38 of the New York City Rules. Dedicated units of the NYPD include the Emergency Service Unit, K-9, harbor patrol, highway patrol, air support, bomb squad, counterterrorism, criminal intelligence, anti-organized crime, narcotics, mounted patrol, public transportation, and public housing units. Unlike in other towns and cities, it is not the fire department but the NYPD that has responsibility for emergency water rescue.\nThe NYPD employs more than 40,000 people, including more than 30,000 police officers as of September 2023. According to the official CompStat database, the NYPD responded to nearly 500,000 reports of crime and made more than 200,000 arrests during 2019. In 2020, it had a budget of US$6 billion. However, the NYPD's actual spending often exceeds its budget.\n\nThe NYPD's history has been colored by police brutality, corruption, and misconduct, which critics argue persists till the present day. Due to its high-profile location in New York City, the largest city and media center in the U.S., fictionalized versions ..."
 },
 {
 "id": "V260",
@@ -2857,7 +3116,8 @@ const SAMPLE = [
 "founded": "1949",
 "parents": "",
 "website": "https://www.nipne.ro",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V261",
@@ -2868,7 +3128,8 @@ const SAMPLE = [
 "founded": "1982",
 "parents": "",
 "website": "http://www.hiltonpond.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V262",
@@ -2879,7 +3140,8 @@ const SAMPLE = [
 "founded": "1994",
 "parents": "",
 "website": "http://www.cfht.hawaii.edu/",
-"wikipedia": "https://en.wikipedia.org/wiki/Canada%E2%80%93France%E2%80%93Hawaii_Telescope"
+"wikipedia": "https://en.wikipedia.org/wiki/Canada%E2%80%93France%E2%80%93Hawaii_Telescope",
+"wiki_text": "The Canada–France–Hawaii Telescope (CFHT French: Télescope Canada–France–Hawaï) is a 3.58 metres (11.7 ft) optical/infrared telescope located near the summit of Mauna Kea on the Big Island of Hawaiʻi at an altitude of 4,204 m (13,793 ft), within the Maunakea Observatories. The telescope has a Prime Focus/Cassegrain configuration, and has been in operation since 1979.\n\nCFHT had proposed redeveloping its summit facility into the Maunakea Spectroscopic Explorer, replacing the existing telescope with an 11.25 m (36.9 ft) segmented telescope while reusing much of the existing observatory infrastructure, including the foundation, telescope pier, and portions of the support building.\nAs of 2026, however, the project remains on hold pending review of governance and leasing of observatories at this site.\nIn the interim, the existing telescope will remain operating into the 2030s."
 },
 {
 "id": "V263",
@@ -2890,7 +3152,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "University of Minho",
 "website": "https://cipsi.uminho.pt",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V264",
@@ -2901,7 +3164,8 @@ const SAMPLE = [
 "founded": "1945",
 "parents": "",
 "website": "http://www.2ndair.org.uk/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V265",
@@ -2912,7 +3176,8 @@ const SAMPLE = [
 "founded": "2000",
 "parents": "Austrian Academy of Sciences; Vienna Biocenter",
 "website": "https://www.gmi.oeaw.ac.at/",
-"wikipedia": "https://en.wikipedia.org/wiki/Gregor_Mendel_Institute"
+"wikipedia": "https://en.wikipedia.org/wiki/Gregor_Mendel_Institute",
+"wiki_text": "The Gregor Mendel Institute of Molecular Plant Biology (GMI) is a basic research institute in Vienna, Austria. It was founded in 2000 by the Austrian Academy of Sciences (ÖAW) to promote cutting-edge research in the field of molecular plant biology. The GMI employs about 130 people. Its founding director was Dieter Schweizer, and the current scientific director is Liam Dolan. The institute is named after Gregor Mendel, who is also known as the \"Father of genetics,\" due to his scientific work and the fact that he studied at the University of Vienna in the mid-19th century."
 },
 {
 "id": "V266",
@@ -2923,7 +3188,8 @@ const SAMPLE = [
 "founded": "1989",
 "parents": "",
 "website": "http://www.plasticsconverters.eu/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V267",
@@ -2934,7 +3200,8 @@ const SAMPLE = [
 "founded": "2006",
 "parents": "",
 "website": "https://www.tissue-regeneration.at/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V268",
@@ -2945,7 +3212,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://www.fjxwgd.gov.cn/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V269",
@@ -2956,7 +3224,8 @@ const SAMPLE = [
 "founded": "1970",
 "parents": "Cambridgeshire and Peterborough NHS Foundation Trust",
 "website": "https://www.nhs.uk/Services/clinics/Overview/DefaultView.aspx?id=29127",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V270",
@@ -2967,7 +3236,8 @@ const SAMPLE = [
 "founded": "1923",
 "parents": "",
 "website": "http://www.saawg.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V271",
@@ -2978,7 +3248,8 @@ const SAMPLE = [
 "founded": "2009",
 "parents": "Chinese Academy of Social Sciences",
 "website": "http://iue.cass.cn/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V272",
@@ -2989,7 +3260,8 @@ const SAMPLE = [
 "founded": "2010",
 "parents": "",
 "website": "http://www.g-risc.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V273",
@@ -3000,7 +3272,8 @@ const SAMPLE = [
 "founded": "2004",
 "parents": "Université Paris-Saclay",
 "website": "https://sondra.fr",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V274",
@@ -3011,7 +3284,8 @@ const SAMPLE = [
 "founded": "1978",
 "parents": "",
 "website": "http://www.abvp.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V275",
@@ -3022,7 +3296,8 @@ const SAMPLE = [
 "founded": "1369",
 "parents": "",
 "website": "https://ajuntament.barcelona.cat",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V276",
@@ -3033,7 +3308,8 @@ const SAMPLE = [
 "founded": "1935",
 "parents": "",
 "website": "https://www.up.ac.pa",
-"wikipedia": "http://en.wikipedia.org/wiki/University_of_Panama"
+"wikipedia": "http://en.wikipedia.org/wiki/University_of_Panama",
+"wiki_text": "The University of Panama (Spanish: Universidad de Panamá) is a public university in Panama City, Panama. It was founded on October 7, 1935. Initially, it had 175 students learning education, commerce, natural sciences, pharmacy, pre-engineering or law. As of 2008, it had 74,059 students distributed in 228 buildings across the country.\nThe University of Panama was founded by Octavio Méndez Pereira, who also served as the university's first president."
 },
 {
 "id": "V277",
@@ -3044,7 +3320,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://moncucco.ch/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V278",
@@ -3055,7 +3332,8 @@ const SAMPLE = [
 "founded": "1982",
 "parents": "Mahkamah Agung Republik Indonesia",
 "website": "https://pn-balebandung.go.id",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V279",
@@ -3066,7 +3344,8 @@ const SAMPLE = [
 "founded": "2005",
 "parents": "",
 "website": "http://www.gzmedia.com/en-GB/Homepage.aspx",
-"wikipedia": "https://en.wikipedia.org/wiki/GZ_Media"
+"wikipedia": "https://en.wikipedia.org/wiki/GZ_Media",
+"wiki_text": "GZ Media, named for the Czech Gramofonové Závody, which translates to Gramophone Record Factory, employs nearly 2,000 people, and runs its major operations in Loděnice in the Czech Republic. GZ Media is known as the world's largest vinyl manufacturer. Since its founding in 1951, it has supplied records across the Eastern Bloc.\nWinslow Partners, a U.S. Private Equity Fund, briefly acquired GZ Media in 1998, only to sell it a few years later. Current GZ Media owner and president Zdenek Pelc is the longest reigning CEO in the history of the Czech Republic.\nSupported by American investments, GZ Media has developed into a modern business enterprise, accounting for approximately 60% of total vinyl records produced globally. According to The Guardian, GZ Media was valued at £76 million ($100 million) in 2016 and was forecast to press just over 25 million records a year. In 2015 it produced about 65,000 records per day.\nGZ Media is often criticized for inconsistent and poor vinyl pressing quality, with users reporting high rates of defects like warping, non-fill, scratches, and surface noise, though some experience good pressings, suggesting variability linked to high demand, rushed processes, and older equipment, despite GZ's status as a massive, historically significant plant. Complaints highlight issues with quality control (QC), soft vinyl that blisters, and a perception that GZ presses lower-tier pressings as brands avoid mentioning them in marketing for premium releases, ..."
 },
 {
 "id": "V280",
@@ -3077,7 +3356,8 @@ const SAMPLE = [
 "founded": "1999",
 "parents": "",
 "website": "http://www.redlen.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V281",
@@ -3088,7 +3368,8 @@ const SAMPLE = [
 "founded": "2010",
 "parents": "",
 "website": "http://www.orthoinno.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V282",
@@ -3099,7 +3380,8 @@ const SAMPLE = [
 "founded": "1919",
 "parents": "",
 "website": "http://www.halliburton.com/",
-"wikipedia": "https://en.wikipedia.org/wiki/Halliburton"
+"wikipedia": "https://en.wikipedia.org/wiki/Halliburton",
+"wiki_text": "Halliburton Company is an American multinational corporation and the world's second-largest oil service company, responsible for most of the world's fracking operations. The company, incorporated in the United States, has dual headquarters located in Houston and in Dubai.\nHalliburton's major business segment is the Energy Services Group (ESG). \nThe company has been criticized for its involvement in numerous controversies, including its involvement with Dick Cheney – as U.S. Secretary of Defense, then CEO of the company, then vice president of the United States – and the Iraq War, and the Deepwater Horizon, for which it agreed to settle outstanding legal claims against it by paying litigants $1.1 billion. In 2015, Halliburton was found guilty in court for illegal retaliation against a whistleblower who filed a report with the SEC over concerns that the company was illegally concealing billions of dollars. The company has also been criticized for refusing to comply with United States Environmental Protection Agency requests for transparency around chemicals it uses in hydraulic fracturing. \nJeff Miller was promoted to President of Halliburton on August 1, 2014, and CEO on June 1, 2017, replacing Dave Lesar."
 },
 {
 "id": "V283",
@@ -3110,7 +3392,8 @@ const SAMPLE = [
 "founded": "1916",
 "parents": "",
 "website": "http://www.cement.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V284",
@@ -3121,7 +3404,8 @@ const SAMPLE = [
 "founded": "2014",
 "parents": "Institut de Chimie; Sorbonne Université; Centre National de la Recherche Scientifique",
 "website": "https://www.lise.upmc.fr/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V285",
@@ -3132,7 +3416,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://www.miekosei.or.jp/4_ish/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V286",
@@ -3143,7 +3428,8 @@ const SAMPLE = [
 "founded": "1989",
 "parents": "",
 "website": "http://www.apre.it/en",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V287",
@@ -3154,7 +3440,8 @@ const SAMPLE = [
 "founded": "1950",
 "parents": "",
 "website": "https://www.kuzstu.ru/",
-"wikipedia": "https://en.wikipedia.org/wiki/Kuzbass_State_Technical_University"
+"wikipedia": "https://en.wikipedia.org/wiki/Kuzbass_State_Technical_University",
+"wiki_text": "Kuzbass State Technical University (KuzSTU) is one of higher schools which trains specialists for the economy of Kuzbass, Russia."
 },
 {
 "id": "V288",
@@ -3165,7 +3452,8 @@ const SAMPLE = [
 "founded": "1992",
 "parents": "United States Department of the Air Force",
 "website": "https://www.afmc.af.mil",
-"wikipedia": "https://en.wikipedia.org/wiki/Air_Force_Materiel_Command"
+"wikipedia": "https://en.wikipedia.org/wiki/Air_Force_Materiel_Command",
+"wiki_text": "The Air Force Materiel Command (AFMC) is a major command (MAJCOM) of the United States Air Force (USAF). AFMC was created on July 1, 1992, through the amalgamation of the former Air Force Logistics Command (AFLC) and the former Air Force Systems Command (AFSC).\nAFMC is headquartered at Wright-Patterson Air Force Base in Dayton, Ohio. AFMC is one of nine Air Force major commands and has a workforce of approximately 80,000 military and civilian personnel. It is the Air Force's largest command in terms of funding and second in terms of personnel. AFMC's operating budget represents 31 percent of the total Air Force budget and AFMC employs more than 40 percent of the Air Force's total civilian workforce.\nThe command conducts research, development, testing and evaluation, and provides the acquisition and life cycle management services and logistics support. The command develops, acquires and sustains the air power needed to defend the United States and its interests. This is accomplished through research, development, testing, evaluation, acquisition, maintenance and program management of existing and future USAF weapon systems and their components."
 },
 {
 "id": "V289",
@@ -3176,7 +3464,8 @@ const SAMPLE = [
 "founded": "1954",
 "parents": "",
 "website": "https://tpn.gov.pl",
-"wikipedia": "https://en.wikipedia.org/wiki/Tatra_National_Park%2C_Poland"
+"wikipedia": "https://en.wikipedia.org/wiki/Tatra_National_Park%2C_Poland",
+"wiki_text": "Tatra National Park (Polish: Tatrzański Park Narodowy; abbr. TPN) is a national park located in the Tatra Mountains in Tatra County, in the Lesser Poland Voivodeship in central-southern Poland. The park is headquartered in the town of Zakopane.\nThe Tatra Mountains form a natural border between Poland to the north and Slovakia to the south, and the two countries have cooperated since the early 20th century on efforts to protect the area. Slovakia created an adjoining national park, and UNESCO later designated the area a transboundary biosphere reserve.\nIn the TPN, in the accessible areas, you can practice hiking, scrambling, climbing, ice climbing, and skiing."
 },
 {
 "id": "V290",
@@ -3187,7 +3476,8 @@ const SAMPLE = [
 "founded": "1995",
 "parents": "",
 "website": "http://www.top-bio.cz/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V291",
@@ -3198,7 +3488,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "00tmg5839",
 "website": "https://www.tarimorman.gov.tr/TAGEM",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V292",
@@ -3209,7 +3500,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://geccp.pt",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V293",
@@ -3220,7 +3512,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://occi.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V294",
@@ -3231,7 +3524,8 @@ const SAMPLE = [
 "founded": "1947",
 "parents": "",
 "website": "http://nams.org.np/",
-"wikipedia": "https://en.wikipedia.org/wiki/Bir_Hospital"
+"wikipedia": "https://en.wikipedia.org/wiki/Bir_Hospital",
+"wiki_text": "Bir Hospital (बीर अस्पताल) is the oldest district general hospital is located in Kathmandu, Nepal. Bir Hospital is one of the busiest hospitals in Nepal. Bir Hospital is the one of teaching hospital by National Academy of Medical Sciences, a government agency since 2003.\nThe hospital provides medical and surgical treatments. It current has a capacity of 960 beds. It provides some post graduate medical training e.g. general surgery, internal medicine, orthopedic surgery, pathology etc.\nCurrently Prof. Dr. Dilip  Sharma is the executive director of Hospital and has already  re-opened its burn service. Hospital has started cath lab services to provide treatment of heart patients."
 },
 {
 "id": "V295",
@@ -3242,7 +3536,8 @@ const SAMPLE = [
 "founded": "2020",
 "parents": "",
 "website": "https://konklusi.org",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V296",
@@ -3253,7 +3548,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "Australian Antarctic Division; Commonwealth Scientific and Industrial Research Organisation; University of Tasmania",
 "website": "https://marinesocioecology.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V297",
@@ -3264,7 +3560,8 @@ const SAMPLE = [
 "founded": "1906",
 "parents": "Mater Health Services",
 "website": "http://www.mater.org.au/Home/Hospitals/Mater-Private-Hospital-Brisbane",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V298",
@@ -3275,7 +3572,8 @@ const SAMPLE = [
 "founded": "2016",
 "parents": "",
 "website": "http://www.cielivestock.co.uk/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V299",
@@ -3286,7 +3584,8 @@ const SAMPLE = [
 "founded": "1968",
 "parents": "Consejo Superior de Investigaciones Científicas; Universidad de Salamanca",
 "website": "https://ibfg.usal-csic.es/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V300",
@@ -3297,7 +3596,8 @@ const SAMPLE = [
 "founded": "2005",
 "parents": "",
 "website": "https://www.nanoforce.co.uk/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V301",
@@ -3308,7 +3608,8 @@ const SAMPLE = [
 "founded": "1949",
 "parents": "",
 "website": "http://www.atu.edu.gh/",
-"wikipedia": "https://en.wikipedia.org/wiki/Accra_Polytechnic"
+"wikipedia": "https://en.wikipedia.org/wiki/Accra_Polytechnic",
+"wiki_text": "The Accra Technical University (ATU) was established in 1949 as a Technical School in Ghana and commissioned in 1957 as Accra Technical Institute before being converted into a Polytechnic in 2007 by the Parliament of Ghana.\nIt was later given a university status, becoming Accra Technical University (ATU) in 2016. The school is located in Accra, the capital city of Ghana.\nAccra Technical University focuses on technical and vocational education. The school offers a range of academic programs including applied sciences, engineering, business, arts, and design."
 },
 {
 "id": "V302",
@@ -3319,7 +3620,8 @@ const SAMPLE = [
 "founded": "1997",
 "parents": "Tecnológico Nacional de México",
 "website": "https://test.edomex.gob.mx",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V303",
@@ -3330,7 +3632,8 @@ const SAMPLE = [
 "founded": "1948",
 "parents": "",
 "website": "http://www.rand.org/",
-"wikipedia": "https://en.wikipedia.org/wiki/RAND_Corporation"
+"wikipedia": "https://en.wikipedia.org/wiki/RAND_Corporation",
+"wiki_text": "The RAND Corporation, doing business as RAND, is an American nonprofit global policy think tank, research institute, and public sector consulting firm. RAND engages in research and development (R&D) in several fields and industries. Since the 1950s, RAND research has helped inform United States policy decisions on a wide variety of issues, including the Cold War space race, the U.S. involvement in the Vietnam War, the U.S.–Soviet nuclear arms confrontation, the creation of the social welfare programs of the Great Society, and national health care.\nRAND originated as \"Project RAND\" (from the phrase \"research and development\") in the post-war period immediately after World War II. The U.S. Army Air Forces established Project RAND with the objective of investigating long-range planning of future weapons. The Douglas Aircraft Company was granted a contract to research intercontinental warfare. Project RAND later evolved into RAND, and expanded its research into civilian fields such as education and international affairs. It was the first think tank to be regularly referred to as a \"think tank\".\nRAND receives both public and private funding. Its funding sources include the U.S. government, private endowments, corporations, universities, charitable foundations, U.S. state and local governments, international organizations, and to a small extent, foreign governments. In the 2024 fiscal year, the think tank's revenues and other support were $514 million, of which $328 million was ..."
 },
 {
 "id": "V304",
@@ -3341,7 +3644,8 @@ const SAMPLE = [
 "founded": "1847",
 "parents": "Siemens (Germany)",
 "website": "https://new.siemens.com/il/he.html",
-"wikipedia": "https://en.wikipedia.org/wiki/Siemens"
+"wikipedia": "https://en.wikipedia.org/wiki/Siemens",
+"wiki_text": "Siemens AG (German pronunciation: [ˈziːməns]  or [-mɛns]) is a German multinational company. It is focused on industrial automation, building automation, rail transport and health technology. Siemens is the largest engineering company in Europe, and holds the position of global market leader in industrial AI, automation, and industrial software.\nThe origins of the conglomerate can be traced back to 1847 to the Telegraphen Bau-Anstalt von Siemens & Halske established in Berlin by Werner von Siemens and Johann Georg Halske. In 1966, the present-day corporation emerged from the merger of three companies: Siemens & Halske, Siemens-Schuckert, and Siemens-Reiniger-Werke. Today headquartered in Munich and Berlin, Siemens and its subsidiaries employ approximately 320,000 people worldwide and reported a global revenue of around €78 billion in 2023. The company is a component of the DAX and Euro Stoxx 50 stock market indices. As of December 2023, Siemens is the second largest German company by market capitalization.\nAs of 2023, the principal divisions of Siemens are Digital Industries, Smart Infrastructure, Mobility, and Financial Services, with Siemens Mobility operating as an independent entity. Major business divisions that were once part of Siemens before being spun off include semiconductor manufacturer Infineon Technologies (1999), Siemens Mobile (2005), Gigaset Communications (2008), the photonics business Osram (2013), Siemens Healthineers (2017), and Siemens Energy (2020)."
 },
 {
 "id": "V305",
@@ -3352,7 +3656,8 @@ const SAMPLE = [
 "founded": "1929",
 "parents": "Ministry of Health",
 "website": "http://www.insn.gob.pe/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V306",
@@ -3363,7 +3668,8 @@ const SAMPLE = [
 "founded": "1951",
 "parents": "Ministry of Education",
 "website": "https://www.sacm.org",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V307",
@@ -3374,7 +3680,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://www.osaka-bio.jp/en/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V308",
@@ -3385,7 +3692,8 @@ const SAMPLE = [
 "founded": "1940",
 "parents": "",
 "website": "https://www.jnafau.ac.in/",
-"wikipedia": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru_Architecture_and_Fine_Arts_University"
+"wikipedia": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru_Architecture_and_Fine_Arts_University",
+"wiki_text": "Jawaharlal Nehru Architecture and Fine Arts University (JNAFAU), is an architecture and fine arts university located at Masab Tank, Hyderabad, Telangana, India. JNAFAU has two colleges which offer several undergraduate, postgraduate and PhD research programs, with an emphasis of two different colleges: School of Planning & Architecture and College of Fine Arts. It was established by the erstwhile Hyderabad State in 1940, as the \"College of Fine Arts\".\nIn School of Planning & Architecture offers courses such as Architecture, Digital Techniques for Design & Planning, Facilities and Services Planning, Interior Designing, Planning, etc. in School of planning and Architecture.\nIn College of Fine Arts courses such as painting, Applied Arts, Photography, Animation, Sculpture, etc., are offered."
 },
 {
 "id": "V309",
@@ -3396,7 +3704,8 @@ const SAMPLE = [
 "founded": "1987",
 "parents": "",
 "website": "https://www.alzheimers-brace.org/",
-"wikipedia": "https://en.wikipedia.org/wiki/Brace"
+"wikipedia": "https://en.wikipedia.org/wiki/Brace",
+"wiki_text": "Brace(s) or brace may refer to:"
 },
 {
 "id": "V310",
@@ -3407,7 +3716,8 @@ const SAMPLE = [
 "founded": "1985",
 "parents": "",
 "website": "http://www.kblgroupintl.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V311",
@@ -3418,7 +3728,8 @@ const SAMPLE = [
 "founded": "2004",
 "parents": "",
 "website": "http://hidrogenoaragon.org/en/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V312",
@@ -3429,7 +3740,8 @@ const SAMPLE = [
 "founded": "1970",
 "parents": "Institute for the Science and Technology of Plasmas; National Research Council",
 "website": "https://www.ifp.cnr.it",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V313",
@@ -3440,7 +3752,8 @@ const SAMPLE = [
 "founded": "1979",
 "parents": "",
 "website": "https://www.tmb.cat/en/",
-"wikipedia": "https://en.wikipedia.org/wiki/Transports_Metropolitans_de_Barcelona"
+"wikipedia": "https://en.wikipedia.org/wiki/Transports_Metropolitans_de_Barcelona",
+"wiki_text": "The Barcelona Metropolitan Transport, or Transports Metropolitans de Barcelona (TMB) in Catalan, is the main public transit operator in Barcelona. A combination of two formerly-separate companies, Ferrocarril Metropolità de Barcelona, SA. and Transports de Barcelona, SA., it runs most of the metro and local bus lines in Barcelona and the metropolitan area.\nThe bus network serves Barcelona and the metropolitan area through 109 lines that cover a total distance of 920.62 kilometres. The Barcelona Metro network has 123 stations. It is formed by six lines and a funicular railway. In 2016, TMB carried 578.75 million passengers and had 7,744 employees.\nThere is also an authority in Barcelona that seeks to coordinate and integrate other public transport companies (such as TRAMMET, for the local trams) into the same network, Autoritat del Transport Metropolità."
 },
 {
 "id": "V314",
@@ -3451,7 +3764,8 @@ const SAMPLE = [
 "founded": "1993",
 "parents": "",
 "website": "http://www.starmon.cz/en/index.html",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V315",
@@ -3462,7 +3776,8 @@ const SAMPLE = [
 "founded": "2008",
 "parents": "",
 "website": "http://www.sistrr.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V316",
@@ -3473,7 +3788,8 @@ const SAMPLE = [
 "founded": "1976",
 "parents": "",
 "website": "https://www.fdc.org.br",
-"wikipedia": "https://en.wikipedia.org/wiki/Funda%C3%A7%C3%A3o_Dom_Cabral"
+"wikipedia": "https://en.wikipedia.org/wiki/Funda%C3%A7%C3%A3o_Dom_Cabral",
+"wiki_text": "Established in 1976, Fundação Dom Cabral (FDC) is a Brazilian business school. FDC, a nonprofit institution, was created out of the Extension Center at the Pontifical Catholic University of Minas Gerais. Approximately 40,000 executives from midsize to large companies attend FDC programs every year – in the cities of Nova Lima, Belo Horizonte, São Paulo, and Rio de Janeiro.\nFDC has strategic alliances with foreign teaching institutions such as INSEAD and Skema Business School in France and the Kellogg School of Management at Northwestern University in the U.S. FDC also has cooperative partnerships with schools in Brazil, Argentina, Colombia, Chile, China, India, Mexico, Peru, Portugal, Russia, Spain, and the United Kingdom."
 },
 {
 "id": "V317",
@@ -3484,7 +3800,8 @@ const SAMPLE = [
 "founded": "1983",
 "parents": "",
 "website": "http://www.keba.or.kr/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V318",
@@ -3495,7 +3812,8 @@ const SAMPLE = [
 "founded": "1950",
 "parents": "",
 "website": "http://www.ias.bg/english",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V319",
@@ -3506,7 +3824,8 @@ const SAMPLE = [
 "founded": "2005",
 "parents": "",
 "website": "http://www.thomassinclairlabs.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V320",
@@ -3517,7 +3836,8 @@ const SAMPLE = [
 "founded": "2018",
 "parents": "",
 "website": "https://unitary.fund/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V321",
@@ -3528,7 +3848,8 @@ const SAMPLE = [
 "founded": "1983",
 "parents": "",
 "website": "https://www.daviesdiagnostics.co.za",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V322",
@@ -3539,7 +3860,8 @@ const SAMPLE = [
 "founded": "1994",
 "parents": "",
 "website": "http://www.twintech.edu.my/",
-"wikipedia": "https://en.wikipedia.org/wiki/Twintech_International_University_College_of_Technology"
+"wikipedia": "https://en.wikipedia.org/wiki/Twintech_International_University_College_of_Technology",
+"wiki_text": "The Twintech International University College of Technology, or Twintech for short, is a private publicly funded university college in Malaysia. The college's campus has moved to Petaling Jaya, Selangor. It was previously located in George Town, Penang, and formerly Bandar Sri Damansara, Selangor.\nTwintech International University College of Technology, formerly known as L&G-Twintech Institute of Technology, is a private institution of higher learning licensed by the Ministry of Education. The college was founded in 1993 and was upgraded to Twintech International University College of Technology in 2003. The university college is owned and managed by Twintech Holding Sdn. Bhd.\nThe university was founded to provide training in the fields of Architecture & Built Environment, Business & Finance, Computer Science & Multimedia, Engineering & Industrial Technology, Biotechnology, Nursing & Health Science, Optometry, Education, Music & Performing Art.\nTwintech started from a modest, rented premises in Setapak. It previously had three campuses located in Bandar Sri Damansara, Kota Kinabalu, and Kota Bharu, with facilities and amenities, including computing suites, engineering laboratories, architectural studios, and biotechnology laboratories.\nTwintech has around 4,000 students studying local and overseas twinning programmes. Approximately 150 local and overseas full-time lecturers support the academic programmes at Twintech.\nAll programmes will be awarded internally; some will be ..."
 },
 {
 "id": "V323",
@@ -3550,7 +3872,8 @@ const SAMPLE = [
 "founded": "1944",
 "parents": "",
 "website": "http://www.polvahgl.ee",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V324",
@@ -3561,7 +3884,8 @@ const SAMPLE = [
 "founded": "1995",
 "parents": "",
 "website": "https://vnuhcm.edu.vn",
-"wikipedia": "https://en.wikipedia.org/wiki/Vietnam_National_University,_Ho_Chi_Minh_City"
+"wikipedia": "https://en.wikipedia.org/wiki/Vietnam_National_University,_Ho_Chi_Minh_City",
+"wiki_text": "Vietnam National University Ho Chi Minh City (VNUHCM; Vietnamese: Đại học Quốc gia Thành phố Hồ Chí Minh, lit. 'Ho Chi Minh City National University') is a public research university system in Ho Chi Minh City, Vietnam. VNU–HCM is one of two Vietnam's national universities, the other one being Vietnam National University, Hanoi. \nRecognized as one of Vietnam's premier higher education institutions, it ranks 2nd in Vietnam according to the Viet Nam's University Rankings (VNUR), 175th in Asia and 850+ in the World according to the QS University Rankings in 2026. In 2020, it was one of the first two Vietnamese universities to be included in the QS Global Ranking of Top 150 universities under 50 years old by 2021.\n\nVietnam National University, Ho Chi Minh City is a public higher education institution managed by the Ministry of Education and Training, possessing legal entity status, its own account, and a seal bearing the National Emblem. It operates as a Level-I budget estimation unit, with its budget estimate allocated by the Prime Minister of Vietnam. Vietnam National University, Ho Chi Minh City is responsible for high-quality, multi-disciplinary, and multi-sectoral higher education training, scientific research, and technology transfer, featuring several training fields that lead the country and hold high global rankings.\nThe university was Founded on 27 January 1995, and reorganized on 12 February 2001, under the Decision no. 15/2001/QĐ-TTg by the Prime Minister of Vietnam ..."
 },
 {
 "id": "V325",
@@ -3572,7 +3896,8 @@ const SAMPLE = [
 "founded": "1981",
 "parents": "",
 "website": "http://www.igsl.asia/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V326",
@@ -3583,7 +3908,8 @@ const SAMPLE = [
 "founded": "1985",
 "parents": "Argonne National Laboratory",
 "website": "https://www.anl.gov/atlas",
-"wikipedia": "https://en.wikipedia.org/wiki/Argonne_Tandem_Linear_Accelerator_System"
+"wikipedia": "https://en.wikipedia.org/wiki/Argonne_Tandem_Linear_Accelerator_System",
+"wiki_text": "The Argonne Tandem Linac Accelerator System (ATLAS) is a U.S. Department of Energy scientific user facility at Argonne National Laboratory. ATLAS is the first superconducting linear accelerator (linac) for heavy ions at energies in the vicinity of the Coulomb barrier and is open to scientists from all over the world."
 },
 {
 "id": "V327",
@@ -3594,7 +3920,8 @@ const SAMPLE = [
 "founded": "1971",
 "parents": "",
 "website": "https://www.unimonte.br",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V328",
@@ -3605,7 +3932,8 @@ const SAMPLE = [
 "founded": "2000",
 "parents": "ETH Zurich",
 "website": "http://www.fgcz.ethz.ch",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V329",
@@ -3616,7 +3944,8 @@ const SAMPLE = [
 "founded": "1964",
 "parents": "",
 "website": "http://en.vnuf.edu.vn/home",
-"wikipedia": "https://en.wikipedia.org/wiki/Vietnam_National_University_of_Forestry"
+"wikipedia": "https://en.wikipedia.org/wiki/Vietnam_National_University_of_Forestry",
+"wiki_text": "Vietnam National University of Forestry (VNUF) was established according to the Decision No.127/CP dated on August 19, 1964 by the Prime Minister of Vietnam.\nCurrently, there are over 16.000 students, including undergraduate and graduate, following 22 disciplines of undergraduate level, 6 majors of master level, and 4 majors of doctorate level.\nThe main campus of VNUF is located in Xuan Mai Town, Chuong My District, Hanoi Capital. The second campus (established in 01/2008) is located in Trang Bom Town, Dong Nai Province."
 },
 {
 "id": "V330",
@@ -3627,7 +3956,8 @@ const SAMPLE = [
 "founded": "1866",
 "parents": "",
 "website": "https://www.stlukes-stl.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V331",
@@ -3638,7 +3968,8 @@ const SAMPLE = [
 "founded": "1997",
 "parents": "",
 "website": "https://www.altru.org/services/cancer/",
-"wikipedia": "https://en.wikipedia.org/wiki/Altru_Health_System"
+"wikipedia": "https://en.wikipedia.org/wiki/Altru_Health_System",
+"wiki_text": "Altru Health System is an American healthcare organization headquartered in Grand Forks, North Dakota, United States. Altru is a nonprofit serving over 230,000 residents in northeast North Dakota and northwestern Minnesota. It employs more than 3,200 health professionals and support staff. As a regional-owned health system, Altru has provided healthcare for over 130 years. \nAltru Health System's facilities system includes an acute care hospital, a specialty hospital, a Level II trauma center, and twenty practice locations across eastern North Dakota and northwest Minnesota."
 },
 {
 "id": "V332",
@@ -3649,7 +3980,8 @@ const SAMPLE = [
 "founded": "2014",
 "parents": "",
 "website": "https://fightmnd.org.au",
-"wikipedia": "https://en.wikipedia.org/wiki/FightMND"
+"wikipedia": "https://en.wikipedia.org/wiki/FightMND",
+"wiki_text": "FightMND is an Australian not-for-profit organisation focused on funding and promoting research into finding effective treatments and ultimately a cure for Motor Neurone Disease (MND), also known as Amyotrophic Lateral Sclerosis (ALS). It is one of Australia's most prominent charities dedicated to this cause and is well known for its annual Big Freeze fundraising campaign, held in conjunction with an Australian Football League (AFL) match at the Melbourne Cricket Ground."
 },
 {
 "id": "V333",
@@ -3660,7 +3992,8 @@ const SAMPLE = [
 "founded": "2011",
 "parents": "",
 "website": "http://justiceinnovation.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V334",
@@ -3671,7 +4004,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://okamotodai.jp",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V335",
@@ -3682,7 +4016,8 @@ const SAMPLE = [
 "founded": "1987",
 "parents": "",
 "website": "http://mrckovai.in/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V336",
@@ -3693,7 +4028,8 @@ const SAMPLE = [
 "founded": "2014",
 "parents": "",
 "website": "http://pcctc.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V337",
@@ -3704,7 +4040,8 @@ const SAMPLE = [
 "founded": "1907",
 "parents": "",
 "website": "http://www.tmb.state.tx.us/",
-"wikipedia": "https://en.wikipedia.org/wiki/Texas_Medical_Board"
+"wikipedia": "https://en.wikipedia.org/wiki/Texas_Medical_Board",
+"wiki_text": "The Texas Medical Board (TMB) is the state agency mandated to regulate the practice of medicine by Doctors of Medicine (MDs) and Doctors of Osteopathic Medicine (DOs) in Texas. The board is composed of twelve physician members and seven public members, each appointed to a six-year term by the Governor and confirmed by the Senate. The full board is required to meet at least four times a year but customarily convenes five times a year. Typical Board business includes interviewing licensure candidates, considering disciplinary matters and adopting substantive and procedural rules, it delegates much of its work to committees, whose recommendations are then submitted for the full board's approval. Additionally, board committees address a variety of important issues. The board's mission is to make sure to enhance and protect the publics health and welfare by maintaining standards used in regulating the practice of medicine and ensuring the health care for the citizens.\nThe board also regulates as the Texas Physician Assistant Board, and as the Texas State Board of Acupuncture Examiners, and governs radiologic technologists and NPOs, among other health care practices. TMB is a member of the Federation of State Medical Boards.\nThe current president of the Texas Medical Board is Sherif Zaafran, M.D. The board is headquartered in the George H.W. Bush Building in Austin, Texas."
 },
 {
 "id": "V338",
@@ -3715,7 +4052,8 @@ const SAMPLE = [
 "founded": "2007",
 "parents": "",
 "website": "http://www.dguv.de/de/index.jsp",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V339",
@@ -3726,7 +4064,8 @@ const SAMPLE = [
 "founded": "1991",
 "parents": "",
 "website": "http://www.kuos.or.kr",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V340",
@@ -3737,7 +4076,8 @@ const SAMPLE = [
 "founded": "2005",
 "parents": "Université Paris Nanterre",
 "website": "https://cdpc.parisnanterre.fr",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V341",
@@ -3748,7 +4088,8 @@ const SAMPLE = [
 "founded": "2005",
 "parents": "",
 "website": "http://www.nbts.org.ng/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V342",
@@ -3759,7 +4100,8 @@ const SAMPLE = [
 "founded": "1963",
 "parents": "",
 "website": "https://www.hattiesburgclinic.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V343",
@@ -3770,7 +4112,8 @@ const SAMPLE = [
 "founded": "1895",
 "parents": "The University of Texas System",
 "website": "http://www.uta.edu/uta/",
-"wikipedia": "http://en.wikipedia.org/wiki/University_of_Texas_at_Arlington"
+"wikipedia": "http://en.wikipedia.org/wiki/University_of_Texas_at_Arlington",
+"wiki_text": "The University of Texas at Arlington (UTA or UT Arlington) is a public research university in Arlington, Texas, United States. It is the second-oldest university in the University of Texas System and was founded in 1895. It was in the Texas A&M University System for several decades until joining the University of Texas System in 1965.\nThe university is classified among \"R1: Doctoral Universities – Very high research activity\". The fall 2024 campus enrollment consisted of 41,613 students making it the second-largest university in the UT System after UT Austin, in North Texas and fifth-largest in Texas. UT Arlington is the third-largest producer of college graduates in Texas and offers over 180 baccalaureate, masters, and doctoral degree programs.\nUT Arlington participates in 15 intercollegiate sports as a Division I member of the NCAA and Western Athletic Conference. UTA sports teams have been known as the Mavericks since 1971."
 },
 {
 "id": "V344",
@@ -3781,7 +4124,8 @@ const SAMPLE = [
 "founded": "1946",
 "parents": "",
 "website": "http://www.koreanpsychology.or.kr/eng/index.asp",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V345",
@@ -3792,7 +4136,8 @@ const SAMPLE = [
 "founded": "2013",
 "parents": "",
 "website": "https://www.infectognostics.de/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V346",
@@ -3803,7 +4148,8 @@ const SAMPLE = [
 "founded": "1996",
 "parents": "",
 "website": "http://medical.dpu.edu.in/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V347",
@@ -3814,7 +4160,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://www.wildbiologie-institut.de/index.php/de/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V348",
@@ -3825,7 +4172,8 @@ const SAMPLE = [
 "founded": "1965",
 "parents": "United States Department of Health and Human Services",
 "website": "https://www.cms.gov/",
-"wikipedia": "https://en.wikipedia.org/wiki/Centers_for_Medicare_and_Medicaid_Services"
+"wikipedia": "https://en.wikipedia.org/wiki/Centers_for_Medicare_and_Medicaid_Services",
+"wiki_text": "The Centers for Medicare & Medicaid Services (CMS) is a federal agency within the United States Department of Health and Human Services (HHS) that administers the Medicare program and works in partnership with state governments to administer Medicaid, the Children's Health Insurance Program (CHIP), and health insurance portability standards. In addition to these programs, CMS has other responsibilities, including the administrative simplification standards from the Health Insurance Portability and Accountability Act of 1996 (HIPAA), quality standards in long-term care facilities (more commonly referred to as nursing homes) through its survey and certification process, clinical laboratory quality standards under the Clinical Laboratory Improvement Amendments, and oversight of HealthCare.gov.\nCMS was previously known as the Health Care Financing Administration (HCFA) until 2001.\nCMS actively inspects and reports on every nursing home in the United States.  This includes maintaining the 5-Star Quality Rating System."
 },
 {
 "id": "V349",
@@ -3836,7 +4184,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://www.tcmda.com/en/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V350",
@@ -3847,7 +4196,8 @@ const SAMPLE = [
 "founded": "2010",
 "parents": "",
 "website": "https://celebrationstemcellcentre.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V351",
@@ -3858,7 +4208,8 @@ const SAMPLE = [
 "founded": "1996",
 "parents": "",
 "website": "http://www.hypertensiontrust.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V352",
@@ -3869,7 +4220,8 @@ const SAMPLE = [
 "founded": "2010",
 "parents": "",
 "website": "https://www.nets.eu/",
-"wikipedia": "https://en.wikipedia.org/wiki/Nets_Group"
+"wikipedia": "https://en.wikipedia.org/wiki/Nets_Group",
+"wiki_text": ""
 },
 {
 "id": "V353",
@@ -3880,7 +4232,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "Nanyang Technological University; National University of Singapore; Université Côte d'Azur; Sorbonne Université",
 "website": "http://majulab.cnrs.fr/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V354",
@@ -3891,7 +4244,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://rifr-ac.ir",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V355",
@@ -3902,7 +4256,8 @@ const SAMPLE = [
 "founded": "2008",
 "parents": "Deutsches Elektronen-Synchrotron DESY; Bernhard Nocht Institute for Tropical Medicine; Research Center Borstel - Leibniz Lung Center; European Molecular Biology Laboratory; Helmholtz Centre for Infection Research; Medizinische Hochschule Hannover; University Medical Center Hamburg-Eppendorf; Universität Hamburg; Leibniz Institute of Virology (LIV)",
 "website": "https://www.cssb-hamburg.de/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V356",
@@ -3913,7 +4268,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://www.uyo.ac.jp",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V357",
@@ -3924,7 +4280,8 @@ const SAMPLE = [
 "founded": "2000",
 "parents": "",
 "website": "http://mpdentalcollege.edu.in/",
-"wikipedia": "https://en.wikipedia.org/wiki/Manubhai_Patel_Dental_College"
+"wikipedia": "https://en.wikipedia.org/wiki/Manubhai_Patel_Dental_College",
+"wiki_text": "Manubhai Patel Dental College is a college of dentistry located in Baroda, Gujarat, India. It provides Bachelor of Dental Surgery (BDS) courses. The institution is listed no. 25 in the education guide of medical institutes by Zee news. The college is affiliated to Bhavnagar University in Gujarat. The college is recognized by Dental Council of India and Ministry of Health and Family Welfare of India. Times of India on 5 March 2012 reported that in recently held All India Post Graduate Examinations of 2012 held by All India Institute of Medical Sciences, New Delhi, three students of dental college, the highest from any dental college in Gujarat were selected for the MDS courses at various government dental college around India."
 },
 {
 "id": "V358",
@@ -3935,7 +4292,8 @@ const SAMPLE = [
 "founded": "1999",
 "parents": "",
 "website": "http://www.hecm-afrique.net/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V359",
@@ -3946,7 +4304,8 @@ const SAMPLE = [
 "founded": "1965",
 "parents": "",
 "website": "http://testrust0193.testrust.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V360",
@@ -3957,7 +4316,8 @@ const SAMPLE = [
 "founded": "2016",
 "parents": "Fraunhofer-Gesellschaft",
 "website": "http://www.imws.fraunhofer.de/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V361",
@@ -3968,7 +4328,8 @@ const SAMPLE = [
 "founded": "1998",
 "parents": "",
 "website": "http://www.aquariumofpacific.org/",
-"wikipedia": "https://en.wikipedia.org/wiki/Aquarium_of_the_Pacific"
+"wikipedia": "https://en.wikipedia.org/wiki/Aquarium_of_the_Pacific",
+"wiki_text": "The Aquarium of the Pacific (formerly the Long Beach Aquarium of the Pacific) is a public aquarium on a 6-acre (24,000 m2) site on Rainbow Harbor in Long Beach, California, United States. It is situated across the water from the Long Beach Convention Center, Shoreline Village, and the Queen Mary Hotel and Attraction. The location also has its own street, Aquarium Way. It opened on June 20, 1998.\nThe aquarium had 1,979 volunteers and employed 485 people in 2024. In 2018, it had 1.7 million visitors. It is a 501(c)(3) non-profit with Association of Zoos and Aquariums (AZA) accreditation through March 2031."
 },
 {
 "id": "V362",
@@ -3979,7 +4340,8 @@ const SAMPLE = [
 "founded": "1975",
 "parents": "Ministry of Water Resources and Irrigation",
 "website": "http://www.nwrc-egypt.org/",
-"wikipedia": "https://en.wikipedia.org/wiki/The_National_Water_Research_Center_(Egypt)"
+"wikipedia": "https://en.wikipedia.org/wiki/The_National_Water_Research_Center_(Egypt)",
+"wiki_text": "NWRC serves the Ministry of Water Resources and Irrigation (Egypt) (MWRI) to advance and expedite the implementation of the national water policy. As a MWRI research and development arm, NWRC coordinates and conducts basic and applied research to identify, characterize, and quantify water-related problems in Egypt. For these problems NWRC is mandated to provide innovative solutions and communicate them to the end users; therefore, enhance research uptake. Its role as a national organization goes beyond the MWRI; it assists the other ministries as well as the private sector facing water related problems through facilitated access to interdisciplinary expertise.\nNWRC's organization consists of 12 research institutes; basically tackling the following water resources related fields: Irrigation and Drainage, Hydraulics, Hydraulic Structures and Machinery, Surface and Groundwater Hydrology, Sediment Transport, Water Quality and Pollution Control, Coastal Protection and Lake/Shore Environment, Climate Change and Geo-Measurements Analysis, Water Socio-Economics."
 },
 {
 "id": "V363",
@@ -3990,7 +4352,8 @@ const SAMPLE = [
 "founded": "1812",
 "parents": "University Health Network",
 "website": "http://www.uhn.ca/corporate/AboutUHN/OurHospitals/TGH",
-"wikipedia": "http://en.wikipedia.org/wiki/Toronto_General_Hospital"
+"wikipedia": "http://en.wikipedia.org/wiki/Toronto_General_Hospital",
+"wiki_text": "The Toronto General Hospital (TGH) is a major teaching hospital in Toronto, Ontario, Canada, and the flagship campus of University Health Network (UHN). It is located in the Discovery District of Downtown Toronto along University Avenue's Hospital Row; it is directly north of The Hospital for Sick Children, across Gerrard Street West, and east of Princess Margaret Cancer Centre and Mount Sinai Hospital. The hospital serves as a teaching hospital for the University of Toronto Faculty of Medicine. In 2019, the hospital was ranked first for research in Canada by Research Infosource for the ninth consecutive year.\nThe emergency department now treats 28,065 persons each year, while the hospital also houses the major transplantation service for Ontario, performing heart, lung, kidney, liver, pancreas, and small intestine, amongst others, for patients referred from all over Canada. The hospital is the largest organ transplant center in North America, performing 639 transplants in 2017. The hospital is also renowned for cardiac and thoracic surgery. The world's first single and double lung transplants were performed at TGH in 1983 and 1986 and the world's first valve-sparing aortic root replacement was done by Tirone David at Toronto General Hospital in 1992. The Lung Transplant program is currently the largest in the world, performing 167 lung transplants in 2017. In 2015, surgeons performed the world's first triple organ transplant (lung, liver and pancreas) in 19 year old Reid ..."
 },
 {
 "id": "V364",
@@ -4001,7 +4364,8 @@ const SAMPLE = [
 "founded": "1928",
 "parents": "",
 "website": "http://ameankpi.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V365",
@@ -4012,7 +4376,8 @@ const SAMPLE = [
 "founded": "1894",
 "parents": "",
 "website": "http://www.cune.edu/",
-"wikipedia": "https://en.wikipedia.org/wiki/Concordia_University_Nebraska"
+"wikipedia": "https://en.wikipedia.org/wiki/Concordia_University_Nebraska",
+"wiki_text": "Concordia University, Nebraska is a private Lutheran university in Seward, Nebraska. It was established in 1894 and is affiliated with the Lutheran Church–Missouri Synod as one of seven schools in the Concordia University System. The university is organized into three schools: the College of Arts and Sciences, the College of Education, and the College of Graduate Studies."
 },
 {
 "id": "V366",
@@ -4023,7 +4388,8 @@ const SAMPLE = [
 "founded": "1928",
 "parents": "VA New England Healthcare System",
 "website": "http://www.bedford.va.gov/",
-"wikipedia": "https://en.wikipedia.org/wiki/Bedford_Veterans_Affairs_Medical_Center"
+"wikipedia": "https://en.wikipedia.org/wiki/Bedford_Veterans_Affairs_Medical_Center",
+"wiki_text": "The Bedford Veterans Affairs Medical Center, also known as the Edith Nourse Rogers Memorial Veterans Hospital, is a medical facility of the United States Department of Veterans Affairs (VA) at 200 Springs Road in Bedford, Massachusetts.   Its campus once consisted of about 276 acres (112 ha) of land, which had by 2012 been reduced to 179 acres (72 ha).  The hospital was opened in 1928 to treat neuropsychiatric patients, but now provides a wider array of medical services.  Through the efforts of Congresswoman Edith Nourse Rogers, the center was expanded to offer services to women in 1947; her role led to the center being renamed in her honor by President Jimmy Carter.\nThe focal point of the complex is its Main Building, a three-story brick Classical Revival building that was built in 1928, and is still used as a medical care facility.  South of this is the Administration building, also built in 1928.  West of that is the former Kitchen and Dining Hall of 1928, which now houses offices and storage space.  To its west is the 1929 Acute Care Building, now known as the Nursing Home Care Unit.  Other buildings of the complex are located primarily north and south of this grouping, and are smaller in scale.\nIn 2012, 177 acres of the remaining campus were listed as a historic district on the National Register of Historic Places.  The district includes the main hospital buildings, as well as residential housing, utility and maintenance buildings, most of which were built no later than ..."
 },
 {
 "id": "V367",
@@ -4034,7 +4400,8 @@ const SAMPLE = [
 "founded": "2018",
 "parents": "Centre Inria de Sorbonne Université; Centre Inria de Paris",
 "website": "https://www.inria.fr/equipes/quantic",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V368",
@@ -4045,7 +4412,8 @@ const SAMPLE = [
 "founded": "1912",
 "parents": "",
 "website": "http://bbg.ge/en/",
-"wikipedia": "https://en.wikipedia.org/wiki/Batumi_Botanical_Garden"
+"wikipedia": "https://en.wikipedia.org/wiki/Batumi_Botanical_Garden",
+"wiki_text": "The Batumi Botanical Garden (Georgian: ბათუმის ბოტანიკური ბაღი) is a 108-hectare (270-acre) botanical garden located 9 km (5.6 mi) north of Batumi, the capital of the Autonomous Republic of Adjara, Georgia. Situated on the Black Sea coast at the area known as Mtsvane Kontskhi (\"The Green Cape\"), it is among the largest botanical gardens in the former Soviet Union and a major center for the study and conservation of subtropical flora. The garden contains thousands of plant species from diverse climatic and geographic zones, arranged into thematic collections, and serves as both a scientific research institution and a popular tourist attraction. It offers panoramic sea views, walking trails, and seasonal exhibitions, attracting visitors from Georgia and abroad throughout the year."
 },
 {
 "id": "V369",
@@ -4056,7 +4424,8 @@ const SAMPLE = [
 "founded": "1992",
 "parents": "",
 "website": "https://www.medinstitute.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V370",
@@ -4067,7 +4436,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://www.autodesk.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V371",
@@ -4078,7 +4448,8 @@ const SAMPLE = [
 "founded": "2012",
 "parents": "Nantes Université",
 "website": "http://www.irt-jules-verne.fr/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V372",
@@ -4089,7 +4460,8 @@ const SAMPLE = [
 "founded": "1924",
 "parents": "",
 "website": "http://braemarhospital.co.nz/",
-"wikipedia": "https://en.wikipedia.org/wiki/Braemar_Hospital"
+"wikipedia": "https://en.wikipedia.org/wiki/Braemar_Hospital",
+"wiki_text": "Braemar Hospital is one of the New Zealand's largest private hospitals. It is owned by the Braemar Charitable Trust located in Hamilton, New Zealand. There was a separate and unrelated organisation, Braemar Hospital in Nelson, New Zealand which provided long term psychiatric care for children.\nIt was founded in 1926 and moved from Lake Road in 2009.\nThe hospital is located on Ohaupo Road, Melville.  It carries out 10,000 surgical and medical procedures a year.  It started a bowel-cancer screening service in 2014.  In 2015 it had 85 beds, eight theatres and two endoscopy units.  It was the first private hospital in New Zealand to offer endoscopic ultrasound and the first hospital in Australasia to install ultra high-definition imaging tools in the operating theatres, which enabled it to expand the range of keyhole surgery.\nIt says that the fees charged \"are very reasonable and any surplus we make goes back into the hospital or the charitable activities that we do, like supplying free surgery and supporting doctors and nurses with ongoing education.\"\nHamilton City Council's proposed long-term plan would involve raising its rates by $355,400, compounded by a proposed transition from a land value to capital value rating system which chief executive Paul Bennett says would cause considerable problems. The hospital's annual rates bill was $52,550 in 2014/15.\nIt initiated a $20 million expansion plan in 2015, driven by the demand for orthopaedic surgery from the aging population."
 },
 {
 "id": "V373",
@@ -4100,7 +4472,8 @@ const SAMPLE = [
 "founded": "2000",
 "parents": "",
 "website": "http://www.plastipure.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V374",
@@ -4111,7 +4484,8 @@ const SAMPLE = [
 "founded": "2012",
 "parents": "",
 "website": "http://www.openbiome.org/",
-"wikipedia": "https://en.wikipedia.org/wiki/OpenBiome"
+"wikipedia": "https://en.wikipedia.org/wiki/OpenBiome",
+"wiki_text": "OpenBiome is a nonprofit health research organization based in Massachusetts accelerating research on the human microbiome. They partner with leading researchers, clinicians and innovators to advance and ensure access to novel and affordable microbiome therapeutics."
 },
 {
 "id": "V375",
@@ -4122,7 +4496,8 @@ const SAMPLE = [
 "founded": "1957",
 "parents": "Ministry of Agriculture and Rural Affairs",
 "website": "http://www.nriam.com/English/index.html",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V376",
@@ -4133,7 +4508,8 @@ const SAMPLE = [
 "founded": "1964",
 "parents": "",
 "website": "http://www.hjarta.is/english/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V377",
@@ -4144,7 +4520,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://www.ccmx.ch/home/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V378",
@@ -4155,7 +4532,8 @@ const SAMPLE = [
 "founded": "1957",
 "parents": "",
 "website": "http://www.undip.ac.id/",
-"wikipedia": "http://en.wikipedia.org/wiki/Diponegoro_University"
+"wikipedia": "http://en.wikipedia.org/wiki/Diponegoro_University",
+"wiki_text": "Diponegoro University (Javanese: ꦈꦤꦶꦥ꦳ꦼꦂꦱꦶꦠꦱ꧀ꦢꦶꦥꦤꦼꦒꦫ; Indonesian: Universitas Diponegoro, abbreviated as UNDIP) is a public university located in Semarang, Central Java, Indonesia. It was founded in 1957 as a private university by the Semarang University Foundation, which in 1960 became a public university named after Javanese Prince Diponegoro. It is the oldest education corporation in Central Java."
 },
 {
 "id": "V379",
@@ -4166,7 +4544,8 @@ const SAMPLE = [
 "founded": "1927",
 "parents": "",
 "website": "http://sigridjuselius.fi/en/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V380",
@@ -4177,7 +4556,8 @@ const SAMPLE = [
 "founded": "1977",
 "parents": "",
 "website": "",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V381",
@@ -4188,7 +4568,8 @@ const SAMPLE = [
 "founded": "2013",
 "parents": "",
 "website": "http://www.cancergenomics.nl/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V382",
@@ -4199,7 +4580,8 @@ const SAMPLE = [
 "founded": "2022",
 "parents": "Inria Saclay - Île de France",
 "website": "",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V383",
@@ -4210,7 +4592,8 @@ const SAMPLE = [
 "founded": "1958",
 "parents": "",
 "website": "http://www.ojnoerfoundation.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V384",
@@ -4221,7 +4604,8 @@ const SAMPLE = [
 "founded": "2000",
 "parents": "",
 "website": "https://www.berlin-institut.org/",
-"wikipedia": "https://en.wikipedia.org/wiki/Berlin_Institute_for_Population_and_Development"
+"wikipedia": "https://en.wikipedia.org/wiki/Berlin_Institute_for_Population_and_Development",
+"wiki_text": "The Berlin Institute for Population and Development (German: Berlin-Institut für Bevölkerung und Entwicklung) is an independent scientific research institute that aims to improve the way in which international demographic change is perceived and dealt with in the context of sustainable development. To reach this goal, the institute publishes studies and discussion papers. It also offers an online handbook on demography and publishes a newsletter. The institute is financed by contributions, project funds, earnings from the foundation's endowment, and contributions to the endowment. The institute is headed by Reiner Klingholz, who studied chemistry, earning a PhD in molecular biology. Earlier in his career, Reiner Klingholz worked as a journalist for the German weekly Die Zeit and the bi-annual magazine Geo Wissen."
 },
 {
 "id": "V385",
@@ -4232,7 +4616,8 @@ const SAMPLE = [
 "founded": "2009",
 "parents": "",
 "website": "http://www.epanalytics.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V386",
@@ -4243,7 +4628,8 @@ const SAMPLE = [
 "founded": "1991",
 "parents": "Nanjing University; Tongji University",
 "website": "https://envirolab.tongji.edu.cn/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V387",
@@ -4254,7 +4640,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "VA Sierra Pacific Network",
 "website": "http://www.fresno.va.gov/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V388",
@@ -4265,7 +4652,8 @@ const SAMPLE = [
 "founded": "2014",
 "parents": "Safran (France)",
 "website": "https://www.safran-group.com/country/safran-in-germany",
-"wikipedia": "https://en.wikipedia.org/wiki/Safran"
+"wikipedia": "https://en.wikipedia.org/wiki/Safran",
+"wiki_text": "Safran S.A. (French pronunciation: [safʁɑ̃]) is a French multinational aerospace, defence and security corporation headquartered in Paris. It designs, develops and manufactures both commercial and military aircraft engines; launch vehicle, spacecraft and missile propulsion systems; as well as various other aerospace and military equipment and devices. \nSafran was founded in 2005 through a merger between the aerospace engine manufacturer SNECMA and the electronics specialist SAGEM. The subsequent acquisition of Zodiac Aerospace by the company in 2018 significantly expanded its aeronautical activities.\nSafran is a sprawling enterprise with various subsidiaries and employs over 92,000 people worldwide. The company is listed on the Euronext stock exchange and is part of the CAC 40 and Euro Stoxx 50."
 },
 {
 "id": "V389",
@@ -4276,7 +4664,8 @@ const SAMPLE = [
 "founded": "1967",
 "parents": "",
 "website": "http://www.afsr.se/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V390",
@@ -4287,7 +4676,8 @@ const SAMPLE = [
 "founded": "2008",
 "parents": "",
 "website": "http://www.pharmecosse.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V391",
@@ -4298,7 +4688,8 @@ const SAMPLE = [
 "founded": "2019",
 "parents": "",
 "website": "https://www.kokanduni.uz",
-"wikipedia": "https://uz.wikipedia.org/wiki/Qo%CA%BBqon_universiteti"
+"wikipedia": "https://uz.wikipedia.org/wiki/Qo%CA%BBqon_universiteti",
+"wiki_text": "Qoʻqon universiteti – Fargʻona viloyatining Qoʻqon shahridagi va Oʻzbekistondagi birinchi nodavlat universiteti Universitet shahar markazida joylashgan. Qoʻqon universiteti Oʻzbekiston Respublikasi Vazirlar Mahkamasining 2019-yil 17-avgustdagi 683-son „Qoʻqon universitetini tashkil etish toʻgʻrisida“ qarori bilan tashkil etilgan.\nUniversitetda Oʻzbekistonning barcha viloyatlaridan – 12 viloyat, Qoraqalpogʻiston Respublikasi va Toshkent shahridan talabalar tahsil olishadi."
 },
 {
 "id": "V392",
@@ -4309,7 +4700,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://www.thbatti.health.gov.lk/",
-"wikipedia": "https://en.wikipedia.org/wiki/Batticaloa_Teaching_Hospital"
+"wikipedia": "https://en.wikipedia.org/wiki/Batticaloa_Teaching_Hospital",
+"wiki_text": "Batticaloa Teaching Hospital is a government hospital in Batticaloa, Sri Lanka. It is the leading hospital in the Eastern Province and is controlled by the central government in Colombo. The hospital is the only teaching hospital in the Eastern Province.  The hospital is the main clinical teaching facility for the faculty of health care sciences of Eastern University. As of 2010 it had 900 beds."
 },
 {
 "id": "V393",
@@ -4320,7 +4712,8 @@ const SAMPLE = [
 "founded": "1943",
 "parents": "",
 "website": "http://www.vui.fsin.su/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V394",
@@ -4331,7 +4724,8 @@ const SAMPLE = [
 "founded": "1931",
 "parents": "",
 "website": "http://www.ma.cfuv.ru/page/show/docid/5047",
-"wikipedia": "https://en.wikipedia.org/wiki/Medical_Academy_named_after_S.I._Georgievsky_of_Vernadsky_CFU"
+"wikipedia": "https://en.wikipedia.org/wiki/Medical_Academy_named_after_S.I._Georgievsky_of_Vernadsky_CFU",
+"wiki_text": "The S. I. Georgievsky Crimean State Medical University (Ukrainian: Кримський державний медичний університет ім. С. І. Георгієвського; Crimean Tatar: Qırım Devlet Üniversitesi S. Georgiyevski) was a medical university situated in Simferopol, Crimea. It was one of the most prominent medical schools in Ukraine. Following the 2014 annexation of Crimea by Russia, the medical school was merged with the Russian controlled Crimean Federal University in 2014.\nThe university had 6 faculties and 54 departments. As of 2009, 4700 students were studying there, among them approximately 1700 were foreign students. The university was decorated with Order of the Red Banner of Labour (1981) and was certified by the International Education Society as AA-level high school, giving its priority under top 1000 medical university around the world."
 },
 {
 "id": "V395",
@@ -4342,7 +4736,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://behrc.ir/en/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V396",
@@ -4353,7 +4748,8 @@ const SAMPLE = [
 "founded": "1866",
 "parents": "VA Healthcare System Serving Ohio, Indiana and Michigan",
 "website": "https://www.saginaw.va.gov/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V397",
@@ -4364,7 +4760,8 @@ const SAMPLE = [
 "founded": "2015",
 "parents": "",
 "website": "https://es.catapult.org.uk/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V398",
@@ -4375,7 +4772,8 @@ const SAMPLE = [
 "founded": "1898",
 "parents": "",
 "website": "https://www.depaul.edu/Pages/default.aspx",
-"wikipedia": "http://en.wikipedia.org/wiki/DePaul_University"
+"wikipedia": "http://en.wikipedia.org/wiki/DePaul_University",
+"wiki_text": "DePaul University is a private Catholic research university in Chicago, Illinois, United States. Founded by the Vincentians in 1898, the university takes its name from the 17th-century French priest Saint Vincent de Paul. In 1998, it became the largest Catholic university in terms of enrollment in North America. DePaul is classified among \"R2: Doctoral Universities – High research activity\" and has two campuses; one located in Lincoln Park and one in the Loop.\nFollowing in the footsteps of its founders, DePaul places special emphasis on recruiting first-generation students and others from disadvantaged backgrounds. The university enrolls around 14,500 undergraduates and about 7,900 graduate/law students. In 2017, about 90% of DePaul's students commuted or lived off campus. The student body represents a wide array of religious, ethnic, and geographic backgrounds, including over 118 foreign countries.\nDePaul's intercollegiate athletic teams, known as the DePaul Blue Demons, compete in the Big East Conference. DePaul's men's basketball team has made 18 NCAA tournament appearances and appeared in two Final Fours. DePaul's softball team in 2019 had their third consecutive Big East Tournament title and 21st NCAA Tournament appearance in program history under head coach Tracie Adix-Zins."
 },
 {
 "id": "V399",
@@ -4386,7 +4784,8 @@ const SAMPLE = [
 "founded": "1950",
 "parents": "",
 "website": "https://www.psa.ac.uk/",
-"wikipedia": "https://en.wikipedia.org/wiki/Political_Studies_Association"
+"wikipedia": "https://en.wikipedia.org/wiki/Political_Studies_Association",
+"wiki_text": "The Political Studies Association (PSA) is a learned society in the United Kingdom which exists to develop and promote the study of politics. It is the leading association in its field in the United Kingdom, with an international membership including academics in political science and current affairs, theorists and practitioners, policy makers, researchers and students in higher education.\nThe PSA was founded in 1950, following the establishment of the International Political Science Association in 1949, and was initially supported by a grant from UNESCO.\nThe PSA has a network of over fifty \"Specialist Groups\" that provide a research focus for members and receive support from the PSA."
 },
 {
 "id": "V400",
@@ -4397,7 +4796,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "Oracle (United States)",
 "website": "https://www.oracle.com/pt/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V401",
@@ -4408,7 +4808,8 @@ const SAMPLE = [
 "founded": "2010",
 "parents": "",
 "website": "http://implandata.com/en",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V402",
@@ -4419,7 +4820,8 @@ const SAMPLE = [
 "founded": "1990",
 "parents": "Ministerio de Salud Pública y Bienestar Social",
 "website": "https://www.hospitalnacional.gov.py",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V403",
@@ -4430,7 +4832,8 @@ const SAMPLE = [
 "founded": "1992",
 "parents": "",
 "website": "https://www.nbb.org/",
-"wikipedia": "https://en.wikipedia.org/wiki/National_Biodiesel_Board"
+"wikipedia": "https://en.wikipedia.org/wiki/National_Biodiesel_Board",
+"wiki_text": "Clean Fuels Alliance America (CFAA), formerly known as the National Biodiesel Board, is an American commercial trade association representing the biodiesel industry as the unifying and coordinating body for research and development in the United States. Its mission is to advance the interests of members by creating sustainable biodiesel industry growth. CFAA works to remove barriers to the industry and educate the public about biodiesel. It offers regulatory, technical, communications, education, and petroleum outreach programs.\nBiodiesel is a fuel composed of mono-alkyl esters of long-chain fatty acids derived from vegetable oils or animal fats, designated B100, and meeting the requirements of American Society for Testing and Materials (ASTM International) D6751."
 },
 {
 "id": "V404",
@@ -4441,7 +4844,8 @@ const SAMPLE = [
 "founded": "2018",
 "parents": "Université de Tours",
 "website": "https://gicc.cnrs.univ-tours.fr/version-francaise/equipes/lnoxbrniche-leucemique-et-metabolisme-redox",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V405",
@@ -4452,7 +4856,8 @@ const SAMPLE = [
 "founded": "1993",
 "parents": "",
 "website": "https://www.jimmyv.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V406",
@@ -4463,7 +4868,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://www.rilg.or.jp",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V407",
@@ -4474,7 +4880,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "University of Lisbon",
 "website": "http://rnem.fc.ul.pt",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V408",
@@ -4485,7 +4892,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "University of Lisbon",
 "website": "https://in3.dem.ist.utl.pt",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V409",
@@ -4496,7 +4904,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://www.aimphotonics.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V410",
@@ -4507,7 +4916,8 @@ const SAMPLE = [
 "founded": "1996",
 "parents": "",
 "website": "https://www.hisi.ie/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V411",
@@ -4518,7 +4928,8 @@ const SAMPLE = [
 "founded": "1975",
 "parents": "",
 "website": "http://www.chmcorts.com/website/listEntitat.asp",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V412",
@@ -4529,7 +4940,8 @@ const SAMPLE = [
 "founded": "1999",
 "parents": "",
 "website": "http://srmu.ac.in/",
-"wikipedia": "https://en.wikipedia.org/wiki/Shri_Ramswaroop_Memorial_University"
+"wikipedia": "https://en.wikipedia.org/wiki/Shri_Ramswaroop_Memorial_University",
+"wiki_text": "Shri Ramswaroop Memorial University (SRMU) is a private university established under the Uttar Pradesh Private Universities Act, located on Lucknow-Deva Road, Barabanki, Uttar Pradesh, India. As of 2026, the university enrols more than 10,000 students across 100+ academic programmes.\nThe university was established in 2012 under UP State Govt. ACT 1. It holds recognition from the University Grants Commission (UGC) and the All India Council of Technical Education (AICTE). SRMU is a member of the Association of Indian Universities (AIU). It offers courses approved by the Council of Architecture (COI), National Council for Teacher Education (NCTE), Pharmacy Council of India (PCI), and Bar Council of India (BCI)."
 },
 {
 "id": "V413",
@@ -4540,7 +4952,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://www.bastionprotects.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V414",
@@ -4551,7 +4964,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "Haier Group (China)",
 "website": "",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V415",
@@ -4562,7 +4976,8 @@ const SAMPLE = [
 "founded": "1968",
 "parents": "Government of Quebec",
 "website": "http://www.immigration-quebec.gouv.qc.ca/en/home.html",
-"wikipedia": "https://en.wikipedia.org/wiki/Ministry_of_Immigration,_Diversity_and_Inclusion"
+"wikipedia": "https://en.wikipedia.org/wiki/Ministry_of_Immigration,_Diversity_and_Inclusion",
+"wiki_text": "The Ministry of Immigration, Francisation and Integration (French: Ministère de l'Immigration, de la Francisation et de l'Intégration) is a government department in Quebec responsible for immigration, francisation, and integration in the province. Accordingly, it provides a variety of programs for immigrants and immigrant communities in the province.\nJurisdiction in matters of immigration in Quebec is shared with the Canadian government, in accordance to the Constitution Act, 1867 (article 95) and the 1991 Canada–Québec Accord relating to Immigration and Temporary Admission of Aliens. The federal government pays financial compensation to Quebec in order to ensure the reception and integration of immigrants.\nThe department was previously known as the Ministry of Immigration, Diversity, and Inclusion (Ministère de l’Immigration, de la Diversité et de l’Inclusion)."
 },
 {
 "id": "V416",
@@ -4573,7 +4988,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://ippmed.de/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V417",
@@ -4584,7 +5000,8 @@ const SAMPLE = [
 "founded": "2008",
 "parents": "Medical Research Council; University College London",
 "website": "https://www.ucl.ac.uk/cardiovascular/research/population-science-and-experimental-medicine/mrc-unit-lifelong-health-and-ageing-ucl",
-"wikipedia": "http://en.wikipedia.org/wiki/National_Survey_of_Health_%26_Development"
+"wikipedia": "http://en.wikipedia.org/wiki/National_Survey_of_Health_%26_Development",
+"wiki_text": "The National Survey of Health & Development is a Medical Research Council (MRC) longitudinal survey of people born in Britain in March 1946. It is \"the longest continually running major birth cohort study in the world and is one of the longest-running studies of human development. \""
 },
 {
 "id": "V418",
@@ -4595,7 +5012,8 @@ const SAMPLE = [
 "founded": "1995",
 "parents": "KU Leuven; Vlaams Instituut voor Biotechnologie",
 "website": "https://cbd.vib.be/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V419",
@@ -4606,7 +5024,8 @@ const SAMPLE = [
 "founded": "1958",
 "parents": "",
 "website": "https://www.wnmc.edu.cn",
-"wikipedia": "https://en.wikipedia.org/wiki/Wannan_Medical_College"
+"wikipedia": "https://en.wikipedia.org/wiki/Wannan_Medical_College",
+"wiki_text": "Wannan Medical College (Chinese: 皖南医学院; pinyin: Wǎnnán Yīxuéyuàn) is provincial public medical college in Wuhu, Anhui, China. It is affiliated with the Anhui Provincial Government."
 },
 {
 "id": "V420",
@@ -4617,7 +5036,8 @@ const SAMPLE = [
 "founded": "1931",
 "parents": "",
 "website": "https://www.ttk.gov.tr",
-"wikipedia": "https://tr.wikipedia.org/wiki/T%C3%BCrk_Tarih_Kurumu"
+"wikipedia": "https://tr.wikipedia.org/wiki/T%C3%BCrk_Tarih_Kurumu",
+"wiki_text": "Türk Tarih Kurumu (kısaca TTK), Türk tarihinin ilk kaynaklardan araştırılması amacı ile Mustafa Kemal Atatürk'ün direktifi sonucu 15 Nisan 1931'de kurulmuş bir araştırma kurumudur. 664 Sayılı Kanun Hükmünde Kararname ile Türk Tarih Kurumu ayrı bir kamu tüzel kişiliğe sahip olup 1983 yılında kurulan Atatürk Kültür, Dil ve Tarih Yüksek Kurumunun denetim ve gözetimine bağlanmıştır."
 },
 {
 "id": "V421",
@@ -4628,7 +5048,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://watercampus.nl/en/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V422",
@@ -4639,7 +5060,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V423",
@@ -4650,7 +5072,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://www.yangmedicine.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V424",
@@ -4661,7 +5084,8 @@ const SAMPLE = [
 "founded": "2008",
 "parents": "",
 "website": "https://www.imibic.org",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V425",
@@ -4672,7 +5096,8 @@ const SAMPLE = [
 "founded": "1970",
 "parents": "",
 "website": "http://secihti.mx",
-"wikipedia": "https://en.wikipedia.org/wiki/Consejo_Nacional_de_Ciencia_y_Tecnolog%C3%ADa_(Mexico)"
+"wikipedia": "https://en.wikipedia.org/wiki/Consejo_Nacional_de_Ciencia_y_Tecnolog%C3%ADa_(Mexico)",
+"wiki_text": "The Consejo Nacional de Humanidades, Ciencias, y Tecnologías (Spanish for National Council of Humanities, Sciences, and Technologies; abbreviated CONAHCYT) was Mexico's entity in charge for the promotion of science and technology from 1970 to 2024. As a federal agency of Mexico, it was responsible for setting government policies on research and technological development, establishing public research centers, and funding scientific laboratories, research projects and postgraduate studies. In 2025, President Claudia Sheinbaum promoted the agency to the level of secretariat (i.e. ministry or department): the Secretaría de Ciencia, Humanidades, Tecnología e Innovación."
 },
 {
 "id": "V426",
@@ -4683,7 +5108,8 @@ const SAMPLE = [
 "founded": "2001",
 "parents": "",
 "website": "http://meriteollisuus.teknologiateollisuus.fi/en",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V427",
@@ -4694,7 +5120,8 @@ const SAMPLE = [
 "founded": "1974",
 "parents": "",
 "website": "http://www.funceme.br/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V428",
@@ -4705,7 +5132,8 @@ const SAMPLE = [
 "founded": "2012",
 "parents": "Université de Tours",
 "website": "https://cethis.hypotheses.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V429",
@@ -4716,7 +5144,8 @@ const SAMPLE = [
 "founded": "1908",
 "parents": "",
 "website": "https://www.beppu-u.ac.jp/",
-"wikipedia": "https://en.wikipedia.org/wiki/Beppu_University"
+"wikipedia": "https://en.wikipedia.org/wiki/Beppu_University",
+"wiki_text": "Beppu University (別府大学, Beppu daigaku) is a private university in Ōita Prefecture, Japan. It has campuses at the cities of Beppu and Ōita.\nThe predecessor of the school was founded in 1908, and it was chartered as a university in 1954."
 },
 {
 "id": "V430",
@@ -4727,7 +5156,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://www.sccgov.org/sites/probation/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V431",
@@ -4738,7 +5168,8 @@ const SAMPLE = [
 "founded": "1976",
 "parents": "",
 "website": "http://www.carl-abrc.ca/en/",
-"wikipedia": "https://en.wikipedia.org/wiki/Canadian_Association_of_Research_Libraries"
+"wikipedia": "https://en.wikipedia.org/wiki/Canadian_Association_of_Research_Libraries",
+"wiki_text": "The Canadian Association of Research Libraries (CARL) was established in 1976 and brings together thirty-one research libraries. Twenty-nine members are university libraries, plus Library and Archives Canada (LAC) and the National Research Council Canada National Science Library (NSL)."
 },
 {
 "id": "V432",
@@ -4749,7 +5180,8 @@ const SAMPLE = [
 "founded": "2008",
 "parents": "Fraunhofer-Gesellschaft",
 "website": "http://www.fraunhofer.at/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V433",
@@ -4760,7 +5192,8 @@ const SAMPLE = [
 "founded": "2012",
 "parents": "Aix-Marseille Université; Inserm; Institut de Recherche pour le Développement; Institut des Sciences Biologiques",
 "website": "https://www.ird.fr/la-recherche/liste-des-unites-de-recherche/198-unite-de-recherche-sur-les-maladies-infectieuses-et-tropicales-emergentes",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V434",
@@ -4771,7 +5204,8 @@ const SAMPLE = [
 "founded": "2003",
 "parents": "Université Jean Moulin Lyon III",
 "website": "https://elj.univ-lyon3.fr",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V435",
@@ -4782,7 +5216,8 @@ const SAMPLE = [
 "founded": "1981",
 "parents": "",
 "website": "https://www.gob.pe/iiap",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V436",
@@ -4793,7 +5228,8 @@ const SAMPLE = [
 "founded": "2012",
 "parents": "Université Marie et Louis Pasteur",
 "website": "http://elliadd.univ-fcomte.fr",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V437",
@@ -4804,7 +5240,8 @@ const SAMPLE = [
 "founded": "1996",
 "parents": "",
 "website": "http://www.questri.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V438",
@@ -4815,7 +5252,8 @@ const SAMPLE = [
 "founded": "2002",
 "parents": "",
 "website": "http://www.smaltec.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V439",
@@ -4826,7 +5264,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "Kaiser Permanente",
 "website": "https://thrive.kaiserpermanente.org/care-near-you/northern-california/sanfrancisco/#",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V440",
@@ -4837,7 +5276,8 @@ const SAMPLE = [
 "founded": "1898",
 "parents": "",
 "website": "http://redhooklibrary.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V441",
@@ -4848,7 +5288,8 @@ const SAMPLE = [
 "founded": "1958",
 "parents": "",
 "website": "http://www.sclky.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V442",
@@ -4859,7 +5300,8 @@ const SAMPLE = [
 "founded": "1951",
 "parents": "",
 "website": "https://www.ccit.edu.cn",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V443",
@@ -4870,7 +5312,8 @@ const SAMPLE = [
 "founded": "1994",
 "parents": "",
 "website": "http://www.lifespan.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V444",
@@ -4881,7 +5324,8 @@ const SAMPLE = [
 "founded": "1993",
 "parents": "",
 "website": "https://www.cibhs.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V445",
@@ -4892,7 +5336,8 @@ const SAMPLE = [
 "founded": "1952",
 "parents": "",
 "website": "https://www.imnu.edu.cn",
-"wikipedia": "http://en.wikipedia.org/wiki/Inner_Mongolia_Normal_University"
+"wikipedia": "http://en.wikipedia.org/wiki/Inner_Mongolia_Normal_University",
+"wiki_text": "Inner Mongolia Normal University (Chinese: 内蒙古师范大学, Mongolian: ᠥᠪᠥᠷᠮᠣᠩᠭᠣᠯ‍ᠤᠨᠪᠠᠭᠰᠢ‍ᠶᠢᠨᠶᠡᠬᠡᠰᠤᠷᠭᠠᠭᠤᠯᠢ) is a university in Inner Mongolia, People's Republic of China under the authority of the Autonomous Region government. It is located in Hohhot, the capital city of Inner Mongolia Autonomous Region.\nEstablished in 1952, it is the first university established in Inner Mongolia after the foundation of the People's Republic of China in 1949. It was later made a \"key university\" (重点大学) in Inner Mongolia."
 },
 {
 "id": "V446",
@@ -4903,7 +5348,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "BC Children's Hospital",
 "website": "https://bcchr.ca",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V447",
@@ -4914,7 +5360,8 @@ const SAMPLE = [
 "founded": "1949",
 "parents": "",
 "website": "https://www.keele.ac.uk",
-"wikipedia": "http://en.wikipedia.org/wiki/University_of_Keele"
+"wikipedia": "http://en.wikipedia.org/wiki/University_of_Keele",
+"wiki_text": "Keele University is a public research university in Keele, Staffordshire, England. Originally established in 1949 as the University College of North Staffordshire, it received university status through a Royal Charter in 1962, becoming the University of Keele. The university pioneered the UK's dual honours degree system, offering students the chance to study two subjects together. It celebrated its 75th anniversary in 2024. \nKeele University is among the UK's largest campus universities, occupying 625-acre (253-hectare) of landscaped grounds that include woodlands, lakes, and the Grade II* listed Keele Hall. It also has one of the largest collections of flowering cherry trees in Europe, for which it received an award from the Japanese Ambassador to the UK.\nSituated on the university campus, the Keele University Science and Innovation Park is home to more than 60 companies and approximately 1,000 employees, from start-ups to global multinationals including Michelin. \nWith three faculties and 12 schools, Keele offers undergraduate and postgraduate courses to a student population of more than 15,000. It achieved the highest rating of Gold in the Teaching Excellence Framework 2017 and 2023, and is of a handful of universities in the UK to have both medical and veterinary schools.\nIn September 2025, Keele officially opened a new European campus in Athens, Greece, after becoming one of the first four foreign universities authorised to establish a University Legal Entity in Greece ..."
 },
 {
 "id": "V448",
@@ -4925,7 +5372,8 @@ const SAMPLE = [
 "founded": "1994",
 "parents": "National Research Council of Science and Technology",
 "website": "https://kiom.re.kr",
-"wikipedia": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%ED%95%9C%EC%9D%98%ED%95%99%EC%97%B0%EA%B5%AC%EC%9B%90"
+"wikipedia": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%ED%95%9C%EC%9D%98%ED%95%99%EC%97%B0%EA%B5%AC%EC%9B%90",
+"wiki_text": "한국한의학연구원(韓國韓醫學硏究院, Korea Institute of Oriental Medicine, KIOM)은 한국 전통의학인 한의학 분야의 국가연구개발 허브로서, 전문적·체계적인 융복합 연구를 통해 한의학의 과학화, 표준화, 세계화를 선도하는, 과학기술정보통신부 산하 정부출연연구기관이다. 소재지는 대전광역시 유성구 유성대로 1672 (전민동 461-24번지)이다."
 },
 {
 "id": "V449",
@@ -4936,7 +5384,8 @@ const SAMPLE = [
 "founded": "1933",
 "parents": "",
 "website": "https://www.karen-horney-institut.de/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V450",
@@ -4947,7 +5396,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://sleeptoliveinstitute.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V451",
@@ -4958,7 +5408,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://www.cm-tondela.pt",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V452",
@@ -4969,7 +5420,8 @@ const SAMPLE = [
 "founded": "1337",
 "parents": "",
 "website": "http://chmc.tums.ac.ir/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V453",
@@ -4980,7 +5432,8 @@ const SAMPLE = [
 "founded": "1992",
 "parents": "Department of Energy, Engineering, Mechanics and Control Processes; Ural Branch of the Russian Academy of Sciences",
 "website": "http://www.iie.uran.ru/index.php/en",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V454",
@@ -4991,7 +5444,8 @@ const SAMPLE = [
 "founded": "1990",
 "parents": "",
 "website": "http://eng.zivot90.cz/#",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V455",
@@ -5002,7 +5456,8 @@ const SAMPLE = [
 "founded": "1988",
 "parents": "",
 "website": "https://www.ajman.ac.ae",
-"wikipedia": "https://en.wikipedia.org/wiki/Ajman_University_of_Science_and_Technology"
+"wikipedia": "https://en.wikipedia.org/wiki/Ajman_University_of_Science_and_Technology",
+"wiki_text": "Ajman University (Arabic: جامعة عجمان) was established on 17 June 1988 as the first private university in the Gulf Cooperation Council. It was the first university in the United Arab Emirates to admit expatriate students under the institutional name \"Ajman University College of Science and Technology,\" which was subsequently renamed \"Ajman University of Science and Technology\". In 2018, it was again renamed to \"Ajman University\".\nAjman University is located in the Al Jurf area, close to Khalifa Hospital in Ajman. It is a comprehensive, traditional university offering a wide range of academic disciplines, including a fully accredited College of Medicine and College of Law. The 215,000 m2 (2.31-million ft2) campus has sports facilities (football, basketball, track and field, swimming), a gymnasium, a bookstore, health unit, restaurants, and mosques. Its standard academic year is divided into the fall (August) and spring (January) semesters; it also has one summer semester (June).\nAjman University was ranked among the top 30 universities (#17) in the Arab world, and is ranked #6 in the UAE according to the 2026 QS University rankings.\nAjman University was ranked (#397) among the top 400 universities in the world.\nAjman University is accredited by the Commission for Academic Accreditation (CAA), the UAE Federal Government's quality assurance agency for higher education."
 },
 {
 "id": "V456",
@@ -5013,7 +5468,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://www.tulln.lknoe.at/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V457",
@@ -5024,7 +5480,8 @@ const SAMPLE = [
 "founded": "1977",
 "parents": "Program for Appropriate Technology in Health",
 "website": "https://www.path.org/",
-"wikipedia": "https://en.wikipedia.org/wiki/PATH_(global_health_organization)"
+"wikipedia": "https://en.wikipedia.org/wiki/PATH_(global_health_organization)",
+"wiki_text": "PATH (formerly known as the Program for Appropriate Technology in Health) is an international, nonprofit global health organization. PATH is based in Seattle with 1,600 employees in more than 70 countries around the world. Its president and CEO is Nikolaj Gilbert, who is also the Managing Director and CEO of Foundations for Appropriate Technologies in Health (FATH), PATH's Swiss subsidiary. PATH focuses on six platforms: vaccines, drugs, diagnostics, devices, system, and service innovations."
 },
 {
 "id": "V458",
@@ -5035,7 +5492,8 @@ const SAMPLE = [
 "founded": "1967",
 "parents": "",
 "website": "http://www.psgb.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V459",
@@ -5046,7 +5504,8 @@ const SAMPLE = [
 "founded": "1958",
 "parents": "",
 "website": "http://www2.fpg.com.tw/index_eng.asp",
-"wikipedia": "https://en.wikipedia.org/wiki/Formosa_Plastics_Group"
+"wikipedia": "https://en.wikipedia.org/wiki/Formosa_Plastics_Group",
+"wiki_text": "Formosa Plastics Group (FPG, Chinese: 臺塑企業; pinyin: TáiSù QìYè) is a titular Taiwanese conglomerate of diverse interests, including biotechnology, petrochemical processing and production of electronics components.  The group was founded by Wang Yung-ching and his brother Wang Yung-tsai, and is chaired by Wong Wen-yuan. Despite its name, its holdings include several companies prominent in the high tech electronics sector, including VIA Technologies and Nanya Technology Corporation."
 },
 {
 "id": "V460",
@@ -5057,7 +5516,8 @@ const SAMPLE = [
 "founded": "1998",
 "parents": "",
 "website": "http://www.e-unlimited.com/home/home-public.aspx",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V461",
@@ -5068,7 +5528,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://www.mog-technologies.com",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V462",
@@ -5079,7 +5540,8 @@ const SAMPLE = [
 "founded": "1965",
 "parents": "European Association for the Study of Diabetes",
 "website": "http://www.europeandiabetesfoundation.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V463",
@@ -5090,7 +5552,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://lehrkraefteakademie.hessen.de/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V464",
@@ -5101,7 +5564,8 @@ const SAMPLE = [
 "founded": "1999",
 "parents": "",
 "website": "http://www.agendeguarulhos.org.br/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V465",
@@ -5112,7 +5576,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "Istituto Nazionale di Fisica Nucleare, Sezione di Trieste",
 "website": "",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V466",
@@ -5123,7 +5588,8 @@ const SAMPLE = [
 "founded": "1889",
 "parents": "",
 "website": "https://www.beethoven.de",
-"wikipedia": "https://en.wikipedia.org/wiki/Beethoven_House"
+"wikipedia": "https://en.wikipedia.org/wiki/Beethoven_House",
+"wiki_text": "The Beethoven House (German: Beethoven-Haus) in Bonn, Germany, is a memorial site, museum, and cultural institution serving various purposes. Founded in 1889 by the Beethoven-Haus association, it studies the life and work of composer Ludwig van Beethoven.\nThe centrepiece of the Beethoven-Haus is Beethoven's birthplace at Bonngasse 20. This building houses the museum. The neighbouring buildings (Bonngasse 18 and 24 to 26) accommodate a research centre (Beethoven archive) comprising a collection, a library and publishing house, and a chamber music hall. Here, music lovers and experts from all over the world can meet and share their ideas. The Beethoven-Haus is financed by the Beethoven-Haus association and by means of public funds."
 },
 {
 "id": "V467",
@@ -5134,7 +5600,8 @@ const SAMPLE = [
 "founded": "1948",
 "parents": "",
 "website": "http://en.cqyygz.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V468",
@@ -5145,7 +5612,8 @@ const SAMPLE = [
 "founded": "1922",
 "parents": "",
 "website": "http://gtu.ge/Eng/",
-"wikipedia": "http://en.wikipedia.org/wiki/Georgian_Technical_University"
+"wikipedia": "http://en.wikipedia.org/wiki/Georgian_Technical_University",
+"wiki_text": "Georgian Technical University (GTU, formerly V.I. Lenin Georgian Polytechnical Institute) is the main and largest technical university of Georgia. It is located in the capital city of Tbilisi."
 },
 {
 "id": "V469",
@@ -5156,7 +5624,8 @@ const SAMPLE = [
 "founded": "1977",
 "parents": "",
 "website": "http://xn--80apgmbdfl.xn--p1ai/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V470",
@@ -5167,7 +5636,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://www.anzu.or.jp/kamibayashikinen/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V471",
@@ -5178,7 +5648,8 @@ const SAMPLE = [
 "founded": "1979",
 "parents": "",
 "website": "http://www.alexanderdiscipline.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V472",
@@ -5189,7 +5660,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://www.sensorelectronics.com/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V473",
@@ -5200,7 +5672,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "Siberian Branch of the Russian Academy of Sciences",
 "website": "http://www.sibniiesh.sorashn.ru/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V474",
@@ -5211,7 +5684,8 @@ const SAMPLE = [
 "founded": "1955",
 "parents": "",
 "website": "http://www.ecdoh.gov.za/hospitals/47/Canzibe_Hospital",
-"wikipedia": "https://en.wikipedia.org/wiki/Canzibe_Hospital"
+"wikipedia": "https://en.wikipedia.org/wiki/Canzibe_Hospital",
+"wiki_text": "Canzibe Hospital is a Provincial government funded hospital in Canzibe, Eastern Cape in South Africa.\nThe hospital departments include Emergency department, Paediatric ward, Maternity ward, Gynaecology Services, Out Patients Department, Surgical Services, Medical Services, Operating Theatre & CSSD Services, Pharmacy, Anti-Retroviral (ARV) treatment for HIV/AIDS, Post Trauma Counseling Services, Physiotherapy, Occupational Services, Laboratory Services, X-ray Services, Laundry Services and Kitchen Services."
 },
 {
 "id": "V475",
@@ -5222,7 +5696,8 @@ const SAMPLE = [
 "founded": "1905",
 "parents": "Secretaria de Salud",
 "website": "http://www.hgm.salud.gob.mx/",
-"wikipedia": "https://en.wikipedia.org/wiki/General_Hospital_of_Mexico"
+"wikipedia": "https://en.wikipedia.org/wiki/General_Hospital_of_Mexico",
+"wiki_text": "The General Hospital of Mexico (Hospital General de México, HGM) is a hospital in Mexico City, operated by the Secretariat of Health, the federal government department in charge of all social health services in Mexico."
 },
 {
 "id": "V476",
@@ -5233,7 +5708,8 @@ const SAMPLE = [
 "founded": "1951",
 "parents": "Ministry of Education",
 "website": "https://www.gov.br/capes/",
-"wikipedia": "https://en.wikipedia.org/wiki/Coordena%C3%A7%C3%A3o_de_Aperfeicoamento_de_Pessoal_de_N%C3%ADvel_Superior"
+"wikipedia": "https://en.wikipedia.org/wiki/Coordena%C3%A7%C3%A3o_de_Aperfeicoamento_de_Pessoal_de_N%C3%ADvel_Superior",
+"wiki_text": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), or  Brazilian Federal Agency for Support and Evaluation of Graduate Education, also known as CAPES Foundation, is a Brazilian federal government agency under the Ministry of Education, responsible for quality assurance in undergraduate and postgraduate institutions in Brazil.\nThe agency evaluates educational establishments every two years, and grades them according to the quality of the courses provided. Scores range from 1 to 7, where 1 is the lowest — the maximum that an institution offering up to a master's degree will gain is 5, whereas an institution offering a doctorate will gain up to A 7.\nIn 2007 it started offering the CAPES Elsevier Award to recognise outstanding scientists, with the award being restricted to women from 2013, to encourage more women to pursue scientific careers. Several awards were awarded each year, as of 2014."
 },
 {
 "id": "V477",
@@ -5244,7 +5720,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://spacecoastedc.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V478",
@@ -5255,7 +5732,8 @@ const SAMPLE = [
 "founded": "1998",
 "parents": "",
 "website": "http://www.cureepilepsy.org/",
-"wikipedia": "https://en.wikipedia.org/wiki/Citizens_United_for_Research_in_Epilepsy"
+"wikipedia": "https://en.wikipedia.org/wiki/Citizens_United_for_Research_in_Epilepsy",
+"wiki_text": "Citizens United for Research in Epilepsy (CURE Epilepsy) is a parent-founded, research-focused nonprofit committed to finding a cure for epilepsy. It was founded in 1998. It is based in Chicago, Illinois. \nCURE Epilepsy invests in foundational science research to expand the understanding of the underlying mechanisms of epilepsy, with the end goal being the discovery of a cure. CURE Epilepsy has raised more than $100 million and funded over 300 epilepsy research projects.  \nResearch funded by the organization has led to breakthroughs in the genetic diagnosis of epilepsy, potential treatments for infantile spasms, and a greater understanding of how to prevent sudden death in epilepsy, among other advances."
 },
 {
 "id": "V479",
@@ -5266,7 +5744,8 @@ const SAMPLE = [
 "founded": "2008",
 "parents": "",
 "website": "https://www.fondazioneprocacci.org",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V480",
@@ -5277,7 +5756,8 @@ const SAMPLE = [
 "founded": "1997",
 "parents": "",
 "website": "https://consbio.org",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V481",
@@ -5288,7 +5768,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "http://www.boushahrigroup.com/index.php/hmss/about-bc-2",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V482",
@@ -5299,7 +5780,8 @@ const SAMPLE = [
 "founded": "1970",
 "parents": "",
 "website": "http://www.uniben.edu/",
-"wikipedia": "http://en.wikipedia.org/wiki/University_of_Benin_(Nigeria)"
+"wikipedia": "http://en.wikipedia.org/wiki/University_of_Benin_(Nigeria)",
+"wiki_text": "The University of Benin (UNIBEN) is a public research university located in Benin City, Edo State, Nigeria. It is one of  the universities owned by the Federal Government of Nigeria and was founded in 1970. The school currently has two campuses with fifteen faculties and a central library called the John Harris Library. The buildings in UNIBEN are sparsely built, they are not close to each other.\nUNIBEN has a teaching hospital called the University of Benin Teaching Hospital (UBTH)."
 },
 {
 "id": "V483",
@@ -5310,7 +5792,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "https://spmicrobiologia.wordpress.com",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V484",
@@ -5321,7 +5804,8 @@ const SAMPLE = [
 "founded": "1950",
 "parents": "Chinese Academy of Social Sciences",
 "website": "http://www.kaogu.cn/en/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V485",
@@ -5332,7 +5816,8 @@ const SAMPLE = [
 "founded": "1890",
 "parents": "",
 "website": "http://www.wvwc.edu/",
-"wikipedia": "https://en.wikipedia.org/wiki/West_Virginia_Wesleyan_College"
+"wikipedia": "https://en.wikipedia.org/wiki/West_Virginia_Wesleyan_College",
+"wiki_text": "West Virginia Wesleyan College is a private college in Buckhannon, West Virginia, United States. It has an enrollment of about 1,055 students from 35 U.S. states and 26 countries. The school was founded in 1890 by the West Virginia Conference of the Methodist Episcopal Church and is currently affiliated with the United Methodist Church. West Virginia Wesleyan College is accredited by the Higher Learning Commission."
 },
 {
 "id": "V486",
@@ -5343,7 +5828,8 @@ const SAMPLE = [
 "founded": "1798",
 "parents": "United States Department of Defense",
 "website": "https://www.navy.mil",
-"wikipedia": "https://en.wikipedia.org/wiki/United_States_Department_of_the_Navy"
+"wikipedia": "https://en.wikipedia.org/wiki/United_States_Department_of_the_Navy",
+"wiki_text": "The United States Department of the Navy (DON) is one of the three military departments within the United States Department of Defense. It was established by an Act of Congress on 30 April 1798, at the urging of Secretary of War James McHenry, to provide a government organizational structure to the United States Navy (USN). From 1798 to 1834, the department additionally exercised de facto jurisdiction over the United States Marine Corps. Since 1834, the department has exercised de jure superintendence of the Marine Corps. Additionally, the department oversees any wartime jurisdiction of the United States Coast Guard (USCG). These branches remain at all times independent and coequal service branches within the DON or the Department of Homeland Security in the case of the Coast Guard during peacetime. It is led by the secretary of the Navy (SECNAV), a statutory civilian officer. \n\nThe Department of the Navy was an executive department, whose secretary served on the president's cabinet, until 1949, when amendments to the National Security Act of 1947 established the Department of Defense as a unified department for all military services; the DON, along with the Department of the Army and Department of the Air Force, became a component of the DoD, subject to the authority, direction and control of the secretary of defense.\nFrom 2001 to 2019, proposals to rename the Department of the Navy to the Department of the Navy and Marine Corps were introduced with wide support in the ..."
 },
 {
 "id": "V487",
@@ -5354,7 +5840,8 @@ const SAMPLE = [
 "founded": "1975",
 "parents": "",
 "website": "http://www.icrfonline.org/",
-"wikipedia": "https://en.wikipedia.org/wiki/Israel_Cancer_Research_Fund"
+"wikipedia": "https://en.wikipedia.org/wiki/Israel_Cancer_Research_Fund",
+"wiki_text": "The Israel Cancer Research Fund (ICRF) a cancer research fund founded in 1975 by a group of American and Canadian physicians, scientists, and laypeople. The ICRF was founded to prevent the permanent loss of Israel's cancer researchers to foreign universities due to the lack of funding in Israel for newly minted Ph. D.s, post-doctoral fellows and accomplished young scientists (a phenomenon known to many as Israel's \"brain drain\"). With chapters in New York, Los Angeles, Chicago, Toronto, Montreal, and Jerusalem, ICRF annually sponsors a grant review process conducted by an expert panel of U.S. and Canadian scientists and oncologists and modeled on the NIH grant-making process.\nAwards are granted directly to Israeli cancer researchers at all the leading academic and biomedical research centers throughout Israel. To date, the ICRF has funded more than $87 million in awards to Israeli cancer researchers via more than 2,700 fellowships, project grants, career development awards, and professorships. Grants have been provided to over 20 institutions including all major hospitals, universities, and cancer research projects throughout Israel. Breakthrough discoveries by ICRF-funded scientists have led to the development of Gleevec -used in the successful treatment of chronic myelogenous leukemia; Doxil - used in the treatment of breast & ovarian cancer as well as AIDS;  p53 – a key tumor suppressor; RAD 51 which identifies the likelihood of breast cancer occurring in women who carry ..."
 },
 {
 "id": "V488",
@@ -5365,7 +5852,8 @@ const SAMPLE = [
 "founded": "1929",
 "parents": "",
 "website": "https://www.cri.gov.lk/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V489",
@@ -5376,7 +5864,8 @@ const SAMPLE = [
 "founded": "1970",
 "parents": "",
 "website": "https://www.nmmesa.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V490",
@@ -5387,7 +5876,8 @@ const SAMPLE = [
 "founded": "1991",
 "parents": "",
 "website": "http://www.efanet.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V491",
@@ -5398,7 +5888,8 @@ const SAMPLE = [
 "founded": "1946",
 "parents": "",
 "website": "https://www.mi.niedersachsen.de/startseite/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V492",
@@ -5409,7 +5900,8 @@ const SAMPLE = [
 "founded": "1978",
 "parents": "State Council of the People's Republic of China",
 "website": "http://www.mca.gov.cn/",
-"wikipedia": "https://en.wikipedia.org/wiki/Ministry_of_Civil_Affairs"
+"wikipedia": "https://en.wikipedia.org/wiki/Ministry_of_Civil_Affairs",
+"wiki_text": "The Ministry of Civil Affairs (Chinese: 中华人民共和国民政部) is a cabinet-level executive department of the State Council of China responsible for social and administrative affairs. It is the 10th-ranked department in the State Council. It was founded in its current form in May 1978, and the current minister is Lu Zhiyuan.\nThe Ministry's main duties are to \"formulate development plans and policies for civil affairs; manage registration and monitor social groups, funds and private non-enterprise units; map out disaster response policies; organize and coordinate relief efforts; prepare social assistance plans, policies and standards; help with subsidies for urban and rural residents, medical and temporary assistance; formulate social welfare development plans, policies and standards; and develop policies related to marriage, burials and funerals.\"\nThe Ministry of Civil Affairs has overall responsibility for social assistance at the central level of government."
 },
 {
 "id": "V493",
@@ -5420,7 +5912,8 @@ const SAMPLE = [
 "founded": "2009",
 "parents": "",
 "website": "http://www.derasat.org.bh/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V494",
@@ -5431,7 +5924,8 @@ const SAMPLE = [
 "founded": "1962",
 "parents": "Indian Council of Agricultural Research",
 "website": "http://www.igfri.res.in/",
-"wikipedia": "https://en.wikipedia.org/wiki/Indian_Grassland_and_Fodder_Research_Institute"
+"wikipedia": "https://en.wikipedia.org/wiki/Indian_Grassland_and_Fodder_Research_Institute",
+"wiki_text": "IGFRI is a national institute under the administrative control of Indian Council of Agricultural Research, and is mandated to conduct basic, strategic and adaptive research on improvement, production and utilization of fodder crops and grasslands, coordination of research on forages and grasslands for enhancing productivity and quality for enhancing livestock productivity, and technology dissemination and human resource development."
 },
 {
 "id": "V495",
@@ -5442,7 +5936,8 @@ const SAMPLE = [
 "founded": "1971",
 "parents": "",
 "website": "http://www.homviora.de/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V496",
@@ -5453,7 +5948,8 @@ const SAMPLE = [
 "founded": "",
 "parents": "",
 "website": "",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V497",
@@ -5464,7 +5960,8 @@ const SAMPLE = [
 "founded": "1996",
 "parents": "",
 "website": "http://www.mteconline.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V498",
@@ -5475,7 +5972,8 @@ const SAMPLE = [
 "founded": "1977",
 "parents": "",
 "website": "https://www.capitalcaring.org/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 },
 {
 "id": "V499",
@@ -5486,7 +5984,8 @@ const SAMPLE = [
 "founded": "1995",
 "parents": "",
 "website": "http://www1.nyc.gov/site/acs/index.page",
-"wikipedia": "https://en.wikipedia.org/wiki/New_York_City_Administration_for_Children%27s_Services"
+"wikipedia": "https://en.wikipedia.org/wiki/New_York_City_Administration_for_Children%27s_Services",
+"wiki_text": "The New York City Administration for Children's Services (ACS) is a New York City government agency that handles child protective service and delinquency proceedings in New York City. ACS has been the subject of numerous civil rights lawsuits involving the wrongful removals and deaths of children as well as constitutional violations of both parents and children."
 },
 {
 "id": "V500",
@@ -5497,6 +5996,7 @@ const SAMPLE = [
 "founded": "1988",
 "parents": "",
 "website": "http://www.itech.fr/en/home/",
-"wikipedia": ""
+"wikipedia": "",
+"wiki_text": ""
 }
 ];
